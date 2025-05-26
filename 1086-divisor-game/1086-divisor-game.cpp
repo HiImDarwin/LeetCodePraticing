@@ -1,10 +1,7 @@
 class Solution {
 public:
     bool divisorGame(int n) {
-        if(n%2)
-        return false;
-        else
-        return true;
+        return n%2==0;
     }
     // bool divisorGame(int n) {
 
