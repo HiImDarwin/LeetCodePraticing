@@ -24,6 +24,7 @@ upload the code I write on leetcode
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -59,4 +60,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
