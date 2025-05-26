@@ -1,35 +1,41 @@
 class Solution {
 public:
     bool divisorGame(int n) {
-
-        vector<int> res(n+1);
-        res[1] = 0;
-        // Find the factors of each number
-        int index = 2;
-        while (index <= n) {
-            vector<int> factorSet = gotfector(index);
-            res[index] = 0;
-            for(int &x: factorSet) {
-                if(res[index-x]%2 == 0) {
-                    res[index] = res[index-x]+1;
-                    break;
-                }
-            }
-            index++;
-        }
-        return res[n]%2 == 0 ? false: true;
+        if(n%2)
+        return false;
+        else
+        return true;
     }
+    // bool divisorGame(int n) {
 
-    vector<int> gotfector(int n) {
-        vector<int> res{1};
-        for(int i=2; i*i <=n; i++) {
-            if (n%i==0) {
-                res.push_back(i);
-                if (i != n/i) res.push_back(n/i);
-            }
-        }
-        return res;
-    }
+    //     vector<int> res(n+1);
+    //     res[1] = 0;
+    //     // Find the factors of each number
+    //     int index = 2;
+    //     while (index <= n) {
+    //         vector<int> factorSet = gotfector(index);
+    //         res[index] = 0;
+    //         for(int &x: factorSet) {
+    //             if(res[index-x]%2 == 0) {
+    //                 res[index] = res[index-x]+1;
+    //                 break;
+    //             }
+    //         }
+    //         index++;
+    //     }
+    //     return res[n]%2 == 0 ? false: true;
+    // }
+
+    // vector<int> gotfector(int n) {
+    //     vector<int> res{1};
+    //     for(int i=2; i*i <=n; i++) {
+    //         if (n%i==0) {
+    //             res.push_back(i);
+    //             if (i != n/i) res.push_back(n/i);
+    //         }
+    //     }
+    //     return res;
+    // }
 };
 
         // every number have a best solution already
