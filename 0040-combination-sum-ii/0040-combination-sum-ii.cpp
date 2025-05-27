@@ -12,20 +12,13 @@ public:
         if(target == 0){
             res.push_back(subset);
             return;
-        } else if (target <0 || index == candidates.size()) {
-            return;
         }
-        if(forbid.count(candidates[index])) {
-            backtracking(candidates,target,index+1,res,subset);
-            return;  
+        for (int i = index; i<candidates.size(); i++) {
+            if(i>index && candidates[i] == candidates[i-1]) continue;
+            if(candidates[i]>target) break;
+            subset.push_back(candidates[i]);
+            backtracking(candidates,target - candidates[i],i+1,res,subset);
+            subset.pop_back();
         }
-        subset.push_back(candidates[index]);
-        backtracking(candidates,target-candidates[index],index+1,res,subset);
-        subset.pop_back();
-        forbid.insert(candidates[index]);
-        backtracking(candidates,target,index+1,res,subset);
-        forbid.erase(candidates[index]);
     }
-
-    unordered_set<int> forbid;
 };
