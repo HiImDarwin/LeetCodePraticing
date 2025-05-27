@@ -14,35 +14,13 @@ private:
             res.push_back(letters);
             return;
         }
-        int round;
-        char startChar;
-        switch (digits[index]) {
-            case '2':
-            case '3':
-            case '4':
-            case '5':
-            case '6':
-                round = 3;
-                startChar = 'a'+ (digits[index]-'2')*3;
-                break;
-            case '7':
-                round = 4;
-                startChar = 'p';
-                break;
-            case '8':
-                round = 3;
-                startChar = 't';
-                break;
-            case '9':
-                round = 4;
-                startChar = 'w';
-                break;
 
-        };
         letters.push_back(' ');
-        for(int i=0;i<round;i++) {
-            letters[index] = startChar+i;
+        for(const int &c : digitMap[digits[index]-'0']) {
+            letters[index] = c;
             backtracking(res, digits, index+1, letters);
         }
     }
+    const std::vector<std::string> digitMap = {
+		"", "", "abc", "def","ghi","jkl", "mno", "pqrs","tuv","wxyz"};
 };
