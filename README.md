@@ -48,6 +48,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
@@ -86,5 +87,10 @@ upload the code I write on leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
