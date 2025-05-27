@@ -13,6 +13,7 @@ public:
             res.push_back(subset);
             return;
         }
+        // this for is for deleting the duplicate start satuation(it's the key point)
         for (int i = index; i<candidates.size(); i++) {
             if(i>index && candidates[i] == candidates[i-1]) continue;
             if(candidates[i]>target) break;
