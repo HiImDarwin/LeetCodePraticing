@@ -45,6 +45,7 @@ upload the code I write on leetcode
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
@@ -76,4 +77,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
