@@ -8,14 +8,10 @@ public:
 
         while(stones.size()>1) {
             int fir = stones[0];
-            stones[0] = stones.back();
-            stones.pop_back();
-            adjustDown(stones,0);
+            removeRoot(stones);
             int sec  =  stones[0];
             if(fir == sec) {
-                stones[0] = stones.back();
-                stones.pop_back();
-                adjustDown(stones,0);
+                removeRoot(stones);
             } else {
                 stones[0] = fir-sec;
                 adjustDown(stones,0);
@@ -38,5 +34,11 @@ public:
             swap(hp[root], hp[biggest]);
             root = biggest;
         }
+    }
+
+    void removeRoot( vector<int> &hp) {
+        hp[0] = hp.back();
+        hp.pop_back();
+        adjustDown(hp,0);
     }
 };
