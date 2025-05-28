@@ -23,6 +23,7 @@ upload the code I write on leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
@@ -75,6 +76,7 @@ upload the code I write on leetcode
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
@@ -147,4 +149,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
