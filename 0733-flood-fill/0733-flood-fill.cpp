@@ -33,13 +33,14 @@ public:
         queue<pair<int,int>> qu;
         qu.push({sr,sc});
         while(!qu.empty()) {
-            pair<int,int> location = qu.front();
+            //pair<int,int> location = qu.front();
+            auto [r,c] = qu.front();
             qu.pop();
-            image[location.first][location.second] = color;
-            if(location.first+1 < x && image[location.first+1][location.second] == originalCol) qu.push({location.first+1,location.second});
-            if(location.first-1 >= 0 && image[location.first-1][location.second] == originalCol) qu.push({location.first-1,location.second});
-            if(location.second+1 < y && image[location.first][location.second+1] == originalCol) qu.push({location.first,location.second+1});
-            if(location.second-1 >= 0 && image[location.first][location.second-1] == originalCol) qu.push({location.first,location.second-1});
+            image[r][c] = color;
+            if(r+1 < x && image[r+1][c] == originalCol) qu.push({r+1,c});
+            if(r-1 >= 0 && image[r-1][c] == originalCol) qu.push({r-1,c});
+            if(c+1 < y && image[r][c+1] == originalCol) qu.push({r,c+1});
+            if(c-1 >= 0 && image[r][c-1] == originalCol) qu.push({r,c-1});
         }        
     }
 };
