@@ -20,18 +20,20 @@ public:
         int border_x = grid.size();
         int border_y = grid[0].size();
         st.push({x,y});
+        grid[x][y] = -1;
         int count =0;
         while(!st.empty()) {
             auto[r,c] = st.top();
             st.pop();
-            if(grid[r][c]!= 1) continue;
-            grid[r][c] = -1;
             count++;
-            if(c+1 <  border_y && grid[r][c+1] == 1) st.push({r,c+1});
-            if(c-1 >= 0 && grid[r][c-1] == 1) st.push({r,c-1});
-            if(r+1 <  border_x && grid[r+1][c] ==1) st.push({r+1,c});
-            if(r-1 >= 0 && grid[r-1][c] ==1) st.push({r-1,c});          
+            for(auto [dx,dy] : dirs){
+                if(r+dx>=0 && r+dx <border_x && c+dy >=0 && c+dy<border_y && grid[r+dx][c+dy] == 1) {
+                    st.push({r+dx,c+dy});
+                    grid[r+dx][c+dy] = -1;
+                }
+            }
         }
         return count;
     }
+const vector<pair<int,int>> dirs = {{1,0},{-1,0},{0,1},{0,-1}};
 };
