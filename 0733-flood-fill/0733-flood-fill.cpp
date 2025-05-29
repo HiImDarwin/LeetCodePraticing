@@ -2,25 +2,44 @@ class Solution {
 public:
 
     // ***************DFS******************
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        if(image[sr][sc] == color) return image;
-        DFS(image, sr,sc,image.size(),image[0].size(),color,image[sr][sc]);
-        return image;
+    // vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+    //     if(image[sr][sc] == color) return image;
+    //     DFS(image, sr,sc,image.size(),image[0].size(),color,image[sr][sc]);
+    //     return image;
 
-    }
-    void DFS(vector<vector<int>>& image, int sr, int sc, int x,int y, int color, int originCol){
-        if(sr <0 || sc <0 || sr>=x || sc>=y) return;
-        if(image[sr][sc] == originCol) image[sr][sc] = color;
-        else return;
-        DFS(image, sr-1,sc,x,y,color,originCol);
-        DFS(image, sr,sc+1,x,y,color,originCol);
-        DFS(image, sr,sc-1,x,y,color,originCol);
-        DFS(image, sr+1,sc,x,y,color,originCol);
-        return;
-    }
+    // }
+    // void DFS(vector<vector<int>>& image, int sr, int sc, int x,int y, int color, int originCol){
+    //     if(sr <0 || sc <0 || sr>=x || sc>=y) return;
+    //     if(image[sr][sc] == originCol) image[sr][sc] = color;
+    //     else return;
+    //     DFS(image, sr-1,sc,x,y,color,originCol);
+    //     DFS(image, sr,sc+1,x,y,color,originCol);
+    //     DFS(image, sr,sc-1,x,y,color,originCol);
+    //     DFS(image, sr+1,sc,x,y,color,originCol);
+    //     return;
+    // }
 
     // ***************BFS******************
-    // vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        
-    // }
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        if(image[sr][sc] == color) return image;
+        int originalCol = image[sr][sc];
+        int x = image.size();
+        int y = image[0].size();
+        BFS(image,sr,sc,x,y,color,originalCol);
+        return image;
+    }
+
+    void BFS (vector<vector<int>> &image,int sr,int sc,int x,int y,int color,int originalCol) {
+        queue<pair<int,int>> qu;
+        qu.push({sr,sc});
+        while(!qu.empty()) {
+            pair<int,int> location = qu.front();
+            qu.pop();
+            image[location.first][location.second] = color;
+            if(location.first+1 < x && image[location.first+1][location.second] == originalCol) qu.push({location.first+1,location.second});
+            if(location.first-1 >= 0 && image[location.first-1][location.second] == originalCol) qu.push({location.first-1,location.second});
+            if(location.second+1 < y && image[location.first][location.second+1] == originalCol) qu.push({location.first,location.second+1});
+            if(location.second-1 >= 0 && image[location.first][location.second-1] == originalCol) qu.push({location.first,location.second-1});
+        }        
+    }
 };
