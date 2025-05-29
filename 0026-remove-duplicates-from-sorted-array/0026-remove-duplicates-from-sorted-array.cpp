@@ -1,18 +1,13 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        vector<int>::iterator root=nums.begin();
-        vector<int>::iterator peek;
-        int remove=0;
-        while(root!=nums.end()) {
-            peek=root+1;
-            while(peek!=nums.end() && *root == *peek) {
-                remove++;
-                nums.erase(peek);
-                peek=root+1;
+
+        int slow = 0;
+        for (int fast =1; fast<nums.size();++fast) {
+            if(nums[slow]!=nums[fast]) {
+                nums[++slow]=nums[fast];
             }
-            root++;
         }
-        return nums.size();
+        return slow+1;
     }
 };
