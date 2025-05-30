@@ -65,6 +65,7 @@ upload the code I write on leetcode
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
@@ -101,6 +102,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 ## Brainteaser
 |  |
