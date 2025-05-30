@@ -83,7 +83,10 @@ public:
             for(int i=0;i<n;i++){
                 if(inMST[i]) continue;
                 int dis = abs(points[u][0]- points[i][0])+abs(points[u][1]- points[i][1]);
-                pq.push({dis,i});
+                if(dis < minDist[i]) {
+                    minDist[i] = dis;
+                    pq.push({dis,i});
+                }
             }
         }
     
