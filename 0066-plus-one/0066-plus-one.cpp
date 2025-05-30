@@ -8,12 +8,14 @@ public:
                 i--;
             } else {
                 digits[i]++;
-                break;
+                return digits;
             }
         }
-        if(i<0){
-            digits.insert(digits.begin(),1);
-        }
+        // if(i<0){
+        //     digits.insert(digits.begin(),1);
+        // }
+        digits.push_back(0);
+        digits[0]=1;
         return digits;
     }
 };
