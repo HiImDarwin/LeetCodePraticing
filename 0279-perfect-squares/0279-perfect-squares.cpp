@@ -2,9 +2,9 @@ class Solution {
 public:
     int numSquares(int n) {
         int x = (int) sqrt(n);
-        vector<int> squ_num(x);
-        for(int i=1;i<=x;i++){
-            squ_num[i-1]=i*i;
+        vector<int> squ_num;
+        for(int i=1;i*i<=n;i++){
+            squ_num.push_back(i*i);
         }
 
         vector<int> res(n+1,INT_MAX);
