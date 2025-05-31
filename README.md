@@ -6,6 +6,7 @@ upload the code I write on leetcode
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
@@ -13,6 +14,7 @@ upload the code I write on leetcode
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@ upload the code I write on leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
