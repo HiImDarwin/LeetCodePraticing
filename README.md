@@ -14,12 +14,14 @@ upload the code I write on leetcode
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
@@ -271,4 +273,8 @@ upload the code I write on leetcode
 | ------- |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
