@@ -80,6 +80,7 @@ upload the code I write on leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
@@ -268,6 +269,7 @@ upload the code I write on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0035-search-insert-position) |
 ## Tree
 |  |
