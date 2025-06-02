@@ -19,6 +19,7 @@ upload the code I write on leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 ## String
@@ -78,6 +79,7 @@ upload the code I write on leetcode
 | [0018-4sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
