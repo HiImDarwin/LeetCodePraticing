@@ -87,6 +87,7 @@ upload the code I write on leetcode
 | [0045-jump-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0066-plus-one) |
@@ -121,6 +122,7 @@ upload the code I write on leetcode
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
@@ -238,6 +240,7 @@ upload the code I write on leetcode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
