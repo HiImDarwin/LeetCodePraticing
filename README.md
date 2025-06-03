@@ -38,6 +38,7 @@ upload the code I write on leetcode
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
@@ -91,6 +92,7 @@ upload the code I write on leetcode
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -199,6 +201,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
