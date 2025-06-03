@@ -41,6 +41,7 @@ upload the code I write on leetcode
 | [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
@@ -97,6 +98,7 @@ upload the code I write on leetcode
 | [0056-merge-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -253,6 +255,7 @@ upload the code I write on leetcode
 | [0054-spiral-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
