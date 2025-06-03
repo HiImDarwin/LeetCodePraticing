@@ -94,6 +94,7 @@ upload the code I write on leetcode
 | [0053-maximum-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0066-plus-one) |
@@ -170,6 +171,7 @@ upload the code I write on leetcode
 | [0018-4sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
