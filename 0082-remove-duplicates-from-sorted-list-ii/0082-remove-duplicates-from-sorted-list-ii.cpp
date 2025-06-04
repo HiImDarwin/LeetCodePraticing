@@ -12,27 +12,24 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(!head || !head->next) return head;
-        ListNode newHead(0);
-        ListNode *curr = head, *newhead=&newHead,*tail =newhead;
+        ListNode newHead(0,head);
+        ListNode *curr = head, *prev =&newHead;
         while(curr) {
-            if(curr->next && curr->val == curr->next->val) {
-                ListNode *tmp = curr->next;
-                while(tmp) {
-                    if(tmp->val == curr->val) {
-                        tmp = tmp->next;
-                    } else{
-                        break;
-                    }
-                }
-                curr = tmp;
-            } else {
-                tail->next = curr;
-                tail = tail->next;
+            bool dupli = false;
+            while(curr->next && curr->val == curr->next->val){
                 curr = curr->next;
-            }   
+                dupli = true;
+            }
+
+            if(dupli) {
+                prev->next = curr->next;
+            } else {
+                prev = prev->next;
+            }
+            curr = curr->next;
         }
-        tail->next = nullptr;
-        return newhead->next;
+
+        return newHead.next;
         
     }
 };
