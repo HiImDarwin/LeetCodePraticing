@@ -7,6 +7,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0086-partition-list) |
@@ -160,6 +161,7 @@ upload the code I write on leetcode
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
