@@ -7,6 +7,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
@@ -22,6 +23,7 @@ upload the code I write on leetcode
 | [0027-remove-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
