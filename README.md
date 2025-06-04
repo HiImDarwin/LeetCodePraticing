@@ -8,6 +8,7 @@ upload the code I write on leetcode
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ upload the code I write on leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ upload the code I write on leetcode
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -328,4 +331,8 @@ upload the code I write on leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0059-spiral-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
