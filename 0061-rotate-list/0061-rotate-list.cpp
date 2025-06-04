@@ -39,28 +39,23 @@ public:
     // }
 
     ListNode* rotateRight(ListNode* head, int k) {
-        if(!head) return nullptr;
+        if(!head || !head->next || k==0) return head;
         int count=1;
-        ListNode* tmp =head;
+        ListNode* tail =head;
         //count the number and make it circle
-        while(true){
-            if(tmp->next == nullptr){
-                tmp->next = head;
-                break;
-            }
-            tmp = tmp->next;
+        while(tail->next){
+            tail = tail->next;
             count++;
-            
         }
+        tail->next = head;
         k=k%count;
-
-        for(int i=1; i<count-k;i++){
-            head = head->next;
-            
+        int step_to_new_tail = count-k;
+        for(int i=1; i<step_to_new_tail;++i){
+            head = head->next;  
         }
-        tmp =head;
-        head = head->next;
-        tmp->next = nullptr;
-        return head;
+        ListNode* newHead = head->next;
+        head->next = nullptr;
+
+        return newHead;
     }
 };
