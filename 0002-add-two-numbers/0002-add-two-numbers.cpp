@@ -43,6 +43,8 @@ public:
        
     //     return dummy.next;
     // }
+
+    // same logic but better code style and performance
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         int carry = 0;
         ListNode dummy(0);
