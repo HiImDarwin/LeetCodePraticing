@@ -16,6 +16,7 @@ public:
 
 class Solution {
 public:
+    // My dummy way
     // Node* copyRandomList(Node* head) {
     //     if(!head) return head;
     //     unordered_map<Node*,int> nodePool; // for new node
@@ -54,24 +55,61 @@ public:
     //     return newHead;
     // }
 
-    Node* copyRandomList(Node* head) {
-        if (!head) return nullptr;
+    // better code style with hash
+    // Node* copyRandomList(Node* head) {
+    //     if (!head) return nullptr;
 
-        unordered_map<Node*,Node*> nodeMap;
-        Node *curr = head;
+    //     unordered_map<Node*,Node*> nodeMap;
+    //     Node *curr = head;
+    //     while(curr) {
+    //         nodeMap[curr] = new Node(curr->val);
+    //         curr = curr->next;
+    //     }
+
+    //     Node* newHead = nodeMap[head];
+    //     curr = head;
+    //     while(curr) {
+    //         newHead -> next = nodeMap[curr->next];
+    //         newHead -> random = curr->random ? nodeMap[curr->random] : nullptr;
+    //         newHead = newHead->next;
+    //         curr = curr->next;
+    //     }
+    //     return nodeMap[head];
+    // }
+
+
+    //Interleave node copy trick
+    Node* copyRandomList(Node* head) {
+        if(!head) return nullptr;
+
+        Node* curr = head;
         while(curr) {
-            nodeMap[curr] = new Node(curr->val);
-            curr = curr->next;
+            Node* copy = new Node(curr->val);
+            copy->next = curr->next;
+            curr->next = copy;
+            curr = copy->next;
         }
 
-        Node* newHead = nodeMap[head];
+        curr= head;
+        while(curr) {
+            if(curr->random) {
+                curr->next->random = curr->random->next;
+            }
+            curr = curr->next->next;
+        }
+
+        Node* newHead = head->next;
+        Node* tmp = newHead;
         curr = head;
         while(curr) {
-            newHead -> next = nodeMap[curr->next];
-            newHead -> random = curr->random ? nodeMap[curr->random] : nullptr;
-            newHead = newHead->next;
+            curr->next = tmp->next;
             curr = curr->next;
+            if(curr) {
+                tmp->next = curr->next;
+                tmp = tmp-> next;
+            }
+
         }
-        return nodeMap[head];
+        return newHead;
     }
 };
