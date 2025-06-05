@@ -44,6 +44,7 @@ upload the code I write on leetcode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
@@ -355,5 +356,6 @@ upload the code I write on leetcode
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
