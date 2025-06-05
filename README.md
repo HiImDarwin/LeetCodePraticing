@@ -137,6 +137,7 @@ upload the code I write on leetcode
 | [0416-partition-equal-subset-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
@@ -356,10 +357,12 @@ upload the code I write on leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
