@@ -35,7 +35,7 @@ public:
     // }
 
     string simplifyPath(string path) {
-        vector<string> st;
+        
         stringstream ss(path);
         string comp;
         while(getline(ss, comp, '/')) {
@@ -52,4 +52,5 @@ public:
         }
         return res.str().empty() ? "/" : res.str();
     }
+    vector<string> st;
 };
