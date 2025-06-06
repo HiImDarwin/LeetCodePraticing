@@ -29,29 +29,58 @@ public:
     //     return res;
     // }
 
-    string decodeString(string s) {
-        stringstream ss(s);
-        return decode(ss);
+    // string decodeString(string s) {
+    //     stringstream ss(s);
+    //     return decode(ss);
     
-    }
+    // }
 
-    string decode(stringstream &ss) {
-        string res;
+    // string decode(stringstream &ss) {
+    //     string res;
+    //     int num = 0;
+    //     char c;
+    //     while(ss >> noskipws >> c) {
+    //         if(isdigit(c)) {
+    //             num = num*10+(c-'0');
+    //         } else if( c =='[') {
+    //             string inner = decode(ss);
+    //             while(num-- >0) res +=inner;
+    //             num =0;
+    //         } else if(c ==']'){
+    //             return res;
+    //         } else {
+    //             res += c;
+    //         }
+    //     }
+    //     return res;
+    // }
+
+    string decodeString(string s) {
+        stack<int> countSt;
+        stack<string> stringSt;
+        string curr;
         int num = 0;
-        char c;
-        while(ss >> noskipws >> c) {
+
+        for(char& c:s){
             if(isdigit(c)) {
-                num = num*10+(c-'0');
-            } else if( c =='[') {
-                string inner = decode(ss);
-                while(num-- >0) res +=inner;
-                num =0;
-            } else if(c ==']'){
-                return res;
+                num = num*10 +c-'0';
+            } else if(c == '[') {
+                countSt.push(num);
+                stringSt.push(curr);
+                num=0;
+                curr="";
+
+            } else if(c == ']') {
+                int repeat = countSt.top(); countSt.pop();
+                string prev = stringSt.top(); stringSt.pop();
+                while(repeat-->0) prev+=curr;
+                curr = prev;
+
             } else {
-                res += c;
+                curr +=c;
             }
         }
-        return res;
+        return curr;
+
     }
 };
