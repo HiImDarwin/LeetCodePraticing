@@ -51,6 +51,7 @@ upload the code I write on leetcode
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0344-reverse-string) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +247,7 @@ upload the code I write on leetcode
 | [0045-jump-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Counting
 |  |
 | ------- |
@@ -373,6 +375,7 @@ upload the code I write on leetcode
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
