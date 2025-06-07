@@ -92,6 +92,7 @@ upload the code I write on leetcode
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 ## Design
@@ -149,6 +150,7 @@ upload the code I write on leetcode
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
@@ -408,4 +410,5 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
