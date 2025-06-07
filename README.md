@@ -95,6 +95,7 @@ upload the code I write on leetcode
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 ## Design
 |  |
@@ -159,6 +160,7 @@ upload the code I write on leetcode
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
@@ -418,6 +420,7 @@ upload the code I write on leetcode
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1206-corporate-flight-bookings) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
