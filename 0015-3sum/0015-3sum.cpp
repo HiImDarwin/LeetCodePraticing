@@ -19,6 +19,9 @@ public:
                     do {
                         left++;
                     } while(left<right && nums[left]==nums[left-1]);
+                     do {
+                        right--;
+                    } while(left<right &&nums[right]==nums[right+1]);
                 } else if(sum > 0){
                     do {
                         right--;
