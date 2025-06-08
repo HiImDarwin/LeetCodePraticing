@@ -21,6 +21,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -118,6 +119,7 @@ upload the code I write on leetcode
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -237,6 +239,7 @@ upload the code I write on leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
