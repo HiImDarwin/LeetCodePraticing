@@ -56,6 +56,7 @@ upload the code I write on leetcode
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0344-reverse-string) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
+| [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
@@ -101,6 +102,7 @@ upload the code I write on leetcode
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
@@ -231,6 +233,7 @@ upload the code I write on leetcode
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 ## Brainteaser
 |  |
 | ------- |
@@ -258,6 +261,7 @@ upload the code I write on leetcode
 | [0056-merge-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
