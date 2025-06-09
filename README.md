@@ -59,6 +59,7 @@ upload the code I write on leetcode
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -104,6 +105,7 @@ upload the code I write on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0525-contiguous-array) |
@@ -266,6 +268,7 @@ upload the code I write on leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
@@ -277,6 +280,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
@@ -311,6 +315,7 @@ upload the code I write on leetcode
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 ## Breadth-First Search
 |  |
@@ -492,4 +497,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
