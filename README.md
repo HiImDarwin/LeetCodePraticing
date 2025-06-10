@@ -334,6 +334,7 @@ upload the code I write on leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
@@ -354,6 +355,7 @@ upload the code I write on leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
@@ -425,6 +427,7 @@ upload the code I write on leetcode
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0437-path-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0437-path-sum-iii) |
 ## Binary Search Tree
 |  |
@@ -435,6 +438,7 @@ upload the code I write on leetcode
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0437-path-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0437-path-sum-iii) |
 ## Minimum Spanning Tree
 |  |
