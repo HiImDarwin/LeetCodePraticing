@@ -336,6 +336,7 @@ upload the code I write on leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
@@ -357,6 +358,7 @@ upload the code I write on leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -431,6 +433,7 @@ upload the code I write on leetcode
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -444,6 +447,7 @@ upload the code I write on leetcode
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0124-binary-tree-maximum-path-sum) |
