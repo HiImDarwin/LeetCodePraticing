@@ -337,6 +337,7 @@ upload the code I write on leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
@@ -359,6 +360,7 @@ upload the code I write on leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0113-path-sum-ii) |
@@ -434,6 +436,7 @@ upload the code I write on leetcode
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -450,6 +453,7 @@ upload the code I write on leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
