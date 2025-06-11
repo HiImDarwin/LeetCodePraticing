@@ -23,18 +23,13 @@ public:
     }
 
     int coinDFS(TreeNode* root,int & moveCount) { // return the coin  numer
-        int totalCoin;
-        int leftCoin =0;
-        int rightCoin = 0;
-        if(root->left) leftCoin = coinDFS(root->left, moveCount);
-        if(root->right) rightCoin = coinDFS(root->right, moveCount);
-        totalCoin = root->val+leftCoin+rightCoin-1;
-        if(leftCoin != 0) {
-            moveCount+= abs(leftCoin);
-        }
-        if(rightCoin != 0) {
-            moveCount+= abs(rightCoin);
-        }
-        return totalCoin;
+        if(!root) return 0;
+
+        int leftCoin = coinDFS(root->left, moveCount);
+        int rightCoin = coinDFS(root->right, moveCount);
+
+        moveCount+= abs(leftCoin) + abs(rightCoin);
+
+        return root->val+leftCoin+rightCoin-1;
     }
 };
