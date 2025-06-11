@@ -376,6 +376,7 @@ upload the code I write on leetcode
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
@@ -441,6 +442,7 @@ upload the code I write on leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0437-path-sum-iii) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -456,6 +458,7 @@ upload the code I write on leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0437-path-sum-iii) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
