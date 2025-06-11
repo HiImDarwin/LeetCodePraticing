@@ -20,30 +20,51 @@ public:
 
 class Solution {
 public:
+    // vector<vector<int>> levelOrder(Node* root) {
+    //     if(!root) return {};
+    //     vector<int> level;
+    //     vector<vector<int>> res;
+    //     stack<Node*> st1,st2;
+    //     st1.push(root);
+
+    //     while(!st1.empty() || !st2.empty()) {
+    //         if(st1.empty()) {
+    //             res.push_back(level);
+    //             level.clear();
+    //             while(!st2.empty()) {
+    //                 st1.push(st2.top());
+    //                 st2.pop();
+    //             }
+    //         }
+    //         Node* tmp = st1.top();
+    //         st1.pop();
+    //         level.push_back(tmp->val);
+    //         for(auto &x: tmp->children) {
+    //             st2.push(x);
+    //         }
+    //     }
+    //     res.push_back(level);
+    //     return res;
+    // }
+
     vector<vector<int>> levelOrder(Node* root) {
         if(!root) return {};
-        vector<int> level;
         vector<vector<int>> res;
-        stack<Node*> st1,st2;
-        st1.push(root);
-
-        while(!st1.empty() || !st2.empty()) {
-            if(st1.empty()) {
-                res.push_back(level);
-                level.clear();
-                while(!st2.empty()) {
-                    st1.push(st2.top());
-                    st2.pop();
+        queue<Node*> qu;
+        qu.push(root);
+        while(!qu.empty()) {
+            int qlen =qu.size();
+            vector<int> sol;
+            for(int i=0; i< qlen; i++) {
+                Node* tmp = qu.front();
+                qu.pop();
+                sol.push_back(tmp->val);
+                for(auto& x: tmp->children) {
+                    qu.push(x);
                 }
             }
-            Node* tmp = st1.top();
-            st1.pop();
-            level.push_back(tmp->val);
-            for(auto &x: tmp->children) {
-                st2.push(x);
-            }
-        }
-        res.push_back(level);
+            res.push_back(sol);
+        } 
         return res;
     }
 };
