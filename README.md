@@ -102,6 +102,7 @@ upload the code I write on leetcode
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
@@ -170,6 +171,7 @@ upload the code I write on leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -412,6 +414,7 @@ upload the code I write on leetcode
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0684-redundant-connection) |
