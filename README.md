@@ -66,6 +66,7 @@ upload the code I write on leetcode
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
@@ -128,6 +129,7 @@ upload the code I write on leetcode
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
+| [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
@@ -287,6 +289,7 @@ upload the code I write on leetcode
 | [0113-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
+| [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
 ## Sorting
 |  |
 | ------- |
@@ -357,6 +360,7 @@ upload the code I write on leetcode
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
 ## Breadth-First Search
 |  |
 | ------- |
