@@ -54,6 +54,7 @@ upload the code I write on leetcode
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0344-reverse-string) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
@@ -108,6 +109,7 @@ upload the code I write on leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
