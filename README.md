@@ -171,6 +171,7 @@ upload the code I write on leetcode
 | [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
@@ -293,6 +294,7 @@ upload the code I write on leetcode
 | [0040-combination-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0079-word-search) |
