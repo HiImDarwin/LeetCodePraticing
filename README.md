@@ -47,6 +47,7 @@ upload the code I write on leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0071-simplify-path) |
@@ -75,6 +76,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0053-maximum-subarray) |
@@ -285,6 +287,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0047-permutations-ii) |
