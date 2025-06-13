@@ -51,6 +51,7 @@ upload the code I write on leetcode
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
@@ -84,6 +85,7 @@ upload the code I write on leetcode
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
@@ -289,6 +291,7 @@ upload the code I write on leetcode
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
