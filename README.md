@@ -248,6 +248,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0066-plus-one) |
