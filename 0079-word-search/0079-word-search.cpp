@@ -11,7 +11,7 @@ public:
         } 
         return false;
     }
-    bool trace(vector<vector<char>>& board, string word,int i,int j,int index, vector<vector<bool>> &used){
+    bool trace(vector<vector<char>>& board, string &word,int i,int j,int index, vector<vector<bool>> &used){
 
         if(index==word.length()) return true;
         if(i<0 || i>=board.size() || j<0 || j>=board[0].size()) return false;
