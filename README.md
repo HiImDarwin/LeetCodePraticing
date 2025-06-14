@@ -273,6 +273,7 @@ upload the code I write on leetcode
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
+| [2383-add-two-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
