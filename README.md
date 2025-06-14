@@ -194,6 +194,7 @@ upload the code I write on leetcode
 | [0128-longest-consecutive-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
@@ -492,6 +493,7 @@ upload the code I write on leetcode
 | [0035-search-insert-position](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0300-longest-increasing-subsequence) |
