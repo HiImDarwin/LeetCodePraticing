@@ -222,6 +222,7 @@ upload the code I write on leetcode
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
@@ -494,6 +495,7 @@ upload the code I write on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Tree
