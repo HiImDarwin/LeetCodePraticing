@@ -2,20 +2,14 @@ class Solution {
 public:
     string generateTag(string caption) {
         string res="#";
-        int i=0;
-        while(i<caption.length() && res.length()<100) {
+        for(int i=0; i<caption.length() && res.length()<100; ++i) {
             char c = caption[i];
             if(c == ' '){
-                while((c == ' ' || !isalpha(c)) && i+1<caption.length()) {
-                    c = caption[++i];
-                }
-                if(isalpha(c)) {
-                    res+=toupper(c);  
-                }
+                continue;
             } else if (isalpha(c)) {
-                res+=tolower(c);
+                if(i!= 0 && caption[i-1] == ' ') res+=toupper(c);
+                else                    res+=tolower(c);
             } 
-            i++;
         }
         res[1] = tolower(res[1]);
         return res;
