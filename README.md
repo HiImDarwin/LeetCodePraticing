@@ -102,6 +102,7 @@ upload the code I write on leetcode
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
@@ -215,6 +216,7 @@ upload the code I write on leetcode
 | [0377-combination-sum-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
@@ -337,6 +339,7 @@ upload the code I write on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
@@ -388,6 +391,7 @@ upload the code I write on leetcode
 | [0045-jump-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
