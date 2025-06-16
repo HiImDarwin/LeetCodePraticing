@@ -14,6 +14,7 @@ upload the code I write on leetcode
 | [0086-partition-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -33,6 +34,7 @@ upload the code I write on leetcode
 | [0061-rotate-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
@@ -124,6 +126,7 @@ upload the code I write on leetcode
 | [0128-longest-consecutive-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
