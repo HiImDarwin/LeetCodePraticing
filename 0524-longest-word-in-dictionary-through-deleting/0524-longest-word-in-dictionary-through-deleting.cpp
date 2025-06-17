@@ -4,25 +4,23 @@ class Solution {
       int maxLenght = 0;
       string ans;
       for(string &word: dictionary) {
-        int sIdx = 0, wIdx = 0;
-        string tmp;
-        while(sIdx < s.length() && wIdx < word.length()) {
-          if(s[sIdx] == word[wIdx]) {
-            tmp += s[sIdx];
-            sIdx++;
-            wIdx++;
-          } else {
-            sIdx++;
-          }
-        }
-        if(wIdx == word.length()) {
-          if(tmp.length() > ans.length()) {
-            ans = tmp;
-          } else if (tmp.length() == ans.length()) {
-            ans = ans < tmp ? ans : tmp;
+        if(isSubsequence(s,word)) {
+          if(word.length() > ans.length() || 
+            (word.length() == ans.length() &&  word < ans)) {
+            ans = word;
           }
         }
       }
       return ans;
+    }
+    bool isSubsequence (const string& s, const string& word) {
+      int s_index = 0, w_index = 0;
+      while(s_index < s.length() && w_index < word.length()) {
+        if(s[s_index] == word[w_index]) {
+          ++w_index;
+        }
+        ++s_index;
+      }
+      return w_index == word.length();
     }
 };
