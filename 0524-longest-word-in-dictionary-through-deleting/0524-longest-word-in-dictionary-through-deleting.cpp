@@ -4,6 +4,7 @@ class Solution {
       string ans="";
       for(string &word: dictionary) {
         int w_idx = 0, s_idx = 0;
+        if(ans.size() > word.size()) continue;
         while(w_idx < word.length() && s_idx < s.length()) {
           if(s[s_idx] == word[w_idx]) ++w_idx;
           ++s_idx;
