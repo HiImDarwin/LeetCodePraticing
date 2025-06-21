@@ -16,7 +16,7 @@ public:
         }
       }
 
-      int steps = 0;
+      int steps = 1;
       while(!qu.empty()) {
         int size = qu.size();
         while(size--) {
@@ -38,10 +38,15 @@ public:
   void dfs(vector<vector<int>>& grid, vector<vector<bool>>& visited,
              queue<pair<int,int>>& qu, int x, int y) {
         int n = grid.size();
-        if(x < 0 || y < 0 || x >= n || y >= n || visited[x][y] || grid[x][y] != 1)
+        if(x < 0 || y < 0 || x >= n || y >= n || visited[x][y] )
             return;
+        if(grid[x][y] == 0) {
+          qu.push({x,y});
+          visited[x][y] = true;
+          return;
+        }
+        
         visited[x][y] = true;
-        qu.push({x,y});
         for(auto [dx,dy] : directions) {
             dfs(grid, visited, qu, x + dx, y + dy);
         }
