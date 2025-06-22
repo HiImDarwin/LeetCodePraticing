@@ -12,26 +12,22 @@
 class Solution {
 public:
     vector<string> binaryTreePaths(TreeNode* root) {
-      if (!root) return {};
       vector<string> res;
-      string sol;
-      DFS(root, sol, res);
+      DFS(root, "", res);
       return res;
     }
 
-    void DFS (TreeNode* root, string &sol, vector<string> &res) {
-      string tmp = to_string(root->val) + "->";
-      int size = tmp.length();
-      sol += tmp;
-      if (!root->left && !root->right) {
-        res.push_back(sol.substr(0, sol.length()-2));
-      } 
-      if (root->left) {
-        DFS(root->left, sol, res);
+    void DFS (TreeNode* root, string sol, vector<string> &res) {
+      if(!root) return;
+      sol += to_string(root->val);
+
+      if(!root->left && !root->right) {
+        res.push_back(sol);
+        return;
       }
-      if (root->right) {
-        DFS(root->right, sol, res);
-      }
-      sol.erase(sol.size() - size);
+
+      sol += "->";
+      DFS(root->left, sol , res);
+      DFS(root->right, sol, res);
     }
 };
