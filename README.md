@@ -462,6 +462,7 @@ upload the code I write on leetcode
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
@@ -496,6 +497,7 @@ upload the code I write on leetcode
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0337-house-robber-iii) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
@@ -552,6 +554,7 @@ upload the code I write on leetcode
 | ------- |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
@@ -564,6 +567,7 @@ upload the code I write on leetcode
 | ------- |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
 ## Binary Search
 |  |
