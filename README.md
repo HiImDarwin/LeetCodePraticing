@@ -63,6 +63,7 @@ upload the code I write on leetcode
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0168-excel-sheet-column-title) |
@@ -128,6 +129,7 @@ upload the code I write on leetcode
 | [0076-minimum-window-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
@@ -451,6 +453,7 @@ upload the code I write on leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
