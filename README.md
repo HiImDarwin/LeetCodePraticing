@@ -108,6 +108,7 @@ upload the code I write on leetcode
 | [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
@@ -230,6 +231,7 @@ upload the code I write on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0300-longest-increasing-subsequence) |
@@ -535,6 +537,7 @@ upload the code I write on leetcode
 | [0079-word-search](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
