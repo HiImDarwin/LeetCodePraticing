@@ -2,16 +2,19 @@ class Solution {
 public:
     vector<int> findKDistantIndices(vector<int>& nums, int key, int k) {
       int n = nums.size();
-      set<int> idxSet;
+      vector<int> res;
+      int start = 0;
       for(int i = 0; i < n; ++i ){
         if(nums[i] != key) continue;
-        int idx = i - k >=0 ? i - k : 0;
-        while(idx <= i+k && idx < n) {
-          idxSet.insert(idx);
-          idx++;
+
+        int left = max(i-k,0);
+        int right = min(n-1, i+k);
+        while(start <= right) {
+          if(start >= left) res.push_back(start);
+          start++;
         }
       }
-      vector<int> res(idxSet.begin(), idxSet.end());
       return res;
     }
 };
+
