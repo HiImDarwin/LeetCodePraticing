@@ -124,6 +124,7 @@ upload the code I write on leetcode
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
+| [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 ## Hash Table
 |  |
@@ -282,6 +283,7 @@ upload the code I write on leetcode
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
+| [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
 | [1206-corporate-flight-bookings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
