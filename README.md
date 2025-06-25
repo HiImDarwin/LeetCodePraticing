@@ -131,6 +131,7 @@ upload the code I write on leetcode
 | [0516-longest-palindromic-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
@@ -332,6 +333,7 @@ upload the code I write on leetcode
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
