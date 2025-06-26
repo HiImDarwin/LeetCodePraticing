@@ -16,24 +16,18 @@ class Solution {
     long long countLessEqual(vector<int>& nums1, vector<int>& nums2, long long x) {
       long long count = 0;
       int n = nums2.size();
-      for(int a: nums1) {
-        if(a == 0) {
-          if(x >= 0) count += n;
-          continue;
+      for(int i = 0; i< nums1.size(); ++i) {
+        if(nums1[i] < 0) {
+          long long sm = ceil((double)x/nums1[i]);
+          int j = lower_bound(nums2.begin(), nums2.end(), sm) - nums2.begin();
+          count += n-j;
+        } else if (nums1[i] > 0) {
+          long long sm = floor((double)x/nums1[i]);
+          int j = upper_bound(nums2.begin(), nums2.end(),sm) -nums2.begin();
+          count += j;
+        } else {
+          if(x >=0) count += n;
         }
-        int low = 0, high = nums2.size();
-        while(low < high) {
-          int mid = (low+high)/2;
-          long long prod = 1LL* a * nums2[mid];
-          if (prod <= x) {
-            if(a > 0) low = mid + 1;
-            else high = mid;
-          } else {
-            if (a > 0) high = mid;
-            else low = mid+1;
-          }
-        }
-        count += (a > 0)? low : (nums2.size() - low);
       }
       return count;
     }
