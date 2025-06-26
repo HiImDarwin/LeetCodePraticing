@@ -146,6 +146,7 @@ upload the code I write on leetcode
 | [1250-longest-common-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +319,7 @@ upload the code I write on leetcode
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
 |  |
 | ------- |
