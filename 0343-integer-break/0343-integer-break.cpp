@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // bottom-up
     // int integerBreak(int n) {
     //   if(n <= 3) return n-1; 
     //   vector<int> dp(n+1,0);
@@ -13,6 +14,9 @@ public:
     //   }
     //   return dp[n];
     // }
+
+
+    //top-down
     int integerBreak(int n) {
       if(n<=3) return n-1;
       memo.resize(n+1, 0);
