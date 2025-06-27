@@ -53,6 +53,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -100,6 +101,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0045-jump-game-ii) |
@@ -360,6 +362,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
