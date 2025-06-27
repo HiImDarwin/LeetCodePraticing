@@ -131,6 +131,7 @@ upload the code I write on leetcode
 | [0337-house-robber-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0343-integer-break) |
+| [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0416-partition-equal-subset-sum) |
@@ -272,6 +273,7 @@ upload the code I write on leetcode
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
+| [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0406-queue-reconstruction-by-height) |
@@ -481,6 +483,7 @@ upload the code I write on leetcode
 | [0055-jump-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0135-candy) |
+| [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0455-assign-cookies) |
