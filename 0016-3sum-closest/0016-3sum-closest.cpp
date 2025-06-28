@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // backtracking 會提供所有組合的解，O(n^3)
     // int threeSumClosest(vector<int>& nums, int target) {
     //     //sorting + backtracking
     //     sort(nums.begin(),nums.end());
@@ -25,28 +26,29 @@ public:
     // }
     // int minDiff = INT_MAX;
     // int closesSum;
+
+    
     int threeSumClosest(vector<int>& nums, int target) {
-        sort(nums.begin(),nums.end());
-        int closest = nums[0]+ nums[1] + nums[2];
-        for(int i=0; i<nums.size()-2; ++i) {
-            int left = i+1;
-            int right = nums.size()-1;
-
-            while(left<right){
-                int sum = nums[i]+nums[left]+nums[right];
-                if (abs(sum-target)<abs(closest-target)){
-                    closest = sum;
-                }
-                if(sum == target) {
-                    return target;
-                } else if(sum >target) {
-                    right--;
-                } else {
-                    left++;
-                }
-
-            }
+      int n = nums.size();
+      sort(nums.begin(), nums.end());
+      int res = INT_MAX/2;
+      for(int fix = 0; fix < n - 2; ++fix) {
+        int targetNum = target - nums[fix];
+        int low = fix + 1;
+        int high = n-1;
+        while(low < high) {
+          res = abs(res-target) > abs(nums[low] + nums[high] + nums[fix] - target) ?
+                nums[low] + nums[high] + nums[fix] :
+                res;
+          if(nums[low] + nums[high] > targetNum) {
+            high--;
+          } else if (nums[low] + nums[high] < targetNum) {
+            low++;
+          } else {
+            return target;
+          }
         }
-        return closest;
+      }
+      return res;
     }
 };
