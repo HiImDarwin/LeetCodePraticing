@@ -33,6 +33,7 @@ upload the code I write on leetcode
 | [0042-trapping-rain-water](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
@@ -243,6 +244,7 @@ upload the code I write on leetcode
 | [0075-sort-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0090-subsets-ii) |
