@@ -161,6 +161,7 @@ upload the code I write on leetcode
 | [1250-longest-common-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
@@ -348,6 +349,7 @@ upload the code I write on leetcode
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
@@ -519,6 +521,7 @@ upload the code I write on leetcode
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Counting
 |  |
 | ------- |
