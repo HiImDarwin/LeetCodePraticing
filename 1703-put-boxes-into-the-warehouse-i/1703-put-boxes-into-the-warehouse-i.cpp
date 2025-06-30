@@ -9,10 +9,9 @@ public:
       int j = 0;
       int res = 0;
       while(i >= 0 && j < m) {
-        if(boxes[i] <= minHeight) {
+        if(boxes[i] <= warehouse[j]) {
           res++;
           j++;
-          minHeight = j < m ? min(minHeight,warehouse[j]): minHeight;
         } 
         i--;
       }
