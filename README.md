@@ -52,6 +52,7 @@ upload the code I write on leetcode
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [1019-squares-of-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1019-squares-of-a-sorted-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
@@ -339,6 +340,7 @@ upload the code I write on leetcode
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -672,6 +674,7 @@ upload the code I write on leetcode
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Tree
 |  |
@@ -770,6 +773,7 @@ upload the code I write on leetcode
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -779,6 +783,7 @@ upload the code I write on leetcode
 | [0503-next-greater-element-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Data Stream
 |  |
 | ------- |
