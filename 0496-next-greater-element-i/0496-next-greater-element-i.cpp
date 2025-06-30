@@ -1,23 +1,36 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int,int> nextGreater;
-        stack<int> st;
-
-        for(int i=nums2.size()-1;i>=0;--i) {
-            while(!st.empty() && st.top() <=nums2[i]) {
-                st.pop();
-            }
-
-            nextGreater[nums2[i]] = st.empty() ? -1 :st.top();
-            st.push(nums2[i]);
+      int n = nums2.size();
+      vector<int> res;
+      unordered_map<int,int> mp; //num next greater
+      stack<int> st;
+      for(int i = n-1; i >= 0; --i) {
+        while(!st.empty() && nums2[i] > st.top()){
+            st.pop();
         }
+        if(st.empty())  mp[nums2[i]] = -1;
+        else            mp[nums2[i]] = st.top();
 
-        vector<int> res;
-        for( int num: nums1) {
-            res.push_back(nextGreater[num]);
-        }
+        st.push(nums2[i]);
+      }
 
-        return res;
+      for(int num : nums1) {
+        res.push_back(mp[num]);
+      }
+
+      return res;
     }
 };
+
+
+/*
+abcde
+axbxxcdxe
+find nums1 element in num 2 
+find next greater element of nums2 
+
+speedup
+record the pos of nums2 in map
+
+*/
