@@ -88,6 +88,7 @@ upload the code I write on leetcode
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
@@ -189,6 +190,7 @@ upload the code I write on leetcode
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
@@ -501,6 +503,7 @@ upload the code I write on leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
@@ -835,6 +838,7 @@ upload the code I write on leetcode
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
