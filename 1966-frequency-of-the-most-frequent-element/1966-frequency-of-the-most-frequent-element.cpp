@@ -1,26 +1,44 @@
 class Solution {
 public:
-    int maxFrequency(vector<int>& nums, int k) {
-      sort(nums.begin(), nums.end());
-      int n = nums.size();
-      nums.insert(nums.begin(), 0);
-      vector<long long> presum(n+1);
-      for(int i = 1; i <= n; ++i) 
-        presum[i] = presum[i - 1] + nums[i];
+//     int maxFrequency(vector<int>& nums, int k) {
+//       sort(nums.begin(), nums.end());
+//       int n = nums.size();
+//       nums.insert(nums.begin(), 0);
+//       vector<long long> presum(n+1);
+//       for(int i = 1; i <= n; ++i) 
+//         presum[i] = presum[i - 1] + nums[i];
       
-      int i = 1;
+//       int i = 1;
+//       int res = 0;
+//       for (int j = 1; j <= n; ++j) {
+//         while(!isOK(nums, presum, i ,j ,k))
+//           i++;
+//         res = max(res,j - i + 1);
+//       }
+//       return res;
+//     }
+
+//     bool isOK(vector<int> &nums, vector<long long> &presum, int i, int j, int k) {
+//       long long delta = (long long)nums[j] * (j - i + 1) - (presum[j] -presum[i -1]);
+//       return delta <=k;
+//     }
+    int maxFrequency(vector<int>& nums, int k) {
+      int n = nums.size();
+      sort(nums.begin(), nums.end());
       int res = 0;
-      for (int j = 1; j <= n; ++j) {
-        while(!isOK(nums, presum, i ,j ,k))
-          i++;
-        res = max(res,j - i + 1);
+      long long totalSum = 0;
+      for(int i = 0,j = 0; i < n; ++i) {
+        totalSum += nums[i];
+        long long opNum = (long long)nums[i]*(i-j+1) - totalSum;
+
+        while(opNum > k) {
+          totalSum -= nums[j];
+          j++;
+          opNum = (long long)nums[i]*(i-j+1) - totalSum;
+        }
+        res = max(res, i-j+1);
       }
       return res;
-    }
-
-    bool isOK(vector<int> &nums, vector<long long> &presum, int i, int j, int k) {
-      long long delta = (long long)nums[j] * (j - i + 1) - (presum[j] -presum[i -1]);
-      return delta <=k;
     }
 }; 
 
