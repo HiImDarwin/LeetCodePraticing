@@ -17,13 +17,11 @@ public:
 };
 
 
-/*
-for triangel to short side sum must bigger than the longest side 
-a + b > c
+// for triangel two short side sum must bigger than the longest side 
+// a + b > c
 
-so we have i j k three pointer
-fixed i can use for for add 1 per round
-in each round j and k  run throuh whole matrix
+// so we have i j k three pointer
+// fixed i can use `for` for add 1 per round
+// in each round j and k  run throuh whole matrix
 
-In this case. We want to ask if the element in array is length or link
-*/
+// In this case. We want to ask if the element in array is length or link
