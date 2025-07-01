@@ -29,12 +29,10 @@ public:
       long long totalSum = 0;
       for(int i = 0,j = 0; i < n; ++i) {
         totalSum += nums[i];
-        long long opNum = (long long)nums[i]*(i-j+1) - totalSum;
 
-        while(opNum > k) {
+        while( (long long)nums[i]*(i-j+1) > k + totalSum) {
           totalSum -= nums[j];
           j++;
-          opNum = (long long)nums[i]*(i-j+1) - totalSum;
         }
         res = max(res, i-j+1);
       }
