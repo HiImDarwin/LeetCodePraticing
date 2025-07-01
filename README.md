@@ -48,6 +48,7 @@ upload the code I write on leetcode
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
@@ -314,6 +315,7 @@ upload the code I write on leetcode
 | [0540-single-element-in-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0665-non-decreasing-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
@@ -462,6 +464,7 @@ upload the code I write on leetcode
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
@@ -523,6 +526,7 @@ upload the code I write on leetcode
 | [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -685,6 +689,7 @@ upload the code I write on leetcode
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
