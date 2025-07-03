@@ -1,22 +1,32 @@
 class Solution {
 public:
-    int hIndex(vector<int>& citations) {
-      int n = citations.size();
-      if(n == 0 || citations[n-1] == 0) return 0;
-      int right = n-1;
-      int left = 0;
+    // int hIndex(vector<int>& citations) {
+    //   int n = citations.size();
+    //   if(n == 0 || citations[n-1] == 0) return 0;
+    //   int right = n-1;
+    //   int left = 0;
         
-      while(left < right) {
-        int mid  = left+ (right-left) / 2;
-        if(citations[mid] >= (n - 1) - mid + 1) {
-          right = mid;
-        } else {
-          left = mid + 1;
-        }
-      }
+    //   while(left < right) {
+    //     int mid  = left+ (right-left) / 2;
+    //     if(citations[mid] >= (n - 1) - mid + 1) {
+    //       right = mid;
+    //     } else {
+    //       left = mid + 1;
+    //     }
+    //   }
 
-      return n-left;
-    }
+    //   return n-left;
+    // }
+
+  int hIndex(vector<int>& citations) {
+    int n = citations.size();
+    int i;
+      for(i = 1; i <=n; i++) {
+        if(citations[n-i] < i)
+          break;
+      }
+      return i-1;
+  }
 };
 
 
@@ -33,4 +43,7 @@ whe are seaching for the minimon num[i] >= n-i+1;
 
 And there i an condition that no thsis esixt for this
 [0 0 0 0 0 0 0]
+
+
+Ther got to be a easier way
 */
