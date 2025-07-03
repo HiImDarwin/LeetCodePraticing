@@ -1,40 +1,23 @@
-// class Solution {
-//   public:
-//     int findRadius(vector<int>& houses, vector<int>& heaters) {
-//       sort(houses.begin(),houses.end());
-//       sort(heaters.begin(), heaters.end());
-//       int m  = houses.size();
-//       int n  = heaters.size();
-//       int res = 0;
-//       for(int i = 0, j =0; i < m; ++i) {
-//         int tmp = abs(houses[i] - heaters[j]);
-//         while(j+1 < n && abs(houses[i] - heaters[j+1]) <= tmp) {
-//           j++;
-//           tmp = abs(houses[i] - heaters[j]);
-//         }
-//         res = max(res, tmp);
-//       }
-//       return res;
-//     }
-// };
-
 class Solution {
-public:
+  public:
     int findRadius(vector<int>& houses, vector<int>& heaters) {
-        sort(houses.begin(), houses.end());
-        sort(heaters.begin(), heaters.end());
-
-        int closestHeater = 0, maxDist = INT_MIN;
-        for (int i = 0; i < houses.size(); i++) {
-            while (closestHeater + 1 < heaters.size() && abs(houses[i] - heaters[closestHeater]) >= abs(houses[i] - heaters[closestHeater + 1])) {
-                closestHeater++;
-            }
-            maxDist = max(maxDist, abs(houses[i] - heaters[closestHeater]));
+      sort(houses.begin(),houses.end());
+      sort(heaters.begin(), heaters.end());
+      int m  = houses.size();
+      int n  = heaters.size();
+      int res = 0;
+      for(int i = 0, j =0; i < m; ++i) {
+        int tmp = abs(houses[i] - heaters[j]);
+        while(j+1 < n && abs(houses[i] - heaters[j+1]) <= tmp) {
+          j++;
+          tmp = abs(houses[i] - heaters[j]);
         }
-
-        return maxDist;
+        res = max(res, tmp);
+      }
+      return res;
     }
 };
+
 
 
 /*
