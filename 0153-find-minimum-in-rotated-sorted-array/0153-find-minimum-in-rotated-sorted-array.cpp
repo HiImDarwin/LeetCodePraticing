@@ -15,15 +15,41 @@ public:
     int findMin(vector<int>& nums) {
         int right = nums.size()-1;
         int left = 0;
-        while(left < right) {
-            int mid = left+(right-left)/2;
 
-            if(nums[mid]>nums[right]) {
-                left = mid+1;
-            } else {
-                right = mid;
-            }
+        while(left < right) {
+          int mid = left + (right - left) / 2;
+          if(nums[mid] > nums[right]) {
+            left = mid + 1;
+          } else {
+            right = mid;
+          }
         }
         return nums[left];
     }
 };
+
+
+
+
+
+
+/*
+
+the array right shift 
+[4 5 6 1 2 3]
+
+[1 2 3 4 5 6]
+
+desing Bin Search
+the order is increasing and I want the min value
+i will let the mid be on left side
+
+
+Question
+will there be dulplicate value?
+time limited in this question?
+how long will be size of array
+value range won't be a problem
+
+
+*/
