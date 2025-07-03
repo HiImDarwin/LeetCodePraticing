@@ -9,32 +9,65 @@ class Solution {
     //   return n%2 ? (double) merged[n/2] : ((merged[n/2]+merged[n/2-1])/2.0);
     // }
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-      int n1 = nums1.size(), n2 = nums2.size();
-      if(n1 > n2) return findMedianSortedArrays(nums2, nums1);
-      int left = (n1 + n2 + 1)/2;
-      int low  = 0, high = n1;
+      int m = nums1.size(), n = nums2.size();
+      if((m+n)%2 == 1) return findKthElement(nums1,0, nums2, 0, (n + m) / 2 + 1);
+      else return (findKthElement(nums1,0, nums2, 0, (n + m) / 2 ) 
+                  + findKthElement(nums1,0, nums2, 0, (n + m) / 2 + 1))*1.0 / 2;
+      
+    }
 
-      while(low <= high) {
-        int mid1 = (low + high)/2;
-        int mid2 = left - mid1;
+    int findKthElement(vector<int> &nums1, int idx1, vector<int> &nums2, int idx2, int k) {
+      int m = nums1.size(), n = nums2.size();
+      if(m-idx1 > n -idx2) return findKthElement(nums2, idx2, nums1, idx1 ,k);
 
-        int l1 = INT_MIN, l2 = INT_MIN, r1 = INT_MAX, r2 = INT_MAX; // element value
+      if(idx1 == m) return nums2[idx2+k-1];
+      if(k == 1) return min(nums1[idx1], nums2[idx2]);
 
-        if (mid1 < n1) r1 = nums1[mid1];
-        if (mid2 < n2) r2 = nums2[mid2];
-        if (mid1 - 1 >= 0) l1 = nums1[mid1 - 1];
-        if (mid2 - 1 >= 0) l2 = nums2[mid2 -1];
 
-        if(l1 <= r2 && l2 <= r1) {
-          if((n1 + n2) % 2 == 1) return max(l1, l2);
-          else return ((double)(max(l1, l2) + min(r1, r2))) / 2.0;
-        } else if (l1 > r2) {
-          high = mid1 - 1;
-        } else {
-          low  = mid1 + 1;
-        }
+      int k1,k2;
+      k1 = k/2 > (m-idx1) ? m-idx1: k/2;
+      k2 = k - k1;
+      if(nums1[idx1 + k1 -1] < nums2[idx2 + k2 - 1]) {
+        return findKthElement(nums1, idx1+k1, nums2, idx2, k - k1);
+      } else {
+        return findKthElement(nums1, idx1, nums2, idx2+k2, k - k2);
       }
-      return 0; //dummy
+
     }
 
 };
+
+
+
+/* 
+
+
+
+used merege sort
+O(m+n)
+
+So the time complexity seems can't uses with literate the array
+
+use binary Search in two array
+we can guess the value of target
+both return a index i and j
+we want to find the one that i+j = m+n/2
+This way the time com O(log(m*n));
+
+[x x x x x x]
+[y y y y y y y y y y ]
+
+find k/2 element for each array assumn k = 6
+
+
+[x x x] [x x x]
+[y y y] [y y y y y y y y]
+if x2 > y2 means [x0 x1] [y0 y1 y2] is smaller than the k element 
+but x2 may bigger than the k element (because y > y2 may smaller than k)
+
+next round
+[x x x x]
+[y y y y y y y y]  k = 6-5 = 1
+
+
+*/
