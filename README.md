@@ -51,6 +51,7 @@ upload the code I write on leetcode
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
@@ -332,6 +333,7 @@ upload the code I write on leetcode
 | [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
@@ -489,6 +491,7 @@ upload the code I write on leetcode
 | [0532-k-diff-pairs-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
@@ -509,6 +512,7 @@ upload the code I write on leetcode
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
@@ -725,6 +729,7 @@ upload the code I write on leetcode
 | [0540-single-element-in-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
@@ -881,6 +886,7 @@ upload the code I write on leetcode
 | [0413-arithmetic-slices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
