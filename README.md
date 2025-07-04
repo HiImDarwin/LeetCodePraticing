@@ -168,6 +168,7 @@ upload the code I write on leetcode
 | [1170-shortest-common-supersequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1250-longest-common-subsequence) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
@@ -229,6 +230,7 @@ upload the code I write on leetcode
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Trie
 |  |
 | ------- |
@@ -606,6 +608,7 @@ upload the code I write on leetcode
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 ## Combinatorics
 |  |
@@ -645,6 +648,7 @@ upload the code I write on leetcode
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
@@ -735,6 +739,7 @@ upload the code I write on leetcode
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -766,6 +771,7 @@ upload the code I write on leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
