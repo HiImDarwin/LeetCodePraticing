@@ -621,6 +621,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -752,6 +753,7 @@ upload the code I write on leetcode
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -779,6 +781,7 @@ upload the code I write on leetcode
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0450-delete-node-in-a-bst) |
@@ -788,6 +791,7 @@ upload the code I write on leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
