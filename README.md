@@ -381,6 +381,7 @@ upload the code I write on leetcode
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
@@ -750,6 +751,7 @@ upload the code I write on leetcode
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 ## Tree
 |  |
 | ------- |
