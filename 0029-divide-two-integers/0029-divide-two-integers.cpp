@@ -1,34 +1,33 @@
 class Solution {
-public:
+  public:
     int divide(int dividend, int divisor) {
       long a = (long)dividend;
       long b = (long)divisor;
-      long quotient = 0;
-      int sign =1;
-      if(a < 0) sign *= -1;
-      if(b < 0) sign *= -1;
+      int quoSign = 1;
+      quoSign *= ((a < 0) ? -1 : 1);
+      quoSign *= ((b < 0) ? -1 : 1);
+
+
       a = abs(a);
       b = abs(b);
-
+      long quotient = 0;
       while(a >= b) {
         long c = b;
-        int count = 1;
-        while((c<<1) < a) {
+        long count = 1;
+        while( (c << 1) <= a) {
           c <<= 1;
-          count = count<<1;
+          count <<= 1;
         }
         quotient += count;
         a -= c;
       }
-      cout << quotient << endl;
 
-      quotient *= sign;
-      if(quotient > INT_MAX) 
+      quotient = quotient * quoSign;
+      if(quotient > INT_MAX)
         return INT_MAX;
-      else if(quotient < INT_MIN) 
+      else if(quotient < INT_MIN)
         return INT_MIN;
-      else
-        return quotient;
+      else return quotient;
     }
 };
 
