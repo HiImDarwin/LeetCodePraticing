@@ -2,9 +2,8 @@ class Solution {
 public:
     int minimizeMax(vector<int>& nums, int p) {
       if (p == 0) return 0;
-      int biggest = *max_element(nums.begin(), nums.end());
       sort(nums.begin(), nums.end());
-      int left = 0, right = biggest;
+      int left = 0, right = nums[nums.size()-1] - nums[0];
       while(left < right) {
         int mid = left + (right - left) / 2;
         if(enoughPair(nums, p, mid)) {
