@@ -34,21 +34,45 @@
 // };
 class Solution {
   public:
+    // int splitArray(vector<int>& nums, int k) {
+    //   int n = nums.size();
+    //   nums.insert(nums.begin(),0);
+    //   vector<vector<long>> dp(n+1,vector<long>(k+1,INT_MAX));
+    //   dp[0][0] = 0;
+    //   for(int i = 1; i <= n; ++i) {
+    //     for(int x=1; x<=min(k,i);x++) {
+    //       long sum = 0;
+    //       for(int j =i; j>=x; j--) {
+    //         sum+=nums[j];
+    //         dp[i][x] = min(dp[i][x], max(dp[j-1][x-1], sum));
+    //       }
+    //     }
+    //   }
+    //   return dp[n][k];
+    // }
     int splitArray(vector<int>& nums, int k) {
-      int n = nums.size();
+      int n =nums.size();
       nums.insert(nums.begin(),0);
-      vector<vector<long>> dp(n+1,vector<long>(k+1,INT_MAX));
+      vector<vector<long>> dp(k+1,vector<long>(n + 1,LONG_MAX));
+      std::vector<long long> prefixSum(n + 1, 0);
+      for(int i = 1; i<=n;++i) {
+        prefixSum[i] = prefixSum[i-1] + nums[i];
+      }
+
       dp[0][0] = 0;
-      for(int i = 1; i <= n; ++i) {
-        for(int x=1; x<=min(k,i);x++) {
-          long sum = 0;
-          for(int j =i; j>=x; j--) {
-            sum+=nums[j];
-            dp[i][x] = min(dp[i][x], max(dp[j-1][x-1], sum));
+
+      for(int group = 1; group <= k; ++group) {
+        for(int i = 1; i<=n; ++i) {
+          for (int j = 0; j < i; ++j) {
+            if (j >= group - 1) { 
+              long current_group_sum = prefixSum[i] - prefixSum[j];
+              if (dp[group - 1][j] != LLONG_MAX) 
+                dp[group][i] = min(dp[group][i],max(dp[group-1][j],current_group_sum));
+            }
           }
         }
       }
-      return dp[n][k];
+      return dp[k][n];
     }
 };
 /*
@@ -67,7 +91,8 @@ Dp initialization
   we used -1 to represent it
 Dp status transfer
   dp[i][j] =max( min(dp[i-1][j-1]: dp[i-1][j-n]) )
-
+  前 j 個元素分成 k-1份的左有可能 與 sum[i]-sum[j] 找出最大
+  j的範圍 (k-1 ~ i-1)
 
 way 2 Binary Seach
 a: the minimum sum may be the maximun element value of array
