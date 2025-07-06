@@ -32,8 +32,8 @@ public:
         int mid = left + (right - left) / 2;
         int count = 0;
         for (int i = 0,j = 0; i < n; ++i) {
-           auto pos=upper_bound(nums.begin(),nums.end(), nums[i]+mid);
-                count+= pos-1-(nums.begin()+i);
+         auto pos = upper_bound(nums.begin(), nums.end(), nums[i]+mid);
+         count += pos - (nums.begin()+i+1); // [pos ~ ]
         }
         if(count < k) {
           left = mid + 1;
