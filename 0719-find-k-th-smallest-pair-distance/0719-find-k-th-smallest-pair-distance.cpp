@@ -21,7 +21,7 @@ public:
     //     }
     //     return i-1;
     // }
-    // Binary Search + DP
+    // Binary Search  
     int smallestDistancePair(vector<int>& nums, int k) {
       int n = nums.size();
       sort(nums.begin(), nums.end());
@@ -31,9 +31,14 @@ public:
       while(left < right) {
         int mid = left + (right - left) / 2;
         int count = 0;
-        for (int i = 0,j = 0; i < n; ++i) {
-         auto pos = upper_bound(nums.begin(), nums.end(), nums[i]+mid);
-         count += pos - (nums.begin()+i+1); // [pos ~ ]
+        int i = 0,j = 0;
+
+        while(i<n) {
+          while( j < n && nums[j] - nums[i] <= mid){
+            j++;
+          }
+          count += j-i-1;
+          i++;
         }
         if(count < k) {
           left = mid + 1;
