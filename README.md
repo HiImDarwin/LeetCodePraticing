@@ -65,6 +65,7 @@ upload the code I write on leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -181,6 +182,7 @@ upload the code I write on leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
@@ -403,6 +405,7 @@ upload the code I write on leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
