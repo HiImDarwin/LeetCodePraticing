@@ -198,6 +198,7 @@ upload the code I write on leetcode
 | [0138-copy-list-with-random-pointer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
@@ -294,6 +295,7 @@ upload the code I write on leetcode
 | [0135-candy](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0162-find-peak-element) |
@@ -418,6 +420,7 @@ upload the code I write on leetcode
 | [0067-add-binary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
@@ -571,6 +574,7 @@ upload the code I write on leetcode
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
