@@ -1,20 +1,26 @@
 class TwoSum {
-    unordered_set<long> element;
-    unordered_set<long> sumUp;
+    unordered_map<int,int> element;
 public:
     TwoSum() {
 
     }
     
     void add(int number) {
-        for(const long &x : element) {
-          sumUp.insert(x+(long)number);
-        }
-        element.insert((long)number);
+       element[number]++;
     }
     
     bool find(int value) {
-      return  sumUp.count(value);
+      for(auto a: element){
+        long target = (long)value - a.first;
+        if(target == a.first) {
+          if (a.second > 1) return true;
+          else continue;
+        } 
+        if(element.find(target)!=element.end()) {
+          return true;
+        }
+      }
+      return false;
     }
 };
 
