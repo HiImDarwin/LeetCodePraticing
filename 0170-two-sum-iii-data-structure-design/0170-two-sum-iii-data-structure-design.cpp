@@ -11,13 +11,13 @@ public:
     
     bool find(int value) {
       for(auto a: element){
-        long target = (long)value - a.first;
-        if(target == a.first) {
-          if (a.second > 1) return true;
-          else continue;
-        } 
-        if(element.find(target)!=element.end()) {
-          return true;
+        if(element.find((long)value - a.first) != element.end()) {
+          if((long)value - a.first == a.first) {
+            if(a.second > 1 )
+              return true;
+          } else {
+            return true;
+          }
         }
       }
       return false;
