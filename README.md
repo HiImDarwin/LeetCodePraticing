@@ -57,6 +57,7 @@ upload the code I write on leetcode
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [1019-squares-of-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -106,6 +107,7 @@ upload the code I write on leetcode
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1250-longest-common-subsequence) |
@@ -169,6 +171,7 @@ upload the code I write on leetcode
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
+| [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1250-longest-common-subsequence) |
@@ -222,6 +225,7 @@ upload the code I write on leetcode
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
+| [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
@@ -368,6 +372,7 @@ upload the code I write on leetcode
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
+| [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
@@ -514,6 +519,7 @@ upload the code I write on leetcode
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
