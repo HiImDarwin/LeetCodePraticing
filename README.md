@@ -209,6 +209,7 @@ upload the code I write on leetcode
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
@@ -323,6 +324,7 @@ upload the code I write on leetcode
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0327-count-of-range-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
@@ -914,6 +916,7 @@ upload the code I write on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0410-split-array-largest-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0525-contiguous-array) |
