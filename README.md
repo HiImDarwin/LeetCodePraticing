@@ -84,6 +84,7 @@ upload the code I write on leetcode
 | [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0166-fraction-to-recurring-decimal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
@@ -201,6 +202,7 @@ upload the code I write on leetcode
 | [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
@@ -421,6 +423,7 @@ upload the code I write on leetcode
 | [0069-sqrtx](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
