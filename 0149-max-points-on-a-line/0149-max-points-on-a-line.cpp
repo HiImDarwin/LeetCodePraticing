@@ -1,44 +1,71 @@
+// class Solution {
+// public:
+//     int maxPoints(vector<vector<int>>& points) {
+//       int n = points.size();
+//       if(n == 1) return 1;
+//       int res = 1;
+//       for(int i = 0; i < n; ++i) {
+//         map<pair<int,int>, int> count;
+//         int samePoint = 0;
+//         int vertical = 0;
+//         for(int j = 0; j < n; ++j) {
+//           if(i == j) continue;
+//           int dx = points[i][0] - points[j][0];
+//           int dy = points[i][1] - points[j][1];
+//           if(dx == 0 && dy == 0) {
+//             samePoint++;
+//           } else if  (dy == 0) {
+//             vertical++;
+//           } else {
+//             int a = dx/gcd(dx,dy);
+//             int b = dy/gcd(dx,dy);
+//             count[{a,b}]++;
+//           }
+//         }
+//         res = max(res, vertical + samePoint + 1);
+//         for (auto x : count) {
+//           res = max(res, x.second + samePoint + 1);
+//         }
+//       }
+//       return res;
+//     }
+// };
+
 class Solution {
 public:
     int maxPoints(vector<vector<int>>& points) {
-      int n = points.size();
-      if(n == 1) return 1;
-      int res = 1;
-      for(int i = 0; i < n; ++i) {
-        map<pair<int,int>, int> count;
-        int samePoint = 0;
-        int vertical = 0;
-        for(int j = 0; j < n; ++j) {
-          if(i == j) continue;
-          int dx = points[i][0] - points[j][0];
-          int dy = points[i][1] - points[j][1];
-          if(dx == 0 && dy == 0) {
-            samePoint++;
-          } else if  (dy == 0) {
-            vertical++;
-          } else {
-            int a = dx/gcd(dx,dy);
-            int b = dy/gcd(dx,dy);
-            count[{a,b}]++;
-          }
+        int ans = 1;
+        int n = points.size();
+        map<double, int> mp;
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                double x = (double)(points[i][1] - points[j][1]) /
+                           (double)(points[i][0] - points[j][0]);
+
+                if ((points[j][0] - points[i][0]) == 0) {
+
+                    mp[abs(x)]++;
+                } else {
+                    mp[x]++;
+                }
+            }
+
+            for (auto v : mp) {
+                ans = max(ans, v.second + 1);
+            }
+
+            mp.clear();
         }
-        res = max(res, vertical + samePoint + 1);
-        for (auto x : count) {
-          res = max(res, x.second + samePoint + 1);
-        }
-      }
-      return res;
+        return ans;
     }
 };
-
-
 
 /*
 for any two point
 cal the slope of it and put into hash map
 
 
-how to deal with the floating point? 
+how to deal with the floating point?
 so we can't use the way how it goes
 
 Way 1
@@ -69,4 +96,3 @@ question
 3. duplicate node in nums?
 
 */
-
