@@ -108,6 +108,7 @@ upload the code I write on leetcode
 | [0583-delete-operation-for-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
+| [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
@@ -227,6 +228,7 @@ upload the code I write on leetcode
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -370,6 +372,7 @@ upload the code I write on leetcode
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
