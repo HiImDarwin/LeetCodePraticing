@@ -2,25 +2,32 @@ class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
       unordered_map<string,int> Map;
-      unordered_set<string> Set;
       int count = 0;
       for(string &word : words) {
         if (word[0] == word[1]) {
-          if (Set.find(word) != Set.end()) {
-            count++;
-            Set.erase(word);
-          } else {
-            Set.insert(word);
-          }
-        } else if (Map[word] > 0) {
-          count++;
-          Map[word]--;
+          Map[word]++;
         } else {
-          string tmp = string(1,word[1])+word[0];
-          Map[tmp]++;
+          string rev = word;
+          reverse(rev.begin(), rev.end());
+          if (Map[rev] > 0) {
+              count+=4;
+              Map[rev]--;
+          } else {
+              Map[word]++;
+          }
         }
       }
-      return count*4 + (Set.size() > 0 ? 2 : 0); 
+      bool center = false;
+      for(auto word : Map) {
+        if(word.first[0] == word.first[1]) {
+          count += 4*(word.second/2);
+          if(!center && word.second%2 == 1) {
+            count += 2;
+            center = true;
+          } 
+        }
+      }
+      return count;
     }
 };
 
