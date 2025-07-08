@@ -117,6 +117,7 @@ upload the code I write on leetcode
 | [1351-replace-the-substring-for-balanced-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -452,6 +453,7 @@ upload the code I write on leetcode
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
 | [2383-add-two-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
