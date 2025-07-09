@@ -2,34 +2,24 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
       int n = nums.size(); 
-      unordered_map<int,int> forward,backward;
-      forward[0] = -1;
+      unordered_map<int,int> backward;
       backward[0] = n;
-      int forwardSum = 0;
-      int backwardSum = 0;
+      int preSum = 0;
 
-      for(int i = 0 ,j = n-1; i < n; ++i) {
-        forwardSum  += nums[i];
-        backwardSum += nums[j-i];
-        forward[forwardSum] = i;
-        backward[backwardSum] = j-i;
+      for(int i = n-1 ; i >= 0; --i) {
+        preSum += nums[i];
+        backward[preSum] = i;
       }
-      if(forwardSum < x) return -1;
+      if(preSum < x) return -1;
+
       int res = INT_MAX;
-      forwardSum = 0;
-      backwardSum = 0;
-      if(backward.find(x-forwardSum) != backward.end())
-        res = min(res,(n - backward[x-forwardSum]));
-      if(forward.find(x-backwardSum) != forward.end())
-        res = min(res,(forward[x-backwardSum] + 1));
-      for(int i = 0,j = n-1; i < n; ++i) {
-        forwardSum  += nums[i];
-        backwardSum +  nums[j-i];
-        if(backward.find(x-forwardSum) != backward.end()) {
-          res = min(res,(i + 1) + (n - backward[x-forwardSum]));
-        }
-        if(forward.find(x-backwardSum) != forward.end()) {
-          res = min(res,(forward[x-backwardSum] + 1) + (n - (j-i)));
+      if(backward.find(x)!= backward.end())
+        res = min(res,n-backward[x]);     
+        preSum = 0;
+      for(int i = 0; i < n; ++i) {
+        preSum += nums[i];
+        if(backward.find(x-preSum) != backward.end()) {
+          res = min(res,(n-backward[x-preSum]) + i + 1);
         }
       }
       return res == INT_MAX ? -1 : res;
