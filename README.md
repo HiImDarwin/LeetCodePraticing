@@ -247,6 +247,7 @@ upload the code I write on leetcode
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
+| [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Design
@@ -413,6 +414,7 @@ upload the code I write on leetcode
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
@@ -957,6 +959,7 @@ upload the code I write on leetcode
 | [1206-corporate-flight-bookings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
