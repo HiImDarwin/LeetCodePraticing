@@ -260,6 +260,7 @@ upload the code I write on leetcode
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
+| [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Trie
@@ -380,6 +381,7 @@ upload the code I write on leetcode
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
@@ -812,6 +814,7 @@ upload the code I write on leetcode
 | [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
@@ -1028,6 +1031,7 @@ upload the code I write on leetcode
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0406-queue-reconstruction-by-height) |
+| [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1052,4 +1056,5 @@ upload the code I write on leetcode
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0327-count-of-range-sum) |
+| [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
