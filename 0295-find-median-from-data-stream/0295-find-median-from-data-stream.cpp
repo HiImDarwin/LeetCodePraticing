@@ -1,36 +1,69 @@
 class MedianFinder {
-  multiset<int> left,right;
+//   multiset<int> left,right;
+//   int count;
+// public:
+//     MedianFinder() {
+//       count = 2;
+//       left.insert(INT_MIN);
+//       right.insert(INT_MAX);
+//     }
+    
+//     void addNum(int num) {
+//       if(count%2 == 0 && num < *right.begin()){
+//         left.insert(num);
+//       } else if(count%2 == 0 && num > *left.rbegin()) {
+//         left.insert(*right.begin());
+//         right.erase(right.begin());
+//         right.insert(num);
+//       }  else if(count%2 == 1 && num < *left.rbegin()) {
+//         right.insert(*left.rbegin());
+//         left.erase(--left.end());
+//         left.insert(num);
+//       } else {
+//         right.insert(num);
+//       }
+//       count++;
+//     }
+    
+//     double findMedian() {
+//       if(count <=2) return 0;
+//       if(count%2 == 1){
+//         return *left.rbegin();
+//       } else {
+//         return (*left.rbegin()+*right.begin()) / 2.0;
+//       }
+//     }
+
+  priority_queue<int> left; // max Heap
+  priority_queue<int,vector<int>,greater<int>>right; // min Heap
   int count;
 public:
     MedianFinder() {
       count = 2;
-      left.insert(INT_MIN);
-      right.insert(INT_MAX);
+      left.push(INT_MIN);
+      right.push(INT_MAX);
     }
-    
     void addNum(int num) {
-      if(count%2 == 0 && num < *right.begin()){
-        left.insert(num);
-      } else if(count%2 == 0 && num > *left.rbegin()) {
-        left.insert(*right.begin());
-        right.erase(right.begin());
-        right.insert(num);
-      }  else if(count%2 == 1 && num < *left.rbegin()) {
-        right.insert(*left.rbegin());
-        left.erase(--left.end());
-        left.insert(num);
+      if (count%2 == 0 && num <= right.top()) {
+        left.push(num);
+      } else if (count%2 == 0 && num > right.top()){
+        int tmp = right.top(); right.pop();
+        left.push(tmp);
+        right.push(num);
+      } else if (count%2 == 1 && num >= left.top()) {
+        right.push(num);
       } else {
-        right.insert(num);
+        int tmp = left.top(); left.pop();
+        left.push(num);
+        right.push(tmp);
       }
       count++;
     }
-    
     double findMedian() {
-      if(count <=2) return 0;
-      if(count%2 == 1){
-        return *left.rbegin();
+      if(count%2 == 1) {
+        return left.top();
       } else {
-        return (*left.rbegin()+*right.begin()) / 2.0;
+        return (left.top()+right.top())/2.0;
       }
     }
 };
