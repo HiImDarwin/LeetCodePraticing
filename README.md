@@ -328,6 +328,7 @@ upload the code I write on leetcode
 | [0213-house-robber-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
+| [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
@@ -536,6 +537,7 @@ upload the code I write on leetcode
 | [0056-merge-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0354-russian-doll-envelopes) |
@@ -979,6 +981,7 @@ upload the code I write on leetcode
 | [0076-minimum-window-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0413-arithmetic-slices) |
@@ -1005,6 +1008,7 @@ upload the code I write on leetcode
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
@@ -1045,6 +1049,7 @@ upload the code I write on leetcode
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
