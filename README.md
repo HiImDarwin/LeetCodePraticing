@@ -42,6 +42,7 @@ upload the code I write on leetcode
 | [0170-two-sum-iii-data-structure-design](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
@@ -258,6 +259,7 @@ upload the code I write on leetcode
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
@@ -544,6 +546,7 @@ upload the code I write on leetcode
 | [0075-sort-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0354-russian-doll-envelopes) |
@@ -581,6 +584,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
@@ -954,6 +958,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
 ## Prefix Sum
 |  |
