@@ -1,39 +1,51 @@
 class Solution {
 public:
+    // vector<int> pathInZigZagTree(int label) {
+    //   stack<int> st;
+    //   vector<int> res;
+    //   int depth = 1;
+    //   int original = 1, mirror = 1;
+    //   res.push_back(1);
+    //   int height = 1;
+    //   while(label >= pow(2,height)) {
+    //     height++;
+    //   }
+    //   if (height%2 == 0) {
+    //     int y = pow(2,height)-1 - label;
+    //     label = pow(2,height-1) + y;
+    //   }
+    //   while(label > 1) {
+    //     st.push(label & 1);
+    //     label = label >> 1;
+    //   }
+    //   while(!st.empty()) {
+    //     int way = st.top(); st.pop();
+    //     if(way == 0) {
+    //       original = original * 2;
+    //       mirror = mirror * 2 + 1;
+    //     } else {
+    //       original = original * 2 + 1;
+    //       mirror = mirror * 2;
+    //     }
+    //     if(++depth%2 == 0) {
+    //       res.push_back(mirror);
+    //     } else {
+    //       res.push_back(original);
+    //     }
+    //   }
+    //   return res;
+    // }
     vector<int> pathInZigZagTree(int label) {
-      stack<int> st;
-      vector<int> res;
-      int depth = 1;
-      int original = 1, mirror = 1;
-      res.push_back(1);
-      int height = 1;
-      while(label >= pow(2,height)) {
-        height++;
+      vector<int> path;
+      while(label > 0) {
+        path.push_back(label);
+        int x = log2(label) + 1; // get the height
+        int max = (1 << x) - 1;
+        int min = (1 << (x-1));
+        label = (min + max-label) / 2; //find the mirror parent
       }
-      if (height%2 == 0) {
-        int y = pow(2,height)-1 - label;
-        label = pow(2,height-1) + y;
-      }
-      while(label > 1) {
-        st.push(label & 1);
-        label = label >> 1;
-      }
-      while(!st.empty()) {
-        int way = st.top(); st.pop();
-        if(way == 0) {
-          original = original * 2;
-          mirror = mirror * 2 + 1;
-        } else {
-          original = original * 2 + 1;
-          mirror = mirror * 2;
-        }
-        if(++depth%2 == 0) {
-          res.push_back(mirror);
-        } else {
-          res.push_back(original);
-        }
-      }
-      return res;
+      reverse(path.begin(),path.end());
+      return path;
     }
 };
 
