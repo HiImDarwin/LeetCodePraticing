@@ -481,6 +481,7 @@ upload the code I write on leetcode
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
@@ -897,6 +898,7 @@ upload the code I write on leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
@@ -949,6 +951,7 @@ upload the code I write on leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
