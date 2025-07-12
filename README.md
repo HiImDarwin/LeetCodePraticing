@@ -259,6 +259,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
@@ -862,6 +863,7 @@ upload the code I write on leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
@@ -887,6 +889,7 @@ upload the code I write on leetcode
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0285-inorder-successor-in-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
@@ -908,6 +911,7 @@ upload the code I write on leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
@@ -955,6 +959,7 @@ upload the code I write on leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
@@ -1098,4 +1103,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
