@@ -18,22 +18,16 @@ public:
 
     int numberOfNodes(int n, vector<int>& queries) {
       unordered_map<int,int> mp;
-      int res = 0;
       for(auto &qu : queries) {
         mp[qu]++;
       }
-      dfs(mp, 1, 0, res, n);
-      return res;
+      return dfs(mp, 1, 0, n);
     }
 
-    void dfs(unordered_map<int,int> &mp, int idx, int flip, int &res, int nodeNum) {
-      if(idx > nodeNum) return;
+    int dfs(unordered_map<int,int> &mp, int idx, int flip, int nodeNum) {
+      if(idx > nodeNum) return 0;
       flip += mp[idx];
-      if(flip & 1) {
-        res++;
-      }
-      dfs(mp, idx*2, flip, res, nodeNum);
-      dfs(mp, idx*2+1, flip, res, nodeNum);
+      return (flip & 1) + dfs(mp, idx*2, flip, nodeNum) + dfs(mp, idx*2+1, flip, nodeNum);
     }
 
 };
