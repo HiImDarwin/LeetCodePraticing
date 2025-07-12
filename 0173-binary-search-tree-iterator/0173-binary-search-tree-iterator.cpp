@@ -10,36 +10,45 @@
  * };
  */
 class BSTIterator {
-  vector<int> vec;
-  int idx;
+  stack<TreeNode*> st;
 
 public:
     BSTIterator(TreeNode* root) {
-      inorderTraversal(root);
-      idx = 0;
+      leftmostInorder(root);
     }
     
     int next() {
-      return idx <vec.size() ? vec[idx++] : 0;
+      TreeNode* tmp = st.top(); st.pop();
+      if(tmp->right) {
+        leftmostInorder(tmp->right);
+      }
+      return tmp->val;
     }
     
     bool hasNext() {
-      return idx < vec.size() ? true : false;
+      return !st.empty();
     }
 
-  void inorderTraversal(TreeNode* root) {
-    TreeNode* curr = root;
-    stack<TreeNode*> st;
-    while (curr || !st.empty()) {
-      while(curr) {
-        st.push(curr);
-        curr = curr->left;
+    // void inorderTraversal(TreeNode* root) {
+    //   TreeNode* curr = root;
+    //   stack<TreeNode*> st;
+    //   while (curr || !st.empty()) {
+    //     while(curr) {
+    //       st.push(curr);
+    //       curr = curr->left;
+    //     }
+    //     curr = st.top(); st.pop();
+    //     vec.push_back(curr->val);
+    //     curr = curr->right;
+    //   }
+    // }
+ 
+    void leftmostInorder(TreeNode* root) {
+      while(root != NULL) {
+        st.push(root);
+        root = root->left;
       }
-      curr = st.top(); st.pop();
-      vec.push_back(curr->val);
-      curr = curr->right;
     }
-  }
 };
 
 /**
@@ -52,5 +61,7 @@ public:
 
  /*
   inorder_traversal
-
+  bonus condition
+  average O(1) time and use O(h) memory, where h is the height of the tree?
+  for each time traversal a 
  */
