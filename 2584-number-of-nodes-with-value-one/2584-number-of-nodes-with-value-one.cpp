@@ -29,7 +29,7 @@ public:
     void dfs(unordered_map<int,int> &mp, int idx, int flip, int &res, int nodeNum) {
       if(idx > nodeNum) return;
       flip += mp[idx];
-      if(flip%2 == 1) {
+      if(flip & 1) {
         res++;
       }
       dfs(mp, idx*2, flip, res, nodeNum);
