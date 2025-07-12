@@ -743,6 +743,7 @@ upload the code I write on leetcode
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
+| [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
@@ -888,6 +889,7 @@ upload the code I write on leetcode
 | [0783-search-in-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -904,6 +906,7 @@ upload the code I write on leetcode
 | [0450-delete-node-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -936,6 +939,7 @@ upload the code I write on leetcode
 | [0783-search-in-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 ## Minimum Spanning Tree
@@ -981,6 +985,7 @@ upload the code I write on leetcode
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
