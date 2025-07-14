@@ -439,6 +439,7 @@ upload the code I write on leetcode
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -703,6 +704,7 @@ upload the code I write on leetcode
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 ## Combinatorics
 |  |
@@ -756,6 +758,7 @@ upload the code I write on leetcode
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 ## Matrix
 |  |
@@ -806,6 +809,7 @@ upload the code I write on leetcode
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -904,6 +908,7 @@ upload the code I write on leetcode
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 ## Binary Search Tree
 |  |
