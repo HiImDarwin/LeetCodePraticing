@@ -236,6 +236,7 @@ upload the code I write on leetcode
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
@@ -701,6 +702,7 @@ upload the code I write on leetcode
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -754,6 +756,7 @@ upload the code I write on leetcode
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
@@ -909,6 +912,7 @@ upload the code I write on leetcode
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
@@ -970,6 +974,7 @@ upload the code I write on leetcode
 | [0687-longest-univalue-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
