@@ -767,6 +767,7 @@ upload the code I write on leetcode
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1665-diameter-of-n-ary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1665-diameter-of-n-ary-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -925,6 +926,7 @@ upload the code I write on leetcode
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1665-diameter-of-n-ary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1665-diameter-of-n-ary-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -986,6 +988,7 @@ upload the code I write on leetcode
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
