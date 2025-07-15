@@ -785,6 +785,7 @@ upload the code I write on leetcode
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
+| [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Matrix
 |  |
@@ -947,6 +948,7 @@ upload the code I write on leetcode
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
+| [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Binary Search Tree
 |  |
@@ -1012,6 +1014,7 @@ upload the code I write on leetcode
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
+| [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1063,6 +1066,7 @@ upload the code I write on leetcode
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
