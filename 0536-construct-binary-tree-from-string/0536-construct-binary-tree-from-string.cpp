@@ -31,14 +31,24 @@ public:
 
       TreeNode* node = new TreeNode(num*sign);
 
-      while(index < s.length() && s[index] == '(') {
+      // while(index < s.length() && s[index] == '(') {
+      //   index++;
+      //   if(!node->left) {
+      //     node->left = buildTree(s,index);
+      //   } else {
+      //     node->right = buildTree(s,index);
+      //   }
+      // }
+      if(index < s.length() && s[index] == '(') {
         index++;
-        if(!node->left) {
-          node->left = buildTree(s,index);
-        } else {
-          node->right = buildTree(s,index);
-        }
+        node->left = buildTree(s,index);
       }
+
+      if(index < s.length() && s[index] == '(') {
+        index++;
+        node->right = buildTree(s,index);
+      }
+
 
       if(s[index] == ')'){
         index++;
