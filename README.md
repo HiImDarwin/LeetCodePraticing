@@ -108,6 +108,7 @@ upload the code I write on leetcode
 | [0474-ones-and-zeroes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
@@ -751,6 +752,7 @@ upload the code I write on leetcode
 | [0437-path-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
@@ -915,6 +917,7 @@ upload the code I write on leetcode
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0655-print-binary-tree) |
@@ -985,6 +988,7 @@ upload the code I write on leetcode
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0655-print-binary-tree) |
@@ -1046,6 +1050,7 @@ upload the code I write on leetcode
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0503-next-greater-element-ii) |
+| [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
 | [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0775-n-ary-tree-preorder-traversal) |
