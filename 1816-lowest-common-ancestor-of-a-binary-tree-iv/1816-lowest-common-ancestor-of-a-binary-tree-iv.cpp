@@ -14,20 +14,18 @@ class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, vector<TreeNode*> &nodes) {
       int count = 0;
-      TreeNode* ancestor = lca(root, nodes, count);
+      unordered_set<TreeNode*> nodeSet(nodes.begin(),nodes.end());
+      TreeNode* ancestor = lca(root, nodeSet, count);
       return count == nodes.size() ? ancestor : nullptr;
     }
-    TreeNode* lca(TreeNode* root, vector<TreeNode*> &nodes, int &count) {
+    TreeNode* lca(TreeNode* root, unordered_set<TreeNode*> &nodes, int &count) {
       if(!root) return nullptr;
       TreeNode* left = lca(root->left, nodes, count);
       TreeNode* right = lca(root->right, nodes, count);
-
-      for(auto target : nodes) {
-        if (root == target){
-          count++;
-          return root;
-        }
-      }
+      if(nodes.find(root)!=nodes.end()){
+        count++;
+        return root;
+      }  
       if(left && right) return root;
       return left ? left : right;
     }
