@@ -424,6 +424,7 @@ upload the code I write on leetcode
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
@@ -1075,6 +1076,7 @@ upload the code I write on leetcode
 | [0933-increasing-order-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1088,6 +1090,7 @@ upload the code I write on leetcode
 | [0503-next-greater-element-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
+| [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Data Stream
