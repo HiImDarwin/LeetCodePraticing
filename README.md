@@ -450,6 +450,7 @@ upload the code I write on leetcode
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
+| [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -898,6 +899,7 @@ upload the code I write on leetcode
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
