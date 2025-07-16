@@ -52,6 +52,7 @@ upload the code I write on leetcode
 | [0475-heaters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
@@ -109,6 +110,7 @@ upload the code I write on leetcode
 | [0516-longest-palindromic-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
+| [0556-next-greater-element-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
@@ -489,6 +491,7 @@ upload the code I write on leetcode
 | [0343-integer-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0343-integer-break) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0650-2-keys-keyboard) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
