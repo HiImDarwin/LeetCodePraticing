@@ -450,6 +450,7 @@ upload the code I write on leetcode
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1080,6 +1081,7 @@ upload the code I write on leetcode
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -1093,6 +1095,7 @@ upload the code I write on leetcode
 | [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 ## Data Stream
 |  |
 | ------- |
@@ -1123,6 +1126,7 @@ upload the code I write on leetcode
 | [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
