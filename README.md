@@ -105,6 +105,7 @@ upload the code I write on leetcode
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
@@ -670,6 +671,7 @@ upload the code I write on leetcode
 | [0135-candy](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -1075,6 +1077,7 @@ upload the code I write on leetcode
 | [0341-flatten-nested-list-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0503-next-greater-element-ii) |
 | [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
@@ -1101,6 +1104,7 @@ upload the code I write on leetcode
 | [0042-trapping-rain-water](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
