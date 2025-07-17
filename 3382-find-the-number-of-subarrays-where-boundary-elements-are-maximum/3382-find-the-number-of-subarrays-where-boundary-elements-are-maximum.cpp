@@ -7,13 +7,11 @@ public:
         while(!st.empty() && nums[i] > st.top().first) {
           st.pop();
         }
-        if(!st.empty() && nums[i] == st.top().first) {
-          st.top().second++;
-          res += st.top().second;
-          continue;
+        if(st.empty() || nums[i] != st.top().first) {
+          st.push({nums[i],0});
         } 
-        res++;
-        st.push({nums[i],1});
+        st.top().second++;
+        res += st.top().second;
       }
       return res;
     }
