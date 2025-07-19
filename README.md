@@ -456,6 +456,7 @@ upload the code I write on leetcode
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
@@ -638,6 +639,7 @@ upload the code I write on leetcode
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 ## Divide and Conquer
 |  |
@@ -694,6 +696,7 @@ upload the code I write on leetcode
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
