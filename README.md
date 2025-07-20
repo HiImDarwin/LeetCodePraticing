@@ -119,6 +119,7 @@ upload the code I write on leetcode
 | [0583-delete-operation-for-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0886-score-of-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0886-score-of-parentheses) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -249,6 +250,7 @@ upload the code I write on leetcode
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
@@ -619,6 +621,7 @@ upload the code I write on leetcode
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
@@ -652,6 +655,7 @@ upload the code I write on leetcode
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0885-exam-room](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0885-exam-room) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
@@ -718,6 +722,7 @@ upload the code I write on leetcode
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1026-string-without-aaa-or-bbb) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
@@ -742,6 +747,7 @@ upload the code I write on leetcode
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
