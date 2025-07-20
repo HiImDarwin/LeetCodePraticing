@@ -467,6 +467,7 @@ upload the code I write on leetcode
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -721,6 +722,7 @@ upload the code I write on leetcode
 | [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1917-maximum-average-pass-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
