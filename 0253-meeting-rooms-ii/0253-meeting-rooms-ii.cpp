@@ -1,30 +1,20 @@
 class Solution {
 public:
     int minMeetingRooms(vector<vector<int>>& intervals) {
-      int res = 0;
-      int count = 0;
+      int maxRoom = 0;
+      int room = 0;
       int n = intervals.size();
-      vector<int> arrive,leave;
+      vector<pair<int,int>> timeLine;
       for(auto interval :intervals) {
-        arrive.push_back(interval[0]);
-        leave.push_back(interval[1]);
+        timeLine.push_back({interval[0],1});
+        timeLine.push_back({interval[1],-1});
       }
-      sort(arrive.begin(),arrive.end());
-      sort(leave.begin(),leave.end());
-      int i = 0, j = 0;
-      while( i < n && j < n ) {
-        if(arrive[i] < leave[j]) {
-          count++;
-          i++;
-        } else if(arrive[i] == leave[j]) {
-          i++;
-          j++;
-        } else {
-          count--;
-          j++;
-        }
-        res = max(res,count);
+      sort(timeLine.begin(),timeLine.end());
+      for(auto [time, delta] : timeLine){
+        room += delta;
+        maxRoom = max(maxRoom,room);
       }
-      return res;
+      return maxRoom;
     }
+    
 };
