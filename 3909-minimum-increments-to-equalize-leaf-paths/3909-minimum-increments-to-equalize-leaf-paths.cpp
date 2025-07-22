@@ -2,7 +2,6 @@ class Solution {
 public:
     int minIncrease(int n, vector<vector<int>>& edges, vector<int>& cost) {
         unordered_map<int,vector<int>> adj;
-        vector<bool> visited(n,false);
         //O(E)
         for(auto edge : edges) {
           int u = edge[0];
@@ -12,26 +11,25 @@ public:
         }
         int equalCostPath = 0;
         int editNode = 0;
-        DFS(0, adj, cost, visited, editNode);
+        DFS(0, -1, adj, cost, editNode);
         return editNode;
     }
 
-    long long DFS(int node, unordered_map<int,vector<int>> &adj, vector<int>& cost, vector<bool> &visited, int &editNode) {
+    long long DFS(int node,int parent, unordered_map<int,vector<int>> &adj, vector<int>& cost, int &editNode) {
       long long  maxPathVal = 0;
       int maxPathCount = 0;
       int pathCount = 0;
-      visited[node] = true;
       for(auto neighbor : adj[node]) {
-        if(!visited[neighbor]) {
-          long long pathVal = DFS(neighbor, adj, cost, visited, editNode);
-          pathCount++;
-          if(pathVal > maxPathVal) {
-            maxPathVal = pathVal;
-            maxPathCount = 1;
-          } else if (pathVal == maxPathVal) {
-            maxPathCount++;
-          }
+        if (neighbor == parent) continue;
+        long long pathVal = DFS(neighbor, node, adj, cost, editNode);
+        pathCount++;
+        if(pathVal > maxPathVal) {
+          maxPathVal = pathVal;
+          maxPathCount = 1;
+        } else if (pathVal == maxPathVal) {
+          maxPathCount++;
         }
+        
       }
       editNode += pathCount - maxPathCount;
       return maxPathVal + cost[node];
