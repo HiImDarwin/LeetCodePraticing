@@ -208,6 +208,7 @@ upload the code I write on leetcode
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -496,6 +497,7 @@ upload the code I write on leetcode
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Memoization
 |  |
 | ------- |
@@ -863,6 +865,7 @@ upload the code I write on leetcode
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -1031,6 +1034,7 @@ upload the code I write on leetcode
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
