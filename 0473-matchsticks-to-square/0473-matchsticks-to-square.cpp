@@ -46,6 +46,7 @@ public:
         if(dfs(index+1, matchsticks, sides, target))
           return true;
         sides[i] -= matchsticks[index];
+        if (sides[i] == 0) break;
       }
       return false;
     }
