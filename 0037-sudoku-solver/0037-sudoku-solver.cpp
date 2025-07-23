@@ -1,9 +1,9 @@
 class Solution {
 public:
     void solveSudoku(vector<vector<char>>& board) {
-      vector<set<char>> block(9);
-      vector<set<char>> col(9); 
-      vector<set<char>> row(9);  
+      vector<unordered_set<char>> block(9);
+      vector<unordered_set<char>> col(9); 
+      vector<unordered_set<char>> row(9);  
       for(int i = 0; i < 9; ++i) {
         for(int j = 0; j < 9; ++j) {
           if(board[i][j] == '.') continue;
@@ -14,7 +14,7 @@ public:
       }
       dfs(0,0,board,block,col,row);
     }
-    bool dfs(int x, int y , vector<vector<char>>& board, vector<set<char>> &block, vector<set<char>> &col,  vector<set<char>> &row) {
+    bool dfs(int x, int y , vector<vector<char>>& board, vector<unordered_set<char>> &block, vector<unordered_set<char>> &col,  vector<unordered_set<char>> &row) {
       if(x == 9) return true;
       if(y == 9) return dfs(x+1, 0, board, block, col, row);
       if(board[x][y]!= '.') return dfs(x, y+1, board, block, col, row);
@@ -32,7 +32,7 @@ public:
       }
       return false;
     }
-    bool isValid(int x, int y , char c, vector<set<char>> &block, vector<set<char>> &col,  vector<set<char>> &row) {
+    bool isValid(int x, int y , char c, vector<unordered_set<char>> &block, vector<unordered_set<char>> &col,  vector<unordered_set<char>> &row) {
       int b = (x/3)*3 + y/3;
       if (block[b].count(c) || row[x].count(c) || col[y].count(c)) return false;
       return true;
