@@ -411,6 +411,7 @@ upload the code I write on leetcode
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0475-heaters) |
+| [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
@@ -810,6 +811,7 @@ upload the code I write on leetcode
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
+| [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
 | [0542-01-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0655-print-binary-tree) |
@@ -868,6 +870,7 @@ upload the code I write on leetcode
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
+| [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
@@ -925,6 +928,7 @@ upload the code I write on leetcode
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
+| [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
 | [0542-01-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
