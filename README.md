@@ -422,6 +422,7 @@ upload the code I write on leetcode
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0542-01-matrix) |
@@ -812,6 +813,7 @@ upload the code I write on leetcode
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
+| [0529-minesweeper](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0655-print-binary-tree) |
@@ -872,6 +874,7 @@ upload the code I write on leetcode
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0529-minesweeper](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0529-minesweeper) |
 | [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
@@ -929,6 +932,7 @@ upload the code I write on leetcode
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
+| [0529-minesweeper](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
