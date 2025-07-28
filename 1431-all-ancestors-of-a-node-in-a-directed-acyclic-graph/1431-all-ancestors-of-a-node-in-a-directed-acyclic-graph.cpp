@@ -17,7 +17,7 @@ public:
       //vector<bool> visited(n);
 
       for (int i = 0; i < n; ++i) {
-        ancestorMap[i].set(i,true);
+        //ancestorMap[i].set(i,true);
         if (inDegree[i] == 0) {
           nodeQueue.push(i);
           //visited[i] = true;
@@ -31,6 +31,7 @@ public:
         for (int nextNode : next[curr]) {
           inDegree[nextNode]--;
           ancestorMap[nextNode] |= ancestorMap[curr];
+          ancestorMap[nextNode].set(curr);
           if(inDegree[nextNode] == 0) {
             nodeQueue.push(nextNode);
           }
@@ -40,7 +41,6 @@ public:
       for (int i = 0; i < n; ++i) {
         vector<int> tmp;
         for (int j = 0; j < n; ++j) {
-          if (i == j) continue;
           if(ancestorMap[i][j]) {
             tmp.push_back(j);
           }
