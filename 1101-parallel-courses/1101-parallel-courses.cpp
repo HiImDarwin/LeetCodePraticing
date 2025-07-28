@@ -10,23 +10,26 @@ public:
         inDegree[nextCourse]++;
         nextCourses[prevCourse].push_back(nextCourse);
       }
-      queue<pair<int,int>> courseCanTake;
+      queue<int> courseCanTake;
       for(int i = 1; i <= n; ++i) {
         if(inDegree[i] == 0) {
-          courseCanTake.push({i,1});
+          courseCanTake.push(i);
         }
       }
       int count = 0;
       int res = 0;
       while (!courseCanTake.empty()) {
-        auto [course, semester] = courseCanTake.front();
-        courseCanTake.pop();
-        count++;
-        res = max(res,semester);
-        for(auto nextCourse : nextCourses[course]) {
-          inDegree[nextCourse]--;
-          if(inDegree[nextCourse] == 0) {
-            courseCanTake.push({nextCourse,semester+1});
+        int size = courseCanTake.size();
+        res++;
+        for (int i = 0; i < size; ++i) {
+          auto course = courseCanTake.front();
+          courseCanTake.pop();
+          count++;
+          for(auto nextCourse : nextCourses[course]) {
+            inDegree[nextCourse]--;
+            if(inDegree[nextCourse] == 0) {
+              courseCanTake.push(nextCourse);
+            }
           }
         }
       }
