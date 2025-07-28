@@ -845,6 +845,7 @@ upload the code I write on leetcode
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1447-jump-game-iv) |
+| [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
@@ -915,6 +916,7 @@ upload the code I write on leetcode
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1428-jump-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1428-jump-game-iii) |
+| [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
 | [1665-diameter-of-n-ary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1665-diameter-of-n-ary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
@@ -988,6 +990,7 @@ upload the code I write on leetcode
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1001,6 +1004,7 @@ upload the code I write on leetcode
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Binary Search
 |  |
