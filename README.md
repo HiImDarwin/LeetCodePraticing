@@ -845,6 +845,7 @@ upload the code I write on leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -919,6 +920,7 @@ upload the code I write on leetcode
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1428-jump-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
@@ -978,6 +980,7 @@ upload the code I write on leetcode
 | [0684-redundant-connection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0801-is-graph-bipartite) |
+| [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 ## Graph
@@ -995,6 +998,7 @@ upload the code I write on leetcode
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 | [1101-parallel-courses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1101-parallel-courses) |
+| [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
