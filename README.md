@@ -520,6 +520,7 @@ upload the code I write on leetcode
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
+| [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -724,6 +725,7 @@ upload the code I write on leetcode
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 ## Divide and Conquer
@@ -1011,6 +1013,7 @@ upload the code I write on leetcode
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1209,6 +1212,7 @@ upload the code I write on leetcode
 | ------- |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 ## String Matching
 |  |
 | ------- |
