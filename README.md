@@ -122,6 +122,7 @@ upload the code I write on leetcode
 | [0742-to-lower-case](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0868-push-dominoes) |
 | [0886-score-of-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0886-score-of-parentheses) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
@@ -271,6 +272,7 @@ upload the code I write on leetcode
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0782-jewels-and-stones) |
 | [0833-bus-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0833-bus-routes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
