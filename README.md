@@ -119,6 +119,7 @@ upload the code I write on leetcode
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0868-push-dominoes) |
