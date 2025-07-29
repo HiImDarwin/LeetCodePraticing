@@ -139,6 +139,7 @@ upload the code I write on leetcode
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
+| [1651-shuffle-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1651-shuffle-string) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
@@ -493,6 +494,7 @@ upload the code I write on leetcode
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1703-put-boxes-into-the-warehouse-i) |
