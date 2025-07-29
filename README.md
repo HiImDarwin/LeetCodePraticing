@@ -500,6 +500,7 @@ upload the code I write on leetcode
 | [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1917-maximum-average-pass-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
@@ -723,6 +724,7 @@ upload the code I write on leetcode
 | [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1917-maximum-average-pass-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
@@ -856,6 +858,7 @@ upload the code I write on leetcode
 | [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -932,6 +935,7 @@ upload the code I write on leetcode
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
@@ -969,6 +973,7 @@ upload the code I write on leetcode
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
@@ -1007,6 +1012,7 @@ upload the code I write on leetcode
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1212,6 +1218,7 @@ upload the code I write on leetcode
 | ------- |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 ## String Matching
 |  |
@@ -1364,6 +1371,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0374-guess-number-higher-or-lower) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
