@@ -211,6 +211,7 @@ upload the code I write on leetcode
 | [1466-jump-game-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1466-jump-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -722,6 +723,7 @@ upload the code I write on leetcode
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
@@ -1012,6 +1014,7 @@ upload the code I write on leetcode
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1031,6 +1034,7 @@ upload the code I write on leetcode
 | [1101-parallel-courses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1101-parallel-courses) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
@@ -1218,6 +1222,7 @@ upload the code I write on leetcode
 | ------- |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 ## String Matching
