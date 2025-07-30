@@ -9,22 +9,29 @@ public:
         adj[v].push_back({u,w});
       }
       priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>> nodeQueue;
-      vector<int> visited(n,INT_MAX);
-      vector<int> res(n, -1);
-      nodeQueue.push({0,0});
+      vector<int> arrive(n, INT_MAX);
+      nodeQueue.push({0, 0});
+      arrive[0] = 0;
       while (!nodeQueue.empty()) {
         auto [time, node] = nodeQueue.top();
         nodeQueue.pop();
-        if(res[node] != -1 && res[node] < time) continue;
-        res[node] = time;
+        if(arrive[node] < time) continue;
+
         for(auto [nei, weight] : adj[node]) {
-          if(time + weight < disappear[nei] && time + weight  < visited[nei]) {
-            visited[nei] = time + weight;
-            nodeQueue.push({visited[nei], nei});
+          if(time + weight < disappear[nei] && time + weight  < arrive[nei]) {
+            arrive[nei] = time + weight;
+            nodeQueue.push({arrive[nei], nei});
           }
         }
       }
-      return res;
+
+      for(int &x : arrive) {
+        if(x == INT_MAX) {
+          x = -1;
+        }
+      }
+
+      return arrive;
     }
 };
 
