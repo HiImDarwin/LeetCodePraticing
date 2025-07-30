@@ -876,6 +876,7 @@ upload the code I write on leetcode
 | [2439-longest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Combinatorics
 |  |
@@ -1035,6 +1036,7 @@ upload the code I write on leetcode
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
