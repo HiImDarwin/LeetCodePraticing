@@ -1,24 +1,26 @@
 class Solution {
 public:
     int minTrioDegree(int n, vector<vector<int>>& edges) {
+      vector<vector<int>> connect(n+1, vector<int>(n+1,0));
       vector<int> degree(n+1,0);
-      vector<unordered_set<int>> adj(n+1);
+      vector<vector<int>> next(n+1);
       for(auto e : edges) {
         int u = e[0], v = e[1];
+        connect[u][v] = 1;
+        connect[v][u] = 1;
         degree[u]++;
         degree[v]++;
-        adj[u].insert(v);
-        adj[v].insert(u);
+        
+        if(u > v) swap(u,v);
+        next[u].push_back(v);
       }
       int res = INT_MAX;
-      for(int i = 0; i < n; ++i) {
-        for (auto it1 = adj[i].begin(); it1 != adj[i].end(); ++it1) {
-          for (auto it2 = next(it1); it2 != adj[i].end(); ++it2) {
-            int u = *it1, v = *it2;
-            if(adj[u].count(v)) {
-              int total_deg = degree[i] + degree[u] + degree[v] - 6;
-              res = min(res, total_deg);
-          
+      for(int a = 1; a <=n; ++a) {
+        for (int i = 0; i < next[a].size(); ++i) {
+          for (int j = i+1; j < next[a].size(); ++j) {
+            int b = next[a][i], c = next[a][j];
+            if(connect[b][c] == 1) {
+              res = min(res, degree[a] + degree[b] + degree[c] - 6);
             }
           }
         }
