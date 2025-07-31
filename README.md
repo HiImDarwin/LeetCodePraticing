@@ -151,6 +151,7 @@ upload the code I write on leetcode
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -544,6 +545,7 @@ upload the code I write on leetcode
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -883,6 +885,7 @@ upload the code I write on leetcode
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -963,6 +966,7 @@ upload the code I write on leetcode
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Matrix
 |  |
@@ -1046,6 +1050,7 @@ upload the code I write on leetcode
 | [2671-shortest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Topological Sort
 |  |
 | ------- |
