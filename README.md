@@ -230,6 +230,7 @@ upload the code I write on leetcode
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
