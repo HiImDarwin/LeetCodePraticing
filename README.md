@@ -227,6 +227,7 @@ upload the code I write on leetcode
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
@@ -539,6 +540,7 @@ upload the code I write on leetcode
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
