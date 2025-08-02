@@ -7,11 +7,11 @@ public:
 
       int length = 0;
       for(int i = 0; i < n; i++) {
-        if(1LL * nums[i]*k > nums[n-1]) {
-          length = max(length, n-i);
-          break;
-        }
-        int right = upper_bound(nums.begin(),nums.end(), nums[i]*k) - nums.begin();
+        // if(1LL * nums[i]*k > nums[n-1]) {
+        //   length = max(length, n-i);
+        //   break;
+        // }
+        int right = upper_bound(nums.begin(),nums.end(), 1LL*nums[i]*k) - nums.begin();
         length = max(length, right - i);
       }
       return n - length;
