@@ -2,27 +2,28 @@ class Solution {
 public:
     int longestBeautifulSubstring(string word) {
       int n = word.length();
-      word = "a" + word;
+      word = word[0] + word;
       int len = 0;
       int res = 0;
-      set<char> charater;
+      int volve = 1;
       for(int i = 1; i <= n ; ++i) {
         if(word[i] < word[i-1]) {
-          if(charater.size() == 5) {
+          if(volve == 5) {
             res = max(res, len);
           }
-          charater.clear();
+          volve = 1;
           len = 0;
-        } 
-        charater.insert(word[i]);
+        }
+        if(word[i] > word[i-1]) {
+          volve++;
+        }
         len++; 
       }
-      if(charater.size() == 5) {
+      if(volve == 5) {
         res = max(res, len);
       }
       return res;
     }
-
 };
 
 /*
