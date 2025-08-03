@@ -147,6 +147,7 @@ upload the code I write on leetcode
 | [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1416,6 +1417,7 @@ upload the code I write on leetcode
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
