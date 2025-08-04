@@ -155,6 +155,7 @@ upload the code I write on leetcode
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Dynamic Programming
@@ -233,6 +234,7 @@ upload the code I write on leetcode
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -845,6 +847,7 @@ upload the code I write on leetcode
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
