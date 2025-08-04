@@ -1,27 +1,36 @@
 class Solution {
 public:
-    int minimumPartition(string s, int k) {
-      int n = s.length();
-      int m = to_string(k).length();
-      vector<int> dp(n+1,INT_MAX);
+    // int minimumPartition(string s, int k) {
+    //   int n = s.length();
+    //   int m = to_string(k).length();
+    //   vector<int> dp(n+1,INT_MAX);
       
-      for(int i = 0; i < n; ++i) {
-        if(m == 1 && s[i] - '0' > k){
-          return -1;
-        } 
-      }
+    //   for(int i = 0; i < n; ++i) {
+    //     if(m == 1 && s[i] - '0' > k){
+    //       return -1;
+    //     } 
+    //   }
 
-      s = "#" +s ;
-      dp[0] = 0;
+    //   s = "#" +s ;
+    //   dp[0] = 0;
 
-      for (int i = 1; i <= n; ++i) {
-        if (i - m + 1 >=1 && stoi(s.substr(i-m+1,m)) <= k){
-          dp[i] = dp[i-m] + 1;
-        } else {
-          dp[i] = dp[max(0, i - m +1)] + 1;
-        }
+    //   for (int i = 1; i <= n; ++i) {
+    //     if (i - m + 1 >=1 && stoi(s.substr(i-m+1,m)) <= k){
+    //       dp[i] = dp[i-m] + 1;
+    //     } else {
+    //       dp[i] = dp[max(0, i - m +1)] + 1;
+    //     }
+    //   }
+    //   return dp[n];
+    // }
+    int minimumPartition(string s, int k) {
+      int n= to_string(k).length(), res = 0;
+      for (int i = 0; i < s.length();) {
+        int used = stoi(s.substr(i,n)) <=k ? n : n - 1; 
+        if (used <= 0) return -1;
+        res++; i += used;
       }
-      return dp[n];
+      return res;
     }
     
 };
