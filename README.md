@@ -244,6 +244,7 @@ upload the code I write on leetcode
 | [2893-visit-array-positions-to-maximize-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
@@ -331,6 +332,7 @@ upload the code I write on leetcode
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
+| [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Design
 |  |
 | ------- |
@@ -571,6 +573,7 @@ upload the code I write on leetcode
 | [2893-visit-array-positions-to-maximize-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -747,6 +750,7 @@ upload the code I write on leetcode
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 ## Heap (Priority Queue)
 |  |
@@ -1163,6 +1167,7 @@ upload the code I write on leetcode
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
+| [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 ## Tree
