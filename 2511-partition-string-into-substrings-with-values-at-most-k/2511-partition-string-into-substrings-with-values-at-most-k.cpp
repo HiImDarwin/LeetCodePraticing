@@ -24,12 +24,18 @@ public:
     //   return dp[n];
     // }
     int minimumPartition(string s, int k) {
-      int n= to_string(k).length(), res = 0;
-      for (int i = 0; i < s.length();) {
-        int used = stoi(s.substr(i,n)) <=k ? n : n - 1; 
-        if (used <= 0) return -1;
-        res++; i += used;
+      long long n = 0, res = 0;
+      for (int i = 0; i < s.length(); ++i) {
+        n = n * 10 + s[i] - '0';
+        if (n > k) {
+          res++;
+          n = s[i] - '0';
+        }
+        if (n > k) {
+          return -1;
+        }
       }
+      res++;
       return res;
     }
     
