@@ -587,6 +587,7 @@ upload the code I write on leetcode
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -1485,6 +1486,7 @@ upload the code I write on leetcode
 | [0406-queue-reconstruction-by-height](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Merge Sort
 |  |
 | ------- |
