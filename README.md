@@ -175,6 +175,7 @@ upload the code I write on leetcode
 | [0072-edit-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -400,6 +401,7 @@ upload the code I write on leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
