@@ -234,6 +234,7 @@ upload the code I write on leetcode
 | [1466-jump-game-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1466-jump-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-count-all-possible-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1680-count-all-possible-routes) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
@@ -546,6 +547,7 @@ upload the code I write on leetcode
 | [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -1061,6 +1063,7 @@ upload the code I write on leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
