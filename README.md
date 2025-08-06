@@ -255,6 +255,7 @@ upload the code I write on leetcode
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
+| [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -595,6 +596,7 @@ upload the code I write on leetcode
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
+| [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 | [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Memoization
 |  |
@@ -803,6 +805,7 @@ upload the code I write on leetcode
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1115,6 +1118,7 @@ upload the code I write on leetcode
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1131,6 +1135,7 @@ upload the code I write on leetcode
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
+| [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
@@ -1186,6 +1191,7 @@ upload the code I write on leetcode
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
+| [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## Tree
 |  |
 | ------- |
@@ -1326,6 +1332,7 @@ upload the code I write on leetcode
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## String Matching
 |  |
 | ------- |
