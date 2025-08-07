@@ -216,6 +216,7 @@ upload the code I write on leetcode
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0868-push-dominoes) |
+| [0911-profitable-schemes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0911-profitable-schemes) |
 | [0967-minimum-falling-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1025-minimum-cost-for-tickets) |
@@ -501,6 +502,7 @@ upload the code I write on leetcode
 | [0833-bus-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0833-bus-routes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
+| [0911-profitable-schemes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0911-profitable-schemes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
