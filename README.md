@@ -218,6 +218,7 @@ upload the code I write on leetcode
 | [0868-push-dominoes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0868-push-dominoes) |
 | [0911-profitable-schemes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0911-profitable-schemes) |
 | [0967-minimum-falling-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0972-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
