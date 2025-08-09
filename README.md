@@ -71,6 +71,7 @@ upload the code I write on leetcode
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -157,6 +158,7 @@ upload the code I write on leetcode
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Dynamic Programming
@@ -249,6 +251,7 @@ upload the code I write on leetcode
 | [2426-maximum-profit-from-trading-stocks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -897,6 +900,7 @@ upload the code I write on leetcode
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
