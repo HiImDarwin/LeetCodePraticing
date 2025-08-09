@@ -229,6 +229,7 @@ upload the code I write on leetcode
 | [1170-shortest-common-supersequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1250-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -542,6 +543,7 @@ upload the code I write on leetcode
 | [1206-corporate-flight-bookings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
@@ -891,6 +893,7 @@ upload the code I write on leetcode
 | [1026-string-without-aaa-or-bbb](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1026-string-without-aaa-or-bbb) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1285-balance-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1285-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -1415,6 +1418,7 @@ upload the code I write on leetcode
 | [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -1435,6 +1439,7 @@ upload the code I write on leetcode
 | [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
