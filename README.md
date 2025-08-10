@@ -109,6 +109,7 @@ upload the code I write on leetcode
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0344-reverse-string) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -1024,6 +1025,7 @@ upload the code I write on leetcode
 | [0337-house-robber-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0388-longest-absolute-file-path) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1414,6 +1416,7 @@ upload the code I write on leetcode
 | [0316-remove-duplicate-letters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
