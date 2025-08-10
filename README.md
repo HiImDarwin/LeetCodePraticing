@@ -229,6 +229,7 @@ upload the code I write on leetcode
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
+| [1202-palindrome-removal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1202-palindrome-removal) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
@@ -542,6 +543,7 @@ upload the code I write on leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
+| [1202-palindrome-removal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1202-palindrome-removal) |
 | [1206-corporate-flight-bookings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
