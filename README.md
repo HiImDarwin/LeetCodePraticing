@@ -153,6 +153,7 @@ upload the code I write on leetcode
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
 | [1651-shuffle-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1651-shuffle-string) |
@@ -1400,6 +1401,7 @@ upload the code I write on leetcode
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
+| [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Simulation
 |  |
@@ -1612,6 +1614,7 @@ upload the code I write on leetcode
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
 | [1244-distinct-echo-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1244-distinct-echo-substrings) |
+| [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
 ## Iterator
 |  |
 | ------- |
@@ -1637,4 +1640,5 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [1244-distinct-echo-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1244-distinct-echo-substrings) |
+| [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
