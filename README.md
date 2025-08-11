@@ -50,6 +50,7 @@ upload the code I write on leetcode
 | [0344-reverse-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
+| [0408-valid-word-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0408-valid-word-abbreviation) |
 | [0455-assign-cookies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -115,6 +116,7 @@ upload the code I write on leetcode
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
+| [0408-valid-word-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
