@@ -120,6 +120,7 @@ upload the code I write on leetcode
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -1400,6 +1401,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
