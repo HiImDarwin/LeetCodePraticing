@@ -104,6 +104,7 @@ upload the code I write on leetcode
 | [0168-excel-sheet-column-title](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
@@ -1401,6 +1402,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
@@ -1614,6 +1616,7 @@ upload the code I write on leetcode
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
 | [1244-distinct-echo-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1244-distinct-echo-substrings) |
 | [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
@@ -1641,6 +1644,7 @@ upload the code I write on leetcode
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0214-shortest-palindrome) |
 | [1244-distinct-echo-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1244-distinct-echo-substrings) |
 | [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
