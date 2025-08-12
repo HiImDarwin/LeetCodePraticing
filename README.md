@@ -640,6 +640,7 @@ upload the code I write on leetcode
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
@@ -704,6 +705,7 @@ upload the code I write on leetcode
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -721,6 +723,7 @@ upload the code I write on leetcode
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Brainteaser
 |  |
@@ -1637,6 +1640,7 @@ upload the code I write on leetcode
 | [0834-ambiguous-coordinates](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0834-ambiguous-coordinates) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
 |  |
 | ------- |
