@@ -570,6 +570,7 @@ upload the code I write on leetcode
 | [1388-greatest-sum-divisible-by-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1447-jump-game-iv) |
@@ -998,6 +999,7 @@ upload the code I write on leetcode
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1131,6 +1133,7 @@ upload the code I write on leetcode
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
