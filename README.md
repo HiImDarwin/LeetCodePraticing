@@ -857,6 +857,7 @@ upload the code I write on leetcode
 | [0885-exam-room](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0885-exam-room) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
@@ -1168,6 +1169,7 @@ upload the code I write on leetcode
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1308-smallest-string-with-swaps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1308-smallest-string-with-swaps) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1188,6 +1190,7 @@ upload the code I write on leetcode
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1101-parallel-courses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1101-parallel-courses) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1414,6 +1417,7 @@ upload the code I write on leetcode
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
