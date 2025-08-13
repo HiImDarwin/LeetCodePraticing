@@ -21,8 +21,11 @@ public:
     vector<bool> areConnected(int n, int threshold, vector<vector<int>>& queries) {
       parent.resize(n);
       iota(parent.begin(),parent.end(),0);
+      vector<bool> visited(n,false);
       for (int i = threshold + 1; i <= n; ++i) {
+        if (visited[i-1]) continue;
         for (int j = i*2; j <= n; j += i) {
+          visited[j-1] = true;
           Unite(i-1, j-1);
         }
       }
