@@ -178,6 +178,7 @@ upload the code I write on leetcode
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1471,6 +1472,7 @@ upload the code I write on leetcode
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Stack
 |  |
 | ------- |
@@ -1513,6 +1515,7 @@ upload the code I write on leetcode
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
