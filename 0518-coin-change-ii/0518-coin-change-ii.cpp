@@ -1,7 +1,7 @@
 class Solution {
 public:
     int change(int amount, vector<int>& coins) {
-      vector<uint64_t> dp(amount+1,0); 
+      vector<unsigned long long> dp(amount+1,0); 
       dp[0] = 1;
       for (int t = 0; t < coins.size(); t++) {
         for (int i = coins[t]; i <= amount; ++i) {
