@@ -1,32 +1,45 @@
 class Solution {
 public:
+    // long long maximumOr(vector<int>& nums, int k) {
+    //   vector<int> count(32);
+    //   long long total = 0;
+    //   long long res = 0;
+    //   for(int i = 0; i < nums.size(); ++i) {
+    //     for (int j = 0; j < 32; j++) {
+    //       if ((nums[i]>>j) & 1) {
+    //         count[j]++;
+    //       }
+    //     }
+    //     total |= nums[i];
+    //   }
+
+
+    //   for (int i = 0; i < nums.size(); i++) {
+    //     auto tmpCount = count;
+    //     long long tmpTotal = total;
+    //     for (int j = 0; j < 32; j++) {
+    //       if ((nums[i]>>j) & 1){
+    //         tmpCount[j]--;
+    //         if(tmpCount[j] == 0) {
+    //           tmpTotal ^= (1<<j);
+    //         }
+    //       }
+    //     }
+    //     tmpTotal |= ((long long)nums[i] << k);
+    //     res = max(res, tmpTotal);
+    //   }
+    //   return res;
+    // }
     long long maximumOr(vector<int>& nums, int k) {
-      vector<int> count(32);
-      long long total = 0;
-      long long res = 0;
-      for(int i = 0; i < nums.size(); ++i) {
-        for (int j = 0; j < 32; j++) {
-          if ((nums[i]>>j) & 1) {
-            count[j]++;
-          }
-        }
-        total |= nums[i];
+      long long base = 0, record = 0, res = 0;
+      for (auto num : nums) {
+        record |= (base & num); // 這行是用來記錄哪個bit有重覆出現超過兩次
+        base |= num;
       }
-
-
-      for (int i = 0; i < nums.size(); i++) {
-        auto tmpCount = count;
-        long long tmpTotal = total;
-        for (int j = 0; j < 32; j++) {
-          if ((nums[i]>>j) & 1){
-            tmpCount[j]--;
-            if(tmpCount[j] == 0) {
-              tmpTotal ^= (1<<j);
-            }
-          }
-        }
-        tmpTotal |= ((long long)nums[i] << k);
-        res = max(res, tmpTotal);
+      for (auto num : nums) {
+        long long newBase = (base - num) | record;
+        newBase |= ((long long)num << k);
+        res = max(res , newBase);
       }
       return res;
     }
