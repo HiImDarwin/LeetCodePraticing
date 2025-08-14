@@ -710,6 +710,7 @@ upload the code I write on leetcode
 | [2383-add-two-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2383-add-two-integers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Recursion
 |  |
 | ------- |
