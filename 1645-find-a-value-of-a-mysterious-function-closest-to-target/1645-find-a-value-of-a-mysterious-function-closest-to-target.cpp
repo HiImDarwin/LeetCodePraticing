@@ -2,7 +2,7 @@ class Solution {
 public:
     int closestToTarget(vector<int>& arr, int target) {
       int n = arr.size();
-      set<int> Set, tmp;
+      unordered_set<int> Set, tmp;
       int res = abs(-1e9-target);
       for (int i = 0; i < n; i++) {
         for (int y : Set) {
@@ -21,7 +21,6 @@ public:
 };
 /*
 
- (a & b & c & d) ^ (a & b & c & d) = 0
 
 
 */
