@@ -111,6 +111,7 @@ upload the code I write on leetcode
 | [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0318-maximum-product-of-word-lengths) |
+| [0320-generalized-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0320-generalized-abbreviation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0344-reverse-string) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
@@ -753,6 +754,7 @@ upload the code I write on leetcode
 | [0136-single-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0222-count-complete-tree-nodes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0318-maximum-product-of-word-lengths) |
+| [0320-generalized-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0320-generalized-abbreviation) |
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
@@ -799,6 +801,7 @@ upload the code I write on leetcode
 | [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
+| [0320-generalized-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0320-generalized-abbreviation) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0494-target-sum) |
