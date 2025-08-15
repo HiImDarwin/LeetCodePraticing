@@ -587,6 +587,7 @@ upload the code I write on leetcode
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1428-jump-game-iii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
 | [1447-jump-game-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1447-jump-game-iv) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1466-jump-game-v) |
@@ -746,6 +747,7 @@ upload the code I write on leetcode
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -1577,6 +1579,7 @@ upload the code I write on leetcode
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
