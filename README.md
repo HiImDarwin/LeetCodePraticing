@@ -730,6 +730,7 @@ upload the code I write on leetcode
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Recursion
 |  |
@@ -1155,6 +1156,7 @@ upload the code I write on leetcode
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Matrix
 |  |
@@ -1397,6 +1399,7 @@ upload the code I write on leetcode
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Search Tree
 |  |
