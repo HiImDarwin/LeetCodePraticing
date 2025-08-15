@@ -1,22 +1,41 @@
 class Solution {
 public:
+//O(n^2)
+    // int countTriplets(vector<int>& arr) {
+    //   int n = arr.size();
+    //   vector<int> prefix(n+1);
+    //   prefix[0] = 0;
+    //   for (int i = 1; i <= n; i++) {
+    //     prefix[i] = prefix[i-1] ^ arr[i-1];
+    //   }
+    //   int res = 0;
+    //   for (int j = 1; j < n; j++) {
+    //     unordered_map<int,int> count;
+    //     for (int i = j-1; i >= 0; --i) {
+    //       count[prefix[i]^prefix[j]]++;
+    //     }
+    //     for (int k = j+1; k <= n; ++k) {
+    //       int target = prefix[j]^prefix[k];
+    //       if (count.find(target)!= count.end()) {
+    //         res += count[target];
+    //       }
+    //     }
+    //   }
+    //   return res;
+    // }
+
     int countTriplets(vector<int>& arr) {
       int n = arr.size();
       vector<int> prefix(n+1);
       prefix[0] = 0;
-      for (int i = 1; i <= n; i++) {
-        prefix[i] = prefix[i-1] ^ arr[i-1];
+      for (int i = 1; i <= n; ++i) {
+        prefix[i] =  prefix[i-1] ^ arr[i-1];
       }
       int res = 0;
-      for (int j = 1; j < n; j++) {
-        unordered_map<int,int> count;
-        for (int i = j-1; i >= 0; --i) {
-          count[prefix[i]^prefix[j]]++;
-        }
-        for (int k = j+1; k <= n; ++k) {
-          int target = prefix[j]^prefix[k];
-          if (count.find(target)!= count.end()) {
-            res += count[target];
+      for (int i = 0; i < n; ++i) {
+        for (int k = i+1; k<=n; ++k) {
+          if (prefix[i] == prefix[k]) {
+            res += k - i - 1;
           }
         }
       }
