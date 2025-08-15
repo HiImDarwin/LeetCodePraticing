@@ -14,11 +14,15 @@ public:
       
       int depth = dfs(1, -1, adj);
       int pathEdgeCount = depth - 1;
-      GetFactorial(pathEdgeCount);
-      int res = 0;
-      for (int oneConut = 1; oneConut <= pathEdgeCount; oneConut += 2) {
-        res = (res +comb(pathEdgeCount, oneConut)) % MOD;
+      int res = 1;
+      for (int i = 1; i < pathEdgeCount; i++) {
+        res = (res * 2) % MOD;
       }
+      // GetFactorial(pathEdgeCount);
+      // int res = 0;
+      // for (int oneConut = 1; oneConut <= pathEdgeCount; oneConut += 2) {
+      //   res = (res +comb(pathEdgeCount, oneConut)) % MOD;
+      // }
       return res;
     }
 
