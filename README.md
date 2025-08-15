@@ -363,6 +363,7 @@ upload the code I write on leetcode
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
 | [1447-jump-game-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
@@ -591,6 +592,7 @@ upload the code I write on leetcode
 | [1447-jump-game-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1447-jump-game-iv) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1466-jump-game-v) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -713,6 +715,7 @@ upload the code I write on leetcode
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1223-graph-connectivity-with-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
@@ -748,6 +751,7 @@ upload the code I write on leetcode
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -1580,6 +1584,7 @@ upload the code I write on leetcode
 | [1206-corporate-flight-bookings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
