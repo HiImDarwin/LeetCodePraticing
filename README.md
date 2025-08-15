@@ -157,6 +157,7 @@ upload the code I write on leetcode
 | [1308-smallest-string-with-swaps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1308-smallest-string-with-swaps) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -587,6 +588,7 @@ upload the code I write on leetcode
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1308-smallest-string-with-swaps) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -760,6 +762,7 @@ upload the code I write on leetcode
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
@@ -808,6 +811,7 @@ upload the code I write on leetcode
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
 | [0834-ambiguous-coordinates](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0834-ambiguous-coordinates) |
 | [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
