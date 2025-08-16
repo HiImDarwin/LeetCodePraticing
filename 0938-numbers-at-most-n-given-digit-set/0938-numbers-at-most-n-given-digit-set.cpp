@@ -1,5 +1,4 @@
 class Solution {
-  int target;
 public:
     int atMostNGivenDigitSet(vector<string>& digits, int n) {
       string s = to_string(n);
@@ -10,17 +9,17 @@ public:
       for (int i = 1; i < len; i++) {
         res += pow(m,i);
       }
-
       for (int i = 0; i < len; i++) {
-        bool prefix_equal = false;
-        for (auto &d : digits) {
-            if (d[0] < s[i]) {
-                res += pow(m, len - i - 1); // this digit smaller → rest free
-            } else if (d[0] == s[i]) {
-                prefix_equal = true; // continue
-            }
+        bool foundEqual = false;
+        for (auto digit : digits) {
+          if (digit[0] < s[i]) {
+            res += pow(m, len - i - 1);
+          } else if (digit[0] == s[i]) {
+            foundEqual = true;
+            break;
+          }
         }
-        if (!prefix_equal) return res; // can't continue matching n
+        if (!foundEqual) return res;
       }
       return res + 1;
     }
