@@ -1,27 +1,34 @@
 class Solution {
+  int len;
+  string s;
+  int res;
 public:
     int atMostNGivenDigitSet(vector<string>& digits, int n) {
-      string s = to_string(n);
-      int len = s.length();
+      s = to_string(n);
+      len = s.length();
       
       int m = digits.size();
-      int res = 0;
+      res = 0;
       for (int i = 1; i < len; i++) {
         res += pow(m,i);
       }
-      for (int i = 0; i < len; i++) {
-        bool foundEqual = false;
-        for (auto digit : digits) {
-          if (digit[0] < s[i]) {
-            res += pow(m, len - i - 1);
-          } else if (digit[0] == s[i]) {
-            foundEqual = true;
-            break;
-          }
-        }
-        if (!foundEqual) return res;
+      DFS(0,digits);
+      return res;
+    }
+
+    void DFS(int pos, vector<string>& digits) {
+      if (pos == len) {
+        res += 1;
+        return;
       }
-      return res + 1;
+
+      for (string& num : digits) {
+        if (num[0] < s[pos]) {
+          res += pow(digits.size(), len - pos - 1);
+        } else if (num[0] == s[pos]) {
+          DFS(pos+1, digits);
+        }
+      }
     }
 };
 
