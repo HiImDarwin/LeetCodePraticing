@@ -226,6 +226,7 @@ upload the code I write on leetcode
 | [0368-largest-divisible-subset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0413-arithmetic-slices) |
@@ -691,6 +692,7 @@ upload the code I write on leetcode
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1680-count-all-possible-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1680-count-all-possible-routes) |
@@ -763,6 +765,7 @@ upload the code I write on leetcode
 | [0320-generalized-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0320-generalized-abbreviation) |
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
@@ -969,6 +972,7 @@ upload the code I write on leetcode
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
 | [0316-remove-duplicate-letters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
