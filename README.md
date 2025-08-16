@@ -144,6 +144,7 @@ upload the code I write on leetcode
 | [0874-backspace-string-compare](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0886-score-of-parentheses) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1026-string-without-aaa-or-bbb) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -248,6 +249,7 @@ upload the code I write on leetcode
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0868-push-dominoes) |
 | [0911-profitable-schemes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0911-profitable-schemes) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0967-minimum-falling-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0972-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
@@ -559,6 +561,7 @@ upload the code I write on leetcode
 | [0911-profitable-schemes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0911-profitable-schemes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
@@ -723,6 +726,7 @@ upload the code I write on leetcode
 | [0556-next-greater-element-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0650-2-keys-keyboard) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
@@ -1343,6 +1347,7 @@ upload the code I write on leetcode
 | [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
