@@ -12,20 +12,32 @@
 class Solution {
 public:
     int rob(TreeNode* root) {
-        auto [countroot, uncountRoot] = DFS(root);
-        return max(countroot,uncountRoot);
+      if (!root) return 0;
+      unordered_map<TreeNode*, vector<int>> memo;
+      dfs(root, memo);
+      return max(memo[root][0], memo[root][1]);
     }
 
-    pair<int,int> DFS (TreeNode* root) {
-        if (!root) return {0,0};
-        pair<int,int> left,right;
-        left = DFS(root->left);
-        right = DFS(root->right);
-        int uncount=0;
-        if (left.first>0 &&right.first>0) uncount = left.first+right.first;
-        else if(left.first>0)  uncount = left.first;
-        else if(right.first>0)  uncount = right.first;
-        int count = max(root->val+left.second +right.second,uncount);
-        return {count,uncount};
+    void dfs(TreeNode* node, unordered_map<TreeNode*, vector<int>>& memo) {
+      int rob = node -> val;
+      int dont_rob = 0;
+
+      if (node -> left) {
+        dfs(node->left, memo);
+        rob += memo[node -> left][1];
+        dont_rob += max(memo[node -> left][1],memo[node -> left][0]);
+      } 
+      if (node -> right) {
+        dfs(node->right, memo);
+        rob += memo[node -> right][1];
+        dont_rob += max(memo[node -> right][1],memo[node -> right][0]);
+      }
+      vector<int> robstatus(2);
+      robstatus[0] = rob;
+      robstatus[1] = dont_rob;
+      memo[node] = robstatus;
     }
 };
+
+// node 偷 子node 一定不能偷
+// node 不偷 子node最大可能
