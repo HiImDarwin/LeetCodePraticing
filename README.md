@@ -643,6 +643,7 @@ upload the code I write on leetcode
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -771,6 +772,7 @@ upload the code I write on leetcode
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1835-decode-xored-permutation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1835-decode-xored-permutation) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
@@ -817,6 +819,7 @@ upload the code I write on leetcode
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Sorting
 |  |
@@ -1742,6 +1745,7 @@ upload the code I write on leetcode
 | ------- |
 | [0834-ambiguous-coordinates](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0834-ambiguous-coordinates) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
