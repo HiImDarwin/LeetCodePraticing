@@ -684,6 +684,7 @@ upload the code I write on leetcode
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
+| [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -1784,6 +1785,7 @@ upload the code I write on leetcode
 | [0834-ambiguous-coordinates](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0834-ambiguous-coordinates) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
+| [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
