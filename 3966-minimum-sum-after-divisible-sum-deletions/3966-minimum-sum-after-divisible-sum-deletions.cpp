@@ -1,33 +1,30 @@
 class Solution {
 public:
     long long minArraySum(vector<int>& nums, int k) {
-        int n=nums.size();
-        long long sum=accumulate(nums.begin(),nums.end(),0LL);
-        unordered_map<int,long long> mp;
-        mp[0]=0;
-        long long pref=0;
-        long long total=0;
-        for(int i=0;i<n;i++){
-            pref+=nums[i];
-            int r=(int)(pref%k+k)%k;
-            long long temp=total;
-            if(mp.find(r)!=mp.end()){
-                temp=max(temp,pref+mp[r]);
-            }
-            total=temp;
-            long long best=total-pref;
-            if(mp.find(r)==mp.end()){
-                mp[r]=best;
-            }
-            else{
-                mp[r]=max(mp[r],best);
-            }
+      int n = nums.size();
+      vector<long long> reamind(k, LLONG_MIN);
+      reamind[0] = 0;
+      long long dp = 0, pref = 0, sum = 0;
+      for (int i = 0; i < n; i++) {
+        sum += nums[i];
+        pref += nums[i];
+        int r = pref % k;
+
+        if (reamind[r] != LLONG_MIN) {
+          dp = max(dp, reamind[r] + pref);
         }
-        return sum-total;
+        reamind[r] = max(reamind[r], dp - pref);
+      }
+      return sum - dp;
     }
 };
 /*
 
+reminder必須存 %k 以前的
+＊ prefixSum
+＊ 已經做的區間
 
 
+XXXXXXXXXXXX
+ |___| |____|
 */
