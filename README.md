@@ -238,6 +238,7 @@ upload the code I write on leetcode
 | [0413-arithmetic-slices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0494-target-sum) |
@@ -706,6 +707,7 @@ upload the code I write on leetcode
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1680-count-all-possible-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1680-count-all-possible-routes) |
@@ -734,6 +736,7 @@ upload the code I write on leetcode
 | [0343-integer-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0343-integer-break) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0368-largest-divisible-subset) |
+| [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
@@ -783,6 +786,7 @@ upload the code I write on leetcode
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
@@ -812,6 +816,7 @@ upload the code I write on leetcode
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
 ## Backtracking
 |  |
@@ -1769,6 +1774,7 @@ upload the code I write on leetcode
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
