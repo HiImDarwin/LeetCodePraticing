@@ -1,59 +1,29 @@
 class Solution {
-    int visited[1<<21];
+  unordered_map<int,bool> memo;
 public:
-    bool canIWin(int maxChoosableInteger, int desiredTotal) 
-    {
-        int totalSum = (1+maxChoosableInteger)*maxChoosableInteger/2;
-        if (totalSum < desiredTotal) return false;
-        return dfs(0, 0, maxChoosableInteger, desiredTotal);
+    bool canIWin(int maxChoosableInteger, int desiredTotal) {
+      int total = (1+maxChoosableInteger) * maxChoosableInteger / 2;
+      if (total < desiredTotal) return false;
+      return dfs(0, 0, maxChoosableInteger, desiredTotal);
     }
 
-    bool dfs(int state, int sum, int maxChoosableInteger, int desiredTotal)
-    {
-        if (visited[state]==2)
-            return true;
-        if (visited[state]==1)
-            return false;
+    bool dfs(int state, int sum, int maxChoosableInteger, int desiredTotal) {
+      if (memo.find(state) != memo.end()) {
+        return memo[state];
+      }
 
-        for (int i=1; i<=maxChoosableInteger; i++)
-        {
-            if ((state>>i)&1) continue;
-            if (sum+i >= desiredTotal) return true;
-            
-            if (dfs(state+(1<<i), sum+i, maxChoosableInteger, desiredTotal)==false)
-            {
-                visited[state] = 2;
-                return true;
-            }                
+      for (int i = 1; i <= maxChoosableInteger; i++) {
+        if ((state >> i) & 1) continue;
+        if (sum + i >= desiredTotal) return true;
+        if (dfs(state + (1 << i), sum + i, maxChoosableInteger, desiredTotal) == false) {
+          memo[state] = true;
+          return true;
         }
-        visited[state] = 1;
-        return false;
+      }
+      memo[state] = false;
+      return false;
     }
 };
-// class Solution {
-//   unordered_map<int,bool> memo;
-// public:
-//     bool canIWin(int maxChoosableInteger, int desiredTotal) {
-//       return dfs(0, 0, maxChoosableInteger, desiredTotal);
-//     }
-
-//     bool dfs(int state, int sum, int maxChoosableInteger, int desiredTotal) {
-//       if (memo.find(state) != memo.end()) {
-//         return memo[state];
-//       }
-
-//       for (int i = 1; i <= maxChoosableInteger; i++) {
-//         if ((state >> i) & 1) continue;
-//         if (sum + i >= desiredTotal) return true;
-//         if (dfs(state + (1 << i), sum + i, maxChoosableInteger, desiredTotal) == false) {
-//           memo[state] = true;
-//           return true;
-//         }
-//       }
-//       memo[state] = false;
-//       return false;
-//     }
-// };
 
 /*
 思路
@@ -63,7 +33,7 @@ public:
   遞歸怎麼設計
   1. 目前值＋可用值 >= target 就return true
   2. 使用目前值傳給對方 若對方回傳true 就表示我不能用這個值
-  3. 若所有值都不能用 就是return false;
+  3. 若所有值都不能用 就是return false
 
   狀態壓縮
 如果對手返回必贏 那麼當前這個數值我就不能選
