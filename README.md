@@ -167,6 +167,7 @@ upload the code I write on leetcode
 | [1534-minimum-number-of-frogs-croaking](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
 | [1651-shuffle-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1651-shuffle-string) |
+| [1668-find-longest-awesome-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1668-find-longest-awesome-substring) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1739-split-two-strings-to-make-palindrome) |
@@ -379,6 +380,7 @@ upload the code I write on leetcode
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1668-find-longest-awesome-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1668-find-longest-awesome-substring) |
 | [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -783,6 +785,7 @@ upload the code I write on leetcode
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1668-find-longest-awesome-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1668-find-longest-awesome-substring) |
 | [1835-decode-xored-permutation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1835-decode-xored-permutation) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
