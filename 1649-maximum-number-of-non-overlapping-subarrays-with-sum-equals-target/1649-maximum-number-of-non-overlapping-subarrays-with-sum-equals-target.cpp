@@ -1,32 +1,24 @@
 class Solution {
 public:
     int maxNonOverlapping(vector<int>& nums, int target) {
-      int n = nums.size();
-      nums.insert(nums.begin(), 0);
-      vector<int> preSum(n+1,0);
-      unordered_map<int,vector<int>> valIndex;
-
-      int total = 0;
-      for (int i = 0; i <= n; ++i) {
-        total += nums[i];
-        preSum[i] = total;
-        if(valIndex.find(total) == valIndex.end()) {
-          valIndex[total] = {};
-        }
-        valIndex[total].push_back(i);
-      } 
-      vector<int> dp(n+1, -1);
-      dp[0] = 0;
-      for (int i = 1; i <= n; ++i) {
-        int need = preSum[i] - target;
-        if(valIndex.find(need) != valIndex.end()) {
-          for (int & needIdx :valIndex[need]) {
-            if(needIdx >= i) continue;
-            dp[i] = max(dp[needIdx] + 1, dp[i]);
+        unordered_map<long long, int> mp;
+        mp[0] = 0;
+        int curSubCount = 0;
+        long long prefixSum = 0;
+        for (int i = 1; i <= nums.size(); i++) {
+          prefixSum += nums[i-1];
+          if (mp.find(prefixSum - target) != mp.end()) {
+            curSubCount = max(curSubCount, mp[prefixSum - target] + 1);
           }
+          mp[prefixSum] = curSubCount;
         }
-        dp[i] = max(dp[i], dp[i-1]);
-      }
-      return dp[n];
+        return curSubCount;
     }
 };
+
+/*
+num - x = target
+num - target = x
+
+
+*/
