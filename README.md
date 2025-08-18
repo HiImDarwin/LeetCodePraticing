@@ -230,6 +230,7 @@ upload the code I write on leetcode
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0377-combination-sum-iv) |
@@ -742,6 +743,7 @@ upload the code I write on leetcode
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0357-count-numbers-with-unique-digits) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0368-largest-divisible-subset) |
 | [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
@@ -854,6 +856,7 @@ upload the code I write on leetcode
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0320-generalized-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0320-generalized-abbreviation) |
+| [0357-count-numbers-with-unique-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0494-target-sum) |
