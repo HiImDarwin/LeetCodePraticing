@@ -168,6 +168,7 @@ upload the code I write on leetcode
 | [1534-minimum-number-of-frogs-croaking](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
 | [1651-shuffle-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1668-find-longest-awesome-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1668-find-longest-awesome-substring) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -781,6 +782,7 @@ upload the code I write on leetcode
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Bit Manipulation
 |  |
@@ -1567,6 +1569,7 @@ upload the code I write on leetcode
 | [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3860-resulting-string-after-adjacent-removals) |
