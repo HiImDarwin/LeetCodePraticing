@@ -611,6 +611,7 @@ upload the code I write on leetcode
 | [1138-grumpy-bookstore-owner](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1138-grumpy-bookstore-owner) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1148-adding-two-negabinary-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1148-adding-two-negabinary-numbers) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
@@ -774,6 +775,7 @@ upload the code I write on leetcode
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1057-numbers-with-repeated-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
+| [1148-adding-two-negabinary-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1148-adding-two-negabinary-numbers) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1223-graph-connectivity-with-threshold) |
 | [1240-stone-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1240-stone-game-ii) |
