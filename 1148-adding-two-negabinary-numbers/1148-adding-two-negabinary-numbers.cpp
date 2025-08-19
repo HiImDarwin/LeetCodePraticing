@@ -15,7 +15,11 @@ public:
         carry = total/(-2);
         
         if (r<0) {
-          carry += 1;
+          if (carry > 0) {
+            carry--;
+          } else {
+            carry++;
+          }
           r += abs(2);
         }
 
