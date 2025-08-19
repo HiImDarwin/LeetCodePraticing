@@ -263,6 +263,7 @@ upload the code I write on leetcode
 | [0972-knight-dialer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0972-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1025-minimum-cost-for-tickets) |
+| [1057-numbers-with-repeated-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1170-shortest-common-supersequence) |
@@ -757,6 +758,7 @@ upload the code I write on leetcode
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
+| [1057-numbers-with-repeated-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1223-graph-connectivity-with-threshold) |
