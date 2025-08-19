@@ -353,6 +353,7 @@ upload the code I write on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
@@ -442,6 +443,7 @@ upload the code I write on leetcode
 | ------- |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1244-distinct-echo-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1244-distinct-echo-substrings) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -541,6 +543,7 @@ upload the code I write on leetcode
 | [0413-arithmetic-slices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0455-assign-cookies) |
@@ -813,6 +816,7 @@ upload the code I write on leetcode
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
