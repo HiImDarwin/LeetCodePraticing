@@ -175,6 +175,7 @@ upload the code I write on leetcode
 | [1739-split-two-strings-to-make-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1871-palindrome-partitioning-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1871-palindrome-partitioning-iv) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
@@ -400,6 +401,7 @@ upload the code I write on leetcode
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
@@ -432,6 +434,7 @@ upload the code I write on leetcode
 | [0885-exam-room](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0885-exam-room) |
 | [0937-online-stock-span](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0937-online-stock-span) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Trie
 |  |
@@ -439,6 +442,7 @@ upload the code I write on leetcode
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
 | [1244-distinct-echo-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1244-distinct-echo-substrings) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Array
 |  |
 | ------- |
