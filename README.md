@@ -414,6 +414,7 @@ upload the code I write on leetcode
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -438,6 +439,7 @@ upload the code I write on leetcode
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 ## Trie
 |  |
 | ------- |
@@ -993,6 +995,7 @@ upload the code I write on leetcode
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
@@ -1804,6 +1807,7 @@ upload the code I write on leetcode
 | [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0885-exam-room](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0885-exam-room) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 ## Hash Function
 |  |
 | ------- |
