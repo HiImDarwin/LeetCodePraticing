@@ -16,6 +16,7 @@ upload the code I write on leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [0716-max-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0716-max-stack) |
@@ -341,6 +342,7 @@ upload the code I write on leetcode
 | [0138-copy-list-with-random-pointer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
@@ -428,6 +430,7 @@ upload the code I write on leetcode
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
@@ -1863,5 +1866,6 @@ upload the code I write on leetcode
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0146-lru-cache) |
 | [0716-max-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0716-max-stack) |
 <!---LeetCode Topics End-->
