@@ -1,39 +1,65 @@
 class Solution {
 
 public:
-    int maxWeight(int n, vector<vector<int>>& edges, int k, int t) {
-      vector<vector<pair<int,int>>> graph(n);
-      for (auto& e : edges) {
-        int u = e[0], v = e[1], w = e[2];
-        graph[u].push_back({v,w});
-      }
+    // int maxWeight(int n, vector<vector<int>>& edges, int k, int t) {
+    //   vector<vector<pair<int,int>>> graph(n);
+    //   for (auto& e : edges) {
+    //     int u = e[0], v = e[1], w = e[2];
+    //     graph[u].push_back({v,w});
+    //   }
 
-      vector<vector<unordered_map<int,int>>> memo(n, vector<unordered_map<int,int>>(k+1));
-      int ans = -1;
-      for (int i = 0; i < n; ++i) {
-        int res = dfs(i,k,0,t,graph,memo);
-        ans = max(ans, res);
-      }
-      return ans;
+    //   vector<vector<unordered_map<int,int>>> memo(n, vector<unordered_map<int,int>>(k+1));
+    //   int ans = -1;
+    //   for (int i = 0; i < n; ++i) {
+    //     int res = dfs(i,k,0,t,graph,memo);
+    //     ans = max(ans, res);
+    //   }
+    //   return ans;
+    // }
+
+    // int dfs(int node, int k, int sum, int t, 
+    //         vector<vector<pair<int, int>>>& graph, 
+    //         vector<vector<unordered_map<int, int>>>& memo) {
+    //   if(k == 0) return sum < t ? sum : -1;
+    //   if (memo[node][k].count(sum)) return memo[node][k][sum];
+    //   int maxSum = -1;
+
+    //   for (auto& [neighbor, weight] : graph[node]) {
+    //     int newSum = sum + weight;
+    //     if (newSum >= t) continue;
+    //     int result = dfs(neighbor, k-1 ,newSum, t, graph, memo);
+    //     if (result != -1) {
+    //       maxSum = max(maxSum, result);
+    //     }
+    //   }
+    //   return memo[node][k][sum] = maxSum;
+    // }
+  int maxWeight(int n, vector<vector<int>>& edges, int k, int t) {
+    vector<vector<set<int>>> dp(n, vector<set<int>>(k+1));
+    for (int u = 0; u < n; u++) {
+      dp[u][0].insert(0);
     }
 
-    int dfs(int node, int k, int sum, int t, 
-            vector<vector<pair<int, int>>>& graph, 
-            vector<vector<unordered_map<int, int>>>& memo) {
-      if(k == 0) return sum < t ? sum : -1;
-      if (memo[node][k].count(sum)) return memo[node][k][sum];
-      int maxSum = -1;
-
-      for (auto& [neighbor, weight] : graph[node]) {
-        int newSum = sum + weight;
-        if (newSum >= t) continue;
-        int result = dfs(neighbor, k-1 ,newSum, t, graph, memo);
-        if (result != -1) {
-          maxSum = max(maxSum, result);
+    for (int e = 0; e < k; e++) {
+      for (auto& edge : edges) {
+        int u = edge[0], v = edge[1], wt = edge[2];
+        for (auto& w : dp[u][e]) {
+          int new_w = w + wt;
+          if (new_w < t) dp[v][e+1].insert(new_w);
         }
       }
-      return memo[node][k][sum] = maxSum;
     }
+
+    int ans = -1;
+    for (int u = 0; u < n; u++) {
+      if (!dp[u][k].empty()) {
+        ans = max(ans, *prev(dp[u][k].end()));
+      }
+    }
+    return ans;
+  
+  }
+
 };
 
 /* 
