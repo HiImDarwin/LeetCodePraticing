@@ -3,8 +3,10 @@ public:
     int consecutiveNumbersSum(int n) {
       int res = 0;
 
-      for (int m = 1; 2*n - m*m + m > 0; m++) {
-        if ((2*n - m*m + m)%(2*m) == 0){
+      for (int numCount = 1; numCount * (numCount + 1) / 2 <= n; ++numCount) {
+        if (numCount%2 == 1 && n % numCount == 0) {
+          res++;
+        } else if (numCount%2 == 0 && n % numCount == numCount/2) {
           res++;
         }
       }
@@ -17,6 +19,19 @@ public:
 
 sliding window
 
-(x + x+m-1 )* m = 2n
-x 2n-(m-1)
+12345 = 15
+1 num
+n
+n%2 == 1
+
+n%3 == 0
+
+n % 5 == 0
+
+
+1 2 3 4 = 10
+
+1 2 3 4 5 6 = 21%6
+
+2 3 4 5 = 14 % 4 = 2
 */ 
