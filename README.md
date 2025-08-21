@@ -776,6 +776,7 @@ upload the code I write on leetcode
 | [0357-count-numbers-with-unique-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0357-count-numbers-with-unique-digits) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0368-largest-divisible-subset) |
+| [0400-nth-digit](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0400-nth-digit) |
 | [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0556-next-greater-element-iii) |
@@ -1414,6 +1415,7 @@ upload the code I write on leetcode
 | [0354-russian-doll-envelopes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0532-k-diff-pairs-in-an-array) |
