@@ -384,6 +384,7 @@ upload the code I write on leetcode
 | [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -796,6 +797,7 @@ upload the code I write on leetcode
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1057-numbers-with-repeated-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1057-numbers-with-repeated-digits) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1070-convert-to-base-2](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1070-convert-to-base-2) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
 | [1148-adding-two-negabinary-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1148-adding-two-negabinary-numbers) |
