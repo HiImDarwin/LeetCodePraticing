@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minTotalDistance(vector<vector<int>>& grid) {
-      vector<vector<int>> persons;
       int M = grid.size();
       int N = grid[0].size();
 
