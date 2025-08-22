@@ -531,6 +531,7 @@ upload the code I write on leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
 | [0275-h-index-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0275-h-index-ii) |
+| [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
 | [0300-longest-increasing-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
@@ -777,6 +778,7 @@ upload the code I write on leetcode
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
+| [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
 | [0343-integer-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0357-count-numbers-with-unique-digits) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
@@ -931,6 +933,7 @@ upload the code I write on leetcode
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
+| [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0354-russian-doll-envelopes) |
@@ -1292,6 +1295,7 @@ upload the code I write on leetcode
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
+| [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
