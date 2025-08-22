@@ -381,6 +381,7 @@ upload the code I write on leetcode
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
@@ -610,6 +611,7 @@ upload the code I write on leetcode
 | [0967-minimum-falling-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1019-squares-of-a-sorted-array) |
@@ -790,6 +792,7 @@ upload the code I write on leetcode
 | [0910-nth-magical-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0910-nth-magical-number) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1057-numbers-with-repeated-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1057-numbers-with-repeated-digits) |
@@ -1047,6 +1050,7 @@ upload the code I write on leetcode
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
 ## Greedy
