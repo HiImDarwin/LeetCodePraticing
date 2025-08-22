@@ -695,6 +695,7 @@ upload the code I write on leetcode
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
@@ -815,6 +816,7 @@ upload the code I write on leetcode
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
 | [2383-add-two-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2383-add-two-integers) |
 | [2457-count-special-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2457-count-special-integers) |
@@ -979,6 +981,7 @@ upload the code I write on leetcode
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1322,6 +1325,7 @@ upload the code I write on leetcode
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
