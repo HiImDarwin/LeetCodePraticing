@@ -787,6 +787,7 @@ upload the code I write on leetcode
 | [0650-2-keys-keyboard](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0650-2-keys-keyboard) |
 | [0856-consecutive-numbers-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0856-consecutive-numbers-sum) |
 | [0909-stone-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0909-stone-game) |
+| [0910-nth-magical-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0910-nth-magical-number) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
@@ -1435,6 +1436,7 @@ upload the code I write on leetcode
 | [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
+| [0910-nth-magical-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0910-nth-magical-number) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
