@@ -288,6 +288,7 @@ upload the code I write on leetcode
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1522-stone-game-iii) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1680-count-all-possible-routes) |
