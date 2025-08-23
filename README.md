@@ -605,6 +605,7 @@ upload the code I write on leetcode
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0911-profitable-schemes) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -800,6 +801,7 @@ upload the code I write on leetcode
 | [0903-implement-rand10-using-rand7](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0903-implement-rand10-using-rand7) |
 | [0909-stone-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0910-nth-magical-number) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
@@ -1461,6 +1463,7 @@ upload the code I write on leetcode
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0910-nth-magical-number) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1733,6 +1736,7 @@ upload the code I write on leetcode
 | [0525-contiguous-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
@@ -1855,6 +1859,7 @@ upload the code I write on leetcode
 | [0716-max-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0716-max-stack) |
 | [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0885-exam-room](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0885-exam-room) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 ## Hash Function
@@ -1914,8 +1919,13 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0903-implement-rand10-using-rand7) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0903-implement-rand10-using-rand7) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
