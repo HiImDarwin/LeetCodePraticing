@@ -296,6 +296,7 @@ upload the code I write on leetcode
 | [1871-palindrome-partitioning-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1871-palindrome-partitioning-iv) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
