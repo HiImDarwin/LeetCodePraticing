@@ -796,6 +796,7 @@ upload the code I write on leetcode
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0650-2-keys-keyboard) |
 | [0856-consecutive-numbers-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0856-consecutive-numbers-sum) |
+| [0888-mirror-reflection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0888-mirror-reflection) |
 | [0909-stone-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0910-nth-magical-number) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -1064,6 +1065,7 @@ upload the code I write on leetcode
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0223-rectangle-area) |
+| [0888-mirror-reflection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0888-mirror-reflection) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
@@ -1887,6 +1889,7 @@ upload the code I write on leetcode
 ## Number Theory
 |  |
 | ------- |
+| [0888-mirror-reflection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0888-mirror-reflection) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1223-graph-connectivity-with-threshold) |
 | [1372-check-if-it-is-a-good-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1372-check-if-it-is-a-good-array) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
