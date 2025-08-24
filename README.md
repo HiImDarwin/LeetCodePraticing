@@ -298,6 +298,7 @@ upload the code I write on leetcode
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -700,6 +701,7 @@ upload the code I write on leetcode
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -883,6 +885,7 @@ upload the code I write on leetcode
 | [1835-decode-xored-permutation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1835-decode-xored-permutation) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -936,6 +939,7 @@ upload the code I write on leetcode
 | [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1893,6 +1897,7 @@ upload the code I write on leetcode
 | [0464-can-i-win](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
