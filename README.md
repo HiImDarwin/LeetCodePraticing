@@ -716,6 +716,7 @@ upload the code I write on leetcode
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2426-maximum-profit-from-trading-stocks) |
@@ -838,6 +839,7 @@ upload the code I write on leetcode
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2383-add-two-integers) |
 | [2457-count-special-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2457-count-special-integers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1229,6 +1231,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Depth-First Search
 |  |
@@ -1676,6 +1679,7 @@ upload the code I write on leetcode
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Stack
 |  |
