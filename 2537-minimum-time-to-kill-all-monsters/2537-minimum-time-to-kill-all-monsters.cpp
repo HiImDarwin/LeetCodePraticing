@@ -2,21 +2,19 @@ class Solution {
 public:
     long long minimumTime(vector<int>& power) {
       int monsterNum = power.size();
-      vector<unordered_map<int,long long>> dp(monsterNum + 1);
-      dp[0][0] = 0;
-      for (int i = 0; i < monsterNum; i ++) {
-        for (auto& [state, days] : dp[i]) {
-          for (int pos = 0; pos < monsterNum; pos++) {
-            if (state & (1 << pos)) continue;
-            int newState = state | (1 << pos);
-            long long newDays = days + (power[pos] % (i+1) == 0 ? power[pos]/(i+1) : power[pos]/(i + 1) + 1);
-            if (dp[i+1].find(newState) == dp[i+1].end() || dp[i+1][newState] > newDays) {
-              dp[i+1][newState] = newDays;
-            }
-          }
+      vector<long long> dp(1 << monsterNum,LLONG_MAX);
+      dp[0] = 0;
+      for (int i = 0; i < (1 << monsterNum); i ++) {
+        int gain = __builtin_popcount(i) + 1;
+        for (int bitIdx = 0; bitIdx < monsterNum; bitIdx++) {
+          if (i & (1 << bitIdx)) continue;
+          int newMask = i | (1 << bitIdx);
+          long long newDays = dp[i] + (power[bitIdx] % gain == 0 ? power[bitIdx] / gain : power[bitIdx] / gain + 1);
+          dp[newMask] = min(dp[newMask],newDays);
         }
+        
       }
-      return dp[monsterNum][(1 << monsterNum) - 1];
+      return dp[(1 << monsterNum) - 1];
     }
 };
 
