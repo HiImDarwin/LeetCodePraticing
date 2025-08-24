@@ -2,33 +2,33 @@ class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
       int n = fruits.size();
-      map<int,int> segment;
-      for (int i = 0, start = 0; i < n; i++) {
-        if (fruits[i] != fruits[start]) {
-          segment[start] = i - start;
-          start = i;
-        } 
-        if (i == n-1) {
-          segment[start] = i - start + 1;
-        }
-      }
-      int prevPoint1 = -1;
-      int prevPoint2 = -1;
+      int fruitA = -1;
+      int amountA = 0;
+      int fruitB = -1;
+      int amountB = 0;
       int total = 0;
+      int i = 0;
       int res = 0;
-      for (auto& [start , count]: segment) {
-        if (prevPoint1 == -1 || prevPoint2 == -1) {
-          total += count;
-        } else if (fruits[start] == fruits[prevPoint2]) {
-          total += count;
-        } else {
-          res = max(res, total);
-          total = segment[prevPoint1] + segment[start];
+      while (i < n) {
+        if (fruits[i] != fruitA && fruits[i] != fruitB) {
+          res = max(res,total);
+          fruitB = fruitA;
+          amountB = amountA;
+          fruitA = fruits[i];
+          amountA = 1;
+          total = amountA + amountB;
+        } else if (fruits[i] != fruitA && fruits[i] == fruitB) {
+          swap(amountA, amountB);
+          swap(fruitA, fruitB);
+          amountA = 1;
+          total++;
+        } else if (fruits[i] == fruitA) {
+          amountA++;
+          total++;
         }
-        prevPoint2 = prevPoint1;
-        prevPoint1 = start;
+        i++;
       }
-      res = max(res, total);
+      res = max(res,total);
       return res;
     }
 };
