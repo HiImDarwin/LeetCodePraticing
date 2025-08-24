@@ -432,6 +432,7 @@ upload the code I write on leetcode
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -740,6 +741,7 @@ upload the code I write on leetcode
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
@@ -1026,6 +1028,7 @@ upload the code I write on leetcode
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -1156,6 +1159,7 @@ upload the code I write on leetcode
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
