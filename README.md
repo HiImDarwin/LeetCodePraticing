@@ -388,6 +388,7 @@ upload the code I write on leetcode
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
+| [0940-fruit-into-baskets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
@@ -623,6 +624,7 @@ upload the code I write on leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0940-fruit-into-baskets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
@@ -1818,6 +1820,7 @@ upload the code I write on leetcode
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1138-grumpy-bookstore-owner) |
