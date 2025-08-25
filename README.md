@@ -812,6 +812,7 @@ upload the code I write on leetcode
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
@@ -876,6 +877,7 @@ upload the code I write on leetcode
 | [0025-reverse-nodes-in-k-group](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
@@ -892,6 +894,7 @@ upload the code I write on leetcode
 | [0136-single-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0318-maximum-product-of-word-lengths) |
 | [0320-generalized-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0320-generalized-abbreviation) |
 | [0338-counting-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0338-counting-bits) |
