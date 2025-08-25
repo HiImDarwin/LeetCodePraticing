@@ -347,6 +347,7 @@ upload the code I write on leetcode
 | [0049-group-anagrams](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0127-word-ladder) |
@@ -519,6 +520,7 @@ upload the code I write on leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
@@ -1099,6 +1101,7 @@ upload the code I write on leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1563,6 +1566,7 @@ upload the code I write on leetcode
 | [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -1640,6 +1644,7 @@ upload the code I write on leetcode
 | [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0111-minimum-depth-of-binary-tree) |
