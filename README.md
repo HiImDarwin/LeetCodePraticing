@@ -731,6 +731,7 @@ upload the code I write on leetcode
 | [2324-find-triangular-sum-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
@@ -1413,6 +1414,7 @@ upload the code I write on leetcode
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Graph
 |  |
 | ------- |
@@ -1752,6 +1754,7 @@ upload the code I write on leetcode
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1774,6 +1777,7 @@ upload the code I write on leetcode
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Data Stream
 |  |
