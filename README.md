@@ -1046,6 +1046,7 @@ upload the code I write on leetcode
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1420,6 +1421,7 @@ upload the code I write on leetcode
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
 | ------- |
@@ -1464,6 +1466,7 @@ upload the code I write on leetcode
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -1547,6 +1550,7 @@ upload the code I write on leetcode
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## Tree
 |  |
