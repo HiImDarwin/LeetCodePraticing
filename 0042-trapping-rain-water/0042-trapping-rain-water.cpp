@@ -1,29 +1,27 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-
-        //find right higher(or eaqual)
-        //find right lower
-        int n = height.size();
-        int res=0;
-        stack<int> st;
-
-        for(int i=0; i<n; ++i) {
-            while(!st.empty() && height[i] > height[st.top()]) {
-                int bottom = st.top();
-                st.pop();
-
-                if(st.empty()) break;
-
-                int left = st.top();
-                int width = i-left-1;
-                int h = min(height[i],height[left]) - height[bottom];
-
-                res += width*h;
-            }
-            st.push(i);
+      stack<int> st;
+      int res = 0;
+      for (int i = 0; i < height.size(); ++i) {
+        while (!st.empty() && height[st.top()] < height[i]) {
+          int idx = st.top();
+          st.pop();
+          if (st.empty()) break;
+          int dist = i - st.top() - 1;
+          int prev = st.top();
+          int h = min(height[prev], height[i]) - height[idx];
+          res += dist * h;
         }
-        
-        return res;
+        st.push(i);
+      }
+      return res;
     }
 };
+
+/*
+
+leftlarger rightlarger
+decreasing monotonic stack
+
+*/ 
