@@ -1,20 +1,24 @@
 class Solution {
 public:
     int maxResult(vector<int>& nums, int k) {
-      int n  = nums.size();
+      int n = nums.size();
+      if (n == 1) return nums[0];
       deque<pair<int,int>> dq;
       dq.push_back({nums[0],0});
-      for(int i = 1; i < n; i++) {
-        while(!dq.empty() && i - dq.front().second > k) {
+      int val;
+
+      for (int i = 1; i < n; i++) {
+        while (!dq.empty() && dq.front().second < i-k) {
           dq.pop_front();
         }
-        int currStep = dq.front().first + nums[i];
-        while(!dq.empty() && currStep > dq.back().first) {
+        val = nums[i] + dq.front().first;
+        while (!dq.empty() && val > dq.back().first) {
           dq.pop_back();
         }
-        dq.push_back({currStep,i});
+        dq.push_back({val,i});
       }
-      return dq.back().first;
+
+      return val;
     }
 };
 
@@ -31,4 +35,11 @@ public:
 
 
   Deque O(n)
+  找區間內最大值 sliding window maximum
+
+  對i而言 deque內是可以跳到他的距離點位score
+  [8 7 6 5] i
+  如果 i 的數值是 7 65就必須拿掉 (比他舊又比較小)
+  
+ 
 */
