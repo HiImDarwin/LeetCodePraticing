@@ -79,6 +79,7 @@ upload the code I write on leetcode
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## String
 |  |
 | ------- |
@@ -785,6 +786,7 @@ upload the code I write on leetcode
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 | [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Memoization
 |  |
 | ------- |
@@ -1054,6 +1056,7 @@ upload the code I write on leetcode
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3908-minimum-time-for-k-connected-components) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1098,6 +1101,7 @@ upload the code I write on leetcode
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1186,6 +1190,7 @@ upload the code I write on leetcode
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Counting
 |  |
 | ------- |
