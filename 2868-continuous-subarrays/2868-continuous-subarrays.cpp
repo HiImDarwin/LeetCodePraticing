@@ -1,31 +1,32 @@
 class Solution {
 public:
     long long continuousSubarrays(vector<int>& nums) {
-      int n = nums.size();
-      deque<int> maxdq,mindq;
+      int N = nums.size();
+      deque<pair<int,int>> smallerQ,largerQ;
+      int windowLeft = -1;
       long long res = 0;
-      for(int i = 0, j = 0; j < nums.size(); ++j) {
-        // maximum deque (monotonic decrease)
-        while(!maxdq.empty() && nums[j] > nums[maxdq.back()]) {
-          maxdq.pop_back();
+      for (int i = 0; i < N; i++){
+        while (!smallerQ.empty() && nums[i] <= smallerQ.back().first) {
+          smallerQ.pop_back();
         }
-        maxdq.push_back(j);
-        // minimum deque (monotonic increase)
-        while(!mindq.empty() && nums[j] < nums[mindq.back()]) {
-          mindq.pop_back();
+        smallerQ.push_back({nums[i],i});
+        while (!largerQ.empty() && nums[i] >= largerQ.back().first) {
+          largerQ.pop_back();
         }
-        mindq.push_back(j);
 
-        while(nums[maxdq.front()] - nums[mindq.front()] > 2) {
-          if(!maxdq.empty() && maxdq.front() == i) {
-            maxdq.pop_front();
+        largerQ.push_back({nums[i],i});
+        
+        while(nums[i] - smallerQ.front().first > 2 || largerQ.front().first - nums[i] > 2) {
+          windowLeft++;
+          if (smallerQ.front().second == windowLeft) {
+            smallerQ.pop_front();
           }
-          if(!mindq.empty() && mindq.front() == i) {
-            mindq.pop_front();
+          if (largerQ.front().second == windowLeft) {
+            largerQ.pop_front();
           }
-          i++;
         }
-        res += j - i + 1; 
+
+        res += i - windowLeft;
       }
       return res;
     }
@@ -33,10 +34,14 @@ public:
 
 /*
 
-  mantain a sliding window for each index j
-  window left side is i
+you want to find prev smaller prev bigger and you need to find the length of window
 
 
-  1 2 3 1 2 4 2
+
+12134
+
+3   4
+3
+
 
 */
