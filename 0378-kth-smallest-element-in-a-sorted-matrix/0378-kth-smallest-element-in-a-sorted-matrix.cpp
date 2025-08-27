@@ -1,17 +1,38 @@
 class Solution {
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int m = matrix.size(), n=matrix[0].size(),ans;
-        priority_queue<vector<int>,vector<vector<int>>, greater<>> minHp;
-        for(int r=0;r<min(m,k);++r) {
-            minHp.push({matrix[r][0],r,0});
+      long long left = INT_MIN, right = INT_MAX;
+      while (left < right) {
+        long long mid = left + (right - left) / 2;
+        if (elementCount(matrix, mid) >= k) {
+          right = mid;
+        } else {
+          left = mid + 1;
         }
-        for (int i=1; i <= k; ++i) {
-            auto top = minHp.top(); minHp.pop();
-            int r = top[1],c = top[2];
-            ans = top[0];
-            if (c+1<n) minHp.push({matrix[r][c + 1], r, c + 1});
+      }
+      return (int)left;
+    }
+
+    int elementCount(vector<vector<int>>& matrix, int x) {
+      int n = matrix.size();
+      int count = 0;
+      int col = n-1;
+
+      for (int row = 0; row < n; row++) {
+        while (col >= 0 && matrix[row][col] > x) {
+          col--;
         }
-        return ans;
+        count += (col + 1);
+      }
+
+      return count;
     }
 };
+
+/*
+
+
+priority Queue
+
+
+*/
