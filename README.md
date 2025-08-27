@@ -792,6 +792,7 @@ upload the code I write on leetcode
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 | [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
+| [3944-minimum-time-to-activate-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3944-minimum-time-to-activate-string) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Memoization
 |  |
@@ -1582,6 +1583,7 @@ upload the code I write on leetcode
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
+| [3944-minimum-time-to-activate-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3944-minimum-time-to-activate-string) |
 ## Tree
 |  |
 | ------- |
