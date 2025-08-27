@@ -2,7 +2,7 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
       int n = nums.size();
-      int left = 1, right = n;
+      int left = 1, right = n-1;
       while (left < right) {
         int mid = left + (right - left) / 2;
         if (countElement(nums, mid) > mid) {
