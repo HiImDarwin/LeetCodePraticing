@@ -832,6 +832,7 @@ upload the code I write on leetcode
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
+| [0326-power-of-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0357-count-numbers-with-unique-digits) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
@@ -897,6 +898,7 @@ upload the code I write on leetcode
 | [0231-power-of-two](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1667-find-kth-bit-in-nth-binary-string) |
