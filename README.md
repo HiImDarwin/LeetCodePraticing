@@ -391,6 +391,7 @@ upload the code I write on leetcode
 | [0833-bus-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0833-bus-routes) |
 | [0894-random-pick-with-blacklist](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0894-random-pick-with-blacklist) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0900-reordered-power-of-2](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0940-fruit-into-baskets) |
@@ -843,6 +844,7 @@ upload the code I write on leetcode
 | [0856-consecutive-numbers-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0856-consecutive-numbers-sum) |
 | [0888-mirror-reflection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0888-mirror-reflection) |
 | [0894-random-pick-with-blacklist](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0894-random-pick-with-blacklist) |
+| [0900-reordered-power-of-2](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0903-implement-rand10-using-rand7) |
 | [0909-stone-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0910-nth-magical-number) |
@@ -1028,6 +1030,7 @@ upload the code I write on leetcode
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0894-random-pick-with-blacklist](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0894-random-pick-with-blacklist) |
+| [0900-reordered-power-of-2](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
@@ -1202,6 +1205,7 @@ upload the code I write on leetcode
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0900-reordered-power-of-2) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1160-letter-tile-possibilities) |
@@ -1993,6 +1997,7 @@ upload the code I write on leetcode
 | ------- |
 | [0834-ambiguous-coordinates](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0834-ambiguous-coordinates) |
 | [0856-consecutive-numbers-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0856-consecutive-numbers-sum) |
+| [0900-reordered-power-of-2](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0900-reordered-power-of-2) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
