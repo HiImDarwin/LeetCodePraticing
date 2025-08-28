@@ -1299,6 +1299,7 @@ upload the code I write on leetcode
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2439-longest-cycle-in-a-graph) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2671-shortest-cycle-in-a-graph) |
@@ -1665,6 +1666,7 @@ upload the code I write on leetcode
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
@@ -1737,6 +1739,7 @@ upload the code I write on leetcode
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Minimum Spanning Tree
