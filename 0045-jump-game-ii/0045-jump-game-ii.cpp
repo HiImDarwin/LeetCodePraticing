@@ -1,7 +1,7 @@
 class Solution {
 public:
     // DP
-    // Time Compiler O(N^2)
+    // Time Complexity O(N^2)
     // int jump(vector<int>& nums) {
     //     int n= nums.size();
         
@@ -20,15 +20,25 @@ public:
     int jump(vector<int>& nums) {
         int jump=0,end=0,farthest=0;
         for(int i=0; i<nums.size()-1;i++){
-            farthest = max(farthest,i+nums[i]);
-            if(i==end){
-                jump++;
-                end = farthest;
-                if(end>nums.size()-1) break;
+            farthest = max(farthest, nums[i]+i);
+            if (i == end) {
+              jump++;
+              end = farthest;
             }
-            
         }
         return jump;
     }
 
 };
+
+
+
+
+/*
+DP
+
+
+dijkstra O(n)
+XXXXXXXXXX
+
+*/
