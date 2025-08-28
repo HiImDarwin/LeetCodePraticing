@@ -368,6 +368,7 @@ upload the code I write on leetcode
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -562,6 +563,7 @@ upload the code I write on leetcode
 | [0228-summary-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0287-find-the-duplicate-number) |
 | [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
@@ -840,6 +842,7 @@ upload the code I write on leetcode
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
 | [0326-power-of-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0326-power-of-three) |
@@ -926,6 +929,7 @@ upload the code I write on leetcode
 | [0137-single-number-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0318-maximum-product-of-word-lengths) |
 | [0320-generalized-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0320-generalized-abbreviation) |
@@ -1022,6 +1026,7 @@ upload the code I write on leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
 | [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
 | [0347-top-k-frequent-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0347-top-k-frequent-elements) |
@@ -1548,6 +1553,7 @@ upload the code I write on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
 | [0275-h-index-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0287-find-the-duplicate-number) |
