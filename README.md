@@ -848,6 +848,7 @@ upload the code I write on leetcode
 | [0628-maximum-product-of-three-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0856-consecutive-numbers-sum) |
 | [0888-mirror-reflection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0888-mirror-reflection) |
 | [0894-random-pick-with-blacklist](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0894-random-pick-with-blacklist) |
@@ -1174,6 +1175,7 @@ upload the code I write on leetcode
 | [0502-ipo](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
