@@ -71,6 +71,7 @@ upload the code I write on leetcode
 | [0868-push-dominoes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0874-backspace-string-compare) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
+| [0985-bag-of-tokens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -647,6 +648,7 @@ upload the code I write on leetcode
 | [0967-minimum-falling-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
+| [0985-bag-of-tokens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0985-bag-of-tokens) |
 | [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -1045,6 +1047,7 @@ upload the code I write on leetcode
 | [0948-sort-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
+| [0985-bag-of-tokens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
@@ -1181,6 +1184,7 @@ upload the code I write on leetcode
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0985-bag-of-tokens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0985-bag-of-tokens) |
 | [1026-string-without-aaa-or-bbb](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1026-string-without-aaa-or-bbb) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1159-smallest-subsequence-of-distinct-characters) |
