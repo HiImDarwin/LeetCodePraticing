@@ -1,21 +1,32 @@
 class Solution {
 public:
     int findMinArrowShots(vector<vector<int>>& points) {
-      sort(points.begin(),points.end(),[](vector<int> &a,vector<int> &b){
-        return a[0]<b[0];
-      });
-      int ans=1;
-      int overlap_left = points[0][1], overlap_right = points[0][1];
-      for(int i = 1; i < points.size(); ++i){
-        if(points[i][0] <= overlap_right){
-            overlap_left = max(overlap_left, points[i][0]);
-            overlap_right = min(overlap_right, points[i][1]);
-        } else{
-            ans++;
-            overlap_left = points[i][0];
-            overlap_right = points[i][1];
+      int n = points.size();
+      sort(points.begin(), points.end());
+      int res = 0;
+      int idx = 0;
+      while (idx < n) {
+        int left = points[idx][0];
+        int right = points[idx][1];
+        while (idx + 1 < n && points[idx + 1][0] <= right) {
+          left = max(left, points[idx + 1][0]);
+          right = min(right, points[idx + 1][1]);
+          idx++;
         }
+        idx++;
+        res++;
       }
-      return ans;
+
+      return res;
     }
 };
+
+
+/*
+   XXXX
+ XX
+ XXX
+XXXXX
+
+
+*/
