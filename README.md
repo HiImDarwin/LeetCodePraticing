@@ -276,6 +276,7 @@ upload the code I write on leetcode
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1057-numbers-with-repeated-digits) |
+| [1081-video-stitching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1170-shortest-common-supersequence) |
@@ -667,6 +668,7 @@ upload the code I write on leetcode
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
+| [1081-video-stitching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1081-video-stitching) |
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1138-grumpy-bookstore-owner) |
@@ -1199,6 +1201,7 @@ upload the code I write on leetcode
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0985-bag-of-tokens) |
 | [1026-string-without-aaa-or-bbb](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1026-string-without-aaa-or-bbb) |
+| [1081-video-stitching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1081-video-stitching) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
