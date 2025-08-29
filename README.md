@@ -339,6 +339,7 @@ upload the code I write on leetcode
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3856-maximum-weighted-k-edge-path) |
@@ -810,6 +811,7 @@ upload the code I write on leetcode
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -981,6 +983,7 @@ upload the code I write on leetcode
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3394-minimum-array-end](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3394-minimum-array-end) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -1543,6 +1546,7 @@ upload the code I write on leetcode
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3908-minimum-time-for-k-connected-components) |
@@ -1563,6 +1567,7 @@ upload the code I write on leetcode
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -2060,6 +2065,7 @@ upload the code I write on leetcode
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Enumeration
