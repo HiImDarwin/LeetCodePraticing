@@ -5,32 +5,13 @@ public:
       int removeEnd = toBeRemoved[1];
       vector<vector<int>> res;
       for(auto& interval: intervals) {
-        int front = interval[0];
-        int end = interval[1];
-
-        if (removeEnd <= front || end <= removeFront) {
-          res.push_back({front,end});
-        } else  {
-          if (front < removeFront){
-            res.push_back({front, removeFront});
-          }
-          if (removeEnd < end) {
-            res.push_back({removeEnd, end});
-          }
-      
+        int front = interval[0], end = interval[1];
+        if (front < removeFront) {
+          res.push_back({front, min(end, removeFront)});
         }
-      
-        //   if (removeFront <= front && front < removeEnd && removeEnd < end) {
-        //   res.push_back({removeEnd, end});
-        // } else if (removeFront <= front && end <= removeEnd) {
-        //   continue;
-        // } else if (front < removeFront && removeEnd < end) {
-        //   res.push_back({front, removeFront});
-        //   res.push_back({removeEnd, end});
-        // } else if (front < removeFront &&  removeFront < end && end <= removeEnd) {
-        //   res.push_back({front, removeFront});
-        // }
-       
+        if (removeEnd < end) {
+          res.push_back({max(front,removeEnd), end});
+        }
       }
       return res;
     }
