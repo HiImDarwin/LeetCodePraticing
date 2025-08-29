@@ -174,6 +174,7 @@ upload the code I write on leetcode
 | [1508-longest-happy-prefix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1508-longest-happy-prefix) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1651-shuffle-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1668-find-longest-awesome-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1668-find-longest-awesome-substring) |
@@ -302,6 +303,7 @@ upload the code I write on leetcode
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1680-count-all-possible-routes) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -427,6 +429,7 @@ upload the code I write on leetcode
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1668-find-longest-awesome-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1668-find-longest-awesome-substring) |
 | [1694-make-sum-divisible-by-p](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1694-make-sum-divisible-by-p) |
@@ -957,6 +960,7 @@ upload the code I write on leetcode
 | [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1668-find-longest-awesome-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1668-find-longest-awesome-substring) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1826-maximum-xor-with-an-element-from-array) |
