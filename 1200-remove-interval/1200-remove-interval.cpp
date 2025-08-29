@@ -8,20 +8,29 @@ public:
         int front = interval[0];
         int end = interval[1];
 
-        if (removeEnd <= front) {
+        if (removeEnd <= front || end <= removeFront) {
           res.push_back({front,end});
-        } else if (removeFront <= front && front < removeEnd && removeEnd < end) {
-          res.push_back({removeEnd, end});
-        } else if (removeFront <= front && end <= removeEnd) {
-          continue;
-        } else if (front < removeFront && removeEnd < end) {
-          res.push_back({front, removeFront});
-          res.push_back({removeEnd, end});
-        } else if (front < removeFront &&  removeFront < end && end <= removeEnd) {
-          res.push_back({front, removeFront});
-        } else if (end <= removeFront) {
-          res.push_back({front,end});
+        } else  {
+          if (front < removeFront){
+            res.push_back({front, removeFront});
+          }
+          if (removeEnd < end) {
+            res.push_back({removeEnd, end});
+          }
+      
         }
+      
+        //   if (removeFront <= front && front < removeEnd && removeEnd < end) {
+        //   res.push_back({removeEnd, end});
+        // } else if (removeFront <= front && end <= removeEnd) {
+        //   continue;
+        // } else if (front < removeFront && removeEnd < end) {
+        //   res.push_back({front, removeFront});
+        //   res.push_back({removeEnd, end});
+        // } else if (front < removeFront &&  removeFront < end && end <= removeEnd) {
+        //   res.push_back({front, removeFront});
+        // }
+       
       }
       return res;
     }
