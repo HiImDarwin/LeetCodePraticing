@@ -318,6 +318,7 @@ upload the code I write on leetcode
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2426-maximum-profit-from-trading-stocks) |
@@ -770,6 +771,7 @@ upload the code I write on leetcode
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -977,6 +979,7 @@ upload the code I write on leetcode
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
@@ -2064,6 +2067,7 @@ upload the code I write on leetcode
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
