@@ -742,6 +742,7 @@ upload the code I write on leetcode
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -1105,6 +1106,7 @@ upload the code I write on leetcode
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1243,6 +1245,7 @@ upload the code I write on leetcode
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
