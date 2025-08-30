@@ -462,6 +462,7 @@ upload the code I write on leetcode
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -491,6 +492,7 @@ upload the code I write on leetcode
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 ## Trie
 |  |
 | ------- |
@@ -820,6 +822,7 @@ upload the code I write on leetcode
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
+| [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -1658,6 +1661,7 @@ upload the code I write on leetcode
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 | [3944-minimum-time-to-activate-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3944-minimum-time-to-activate-string) |
@@ -2042,6 +2046,7 @@ upload the code I write on leetcode
 | [0341-flatten-nested-list-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0341-flatten-nested-list-iterator) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
@@ -2062,6 +2067,7 @@ upload the code I write on leetcode
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 ## Hash Function
 |  |
 | ------- |
