@@ -785,6 +785,7 @@ upload the code I write on leetcode
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2499-minimum-money-required-before-transactions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2499-minimum-money-required-before-transactions) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1111,6 +1112,7 @@ upload the code I write on leetcode
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2499-minimum-money-required-before-transactions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2499-minimum-money-required-before-transactions) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1255,6 +1257,7 @@ upload the code I write on leetcode
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2499-minimum-money-required-before-transactions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2499-minimum-money-required-before-transactions) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2674-make-the-prefix-sum-non-negative) |
