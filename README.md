@@ -332,6 +332,7 @@ upload the code I write on leetcode
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2893-visit-array-positions-to-maximize-score) |
@@ -995,6 +996,7 @@ upload the code I write on leetcode
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
@@ -1271,6 +1273,7 @@ upload the code I write on leetcode
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
