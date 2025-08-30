@@ -817,6 +817,7 @@ upload the code I write on leetcode
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
@@ -927,6 +928,7 @@ upload the code I write on leetcode
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Recursion
@@ -991,6 +993,7 @@ upload the code I write on leetcode
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3394-minimum-array-end](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3394-minimum-array-end) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -2096,6 +2099,7 @@ upload the code I write on leetcode
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Number Theory
