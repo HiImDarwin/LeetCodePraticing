@@ -201,6 +201,7 @@ upload the code I write on leetcode
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -461,6 +462,7 @@ upload the code I write on leetcode
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -930,6 +932,7 @@ upload the code I write on leetcode
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -1291,6 +1294,7 @@ upload the code I write on leetcode
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
