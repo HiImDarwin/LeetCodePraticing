@@ -9,12 +9,8 @@ public:
         int r = x % 10;
         x = x / 10;
         cout << r << " " << x << endl;
-        // if (r < 0) {
-        //   r += 10;
-        //   x -= 1;
-        // }
         cout << r << " " << x << endl;
-        if (num > INT_MAX/10) {
+        if (num > INT_MAX/10 || num == INT_MAX/10 && r > 7) {
           return 0;
         }
         num *= 10;
