@@ -1,43 +1,43 @@
 class Solution {
 public:
-    vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-        int n = arr.size();
-        if(n <= k) return arr;
-        int left = 0, right = n-k; 
-        // right =  n-k is smaller than the window. 
-        // But because it's edge case when left = n-k it don't need compare
-        while(left < right) {
-          int mid = left + (right - left) / 2;
-
-          if(x - arr[mid] <= arr[mid + k] - x) {
-            right = mid;
-          } else  {
-            left = mid+1;
-          }
-        }
-        return vector<int>(arr.begin()+left,arr.begin()+left+k);
-    }
-
-
     // vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-    //   int left = 0, right = arr.size() - k;
-    //   while (left < right) {
-    //     int mid = left + (right - left) / 2 ;
-    //     if (abs(arr[mid] - x) < abs(arr[mid + k] - x)) {
-    //       right = mid;
-    //     } else if (abs(arr[mid] - x) < abs(arr[mid + k] - x)) {
-    //       left = mid + 1;
-    //     } else if (abs(arr[mid] - x) == abs(arr[mid + k] - x)) {
-    //       if (arr[mid] - x < 0) {
-    //        left = mid + 1;
-    //       } else {
+    //     int n = arr.size();
+    //     if(n <= k) return arr;
+    //     int left = 0, right = n-k; 
+    //     // right =  n-k is smaller than the window. 
+    //     // But because it's edge case when left = n-k it don't need compare
+    //     while(left < right) {
+    //       int mid = left + (right - left) / 2;
+
+    //       if(x - arr[mid] <= arr[mid + k] - x) {
     //         right = mid;
+    //       } else  {
+    //         left = mid+1;
     //       }
     //     }
-    //   }
-      
-    //   return vector<int> (arr.being() + left, arr.begin() + left + k);
+    //     return vector<int>(arr.begin()+left,arr.begin()+left+k);
     // }
+
+
+    vector<int> findClosestElements(vector<int>& arr, int k, int x) {
+      int left = 0, right = arr.size() - k;
+      while (left < right) {
+        int mid = left + (right - left) / 2 ;
+        if (x - arr[mid] <= arr[mid + k] - x) {
+          right = mid;
+        } else if (x - arr[mid] > arr[mid + k] - x) {
+          left = mid + 1;
+        } else {
+          if (x - arr[mid] >= 0) {
+            left = mid + 1;
+          } else {
+            right = mid;
+          }
+        }
+      }
+      
+      return vector<int> (arr.begin() + left, arr.begin() + left + k);
+    }
 };
 
 
