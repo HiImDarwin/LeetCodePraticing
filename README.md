@@ -44,6 +44,7 @@ upload the code I write on leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0189-rotate-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
@@ -576,6 +577,7 @@ upload the code I write on leetcode
 | [0170-two-sum-iii-data-structure-design](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0179-largest-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
@@ -877,6 +879,7 @@ upload the code I write on leetcode
 | [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
