@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         int n = arr.size();
         if(n <= k) return arr;
@@ -18,10 +17,33 @@ public:
         }
         return vector<int>(arr.begin()+left,arr.begin()+left+k);
     }
+
+
+    // vector<int> findClosestElements(vector<int>& arr, int k, int x) {
+    //   int left = 0, right = arr.size() - k;
+    //   while (left < right) {
+    //     int mid = left + (right - left) / 2 ;
+    //     if (abs(arr[mid] - x) < abs(arr[mid + k] - x)) {
+    //       right = mid;
+    //     } else if (abs(arr[mid] - x) < abs(arr[mid + k] - x)) {
+    //       left = mid + 1;
+    //     } else if (abs(arr[mid] - x) == abs(arr[mid + k] - x)) {
+    //       if (arr[mid] - x < 0) {
+    //        left = mid + 1;
+    //       } else {
+    //         right = mid;
+    //       }
+    //     }
+    //   }
+      
+    //   return vector<int> (arr.being() + left, arr.begin() + left + k);
+    // }
 };
 
+
+
 /*
-So in this 
+
 find k  the smallest distance element
  |arr[i]-x|
 [2,2,2,2,2,2,2,2,2] x = 3 k = 3 
