@@ -100,6 +100,7 @@ upload the code I write on leetcode
 | [0072-edit-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0126-word-ladder-ii) |
@@ -223,6 +224,7 @@ upload the code I write on leetcode
 | [0070-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0120-triangle) |
