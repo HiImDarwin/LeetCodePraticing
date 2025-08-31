@@ -913,6 +913,7 @@ upload the code I write on leetcode
 | [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1013-fibonacci-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1014-k-closest-points-to-origin) |
+| [1033-broken-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1033-broken-calculator) |
 | [1057-numbers-with-repeated-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1057-numbers-with-repeated-digits) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1070-convert-to-base-2](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1070-convert-to-base-2) |
@@ -1253,6 +1254,7 @@ upload the code I write on leetcode
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0985-bag-of-tokens) |
 | [1026-string-without-aaa-or-bbb](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1026-string-without-aaa-or-bbb) |
+| [1033-broken-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1033-broken-calculator) |
 | [1081-video-stitching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1081-video-stitching) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1159-smallest-subsequence-of-distinct-characters) |
