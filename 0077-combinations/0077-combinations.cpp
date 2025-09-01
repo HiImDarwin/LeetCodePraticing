@@ -12,9 +12,6 @@ public:
         res.push_back(tmp);
         return;
       }
-      if (start > end) {
-        return;
-      }
       for (int i = start; i <= end - k + 1; i++) {
         tmp.push_back(i);
         recursive(i + 1, end, k - 1, tmp);
