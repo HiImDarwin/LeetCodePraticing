@@ -246,6 +246,7 @@ upload the code I write on leetcode
 | [0300-longest-increasing-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0337-house-robber-iii) |
@@ -602,6 +603,7 @@ upload the code I write on leetcode
 | [0307-range-sum-query-mutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
@@ -893,6 +895,7 @@ upload the code I write on leetcode
 | [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
+| [0313-super-ugly-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0357-count-numbers-with-unique-digits) |
