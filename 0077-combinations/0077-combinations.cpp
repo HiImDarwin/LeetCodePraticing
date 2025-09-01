@@ -1,18 +1,24 @@
 class Solution {
+    vector<vector<int>> res;
 public:
     vector<vector<int>> combine(int n, int k) {
-      vector<vector<int>> res;
-      vector<int> sol;
-      backtracking(n, k ,res ,sol ,1);
+      vector<int> tmp;
+      recursive(1, n, k, tmp);
       return res;
     }
-    void backtracking(int n, int k, vector<vector<int>> & res, vector<int> &sol, int start) {
-      if(k == 0) res.push_back(sol);
-      if(start > n) return;
-      for(int i = start; i <= (n - k + 1); i++) {
-        sol.push_back(i);
-        backtracking(n, k-1, res, sol, i+1);
-        sol.pop_back();
+
+    void recursive(int start, int end, int k, vector<int>& tmp) {
+      if (k == 0) {
+        res.push_back(tmp);
+        return;
+      }
+      if (start > end) {
+        return;
+      }
+      for (int i = start; i <= end - k + 1; i++) {
+        tmp.push_back(i);
+        recursive(i + 1, end, k - 1, tmp);
+        tmp.pop_back();
       }
     }
 };
