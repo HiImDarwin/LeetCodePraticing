@@ -321,6 +321,7 @@ upload the code I write on leetcode
 | [1761-count-sorted-vowel-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1761-count-sorted-vowel-strings) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
 | [1871-palindrome-partitioning-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1871-palindrome-partitioning-iv) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -765,6 +766,7 @@ upload the code I write on leetcode
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1835-decode-xored-permutation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1835-decode-xored-permutation) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
