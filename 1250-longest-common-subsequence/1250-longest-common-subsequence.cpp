@@ -1,16 +1,30 @@
 class Solution {
-  public:
+public:
     int longestCommonSubsequence(string text1, string text2) {
-      int m = text1.size();
-      int n = text2.size();
-      if (m == 0 || n == 0) return 0;
-      vector<vector<int>> dp(m+1, vector<int>(n+1,0));
-
-      for (int i = 1; i <= m; ++i) {
-        for (int j = 1; j <= n; ++j) {
-          dp[i][j] = (text1[i-1] == text2[j-1]) ? dp[i-1][j-1] + 1 : max(dp[i-1][j],dp[i][j-1]);
+      int len1 = text1.length(), len2 = text2.length();
+      vector<vector<int>> dp(len1+1, vector<int>(len2+1, 0));
+      dp[0][0] = 0;
+      for (int i = 1; i <= len1; ++i) {
+        for (int j = 1; j <= len2; ++j) {
+          if (text1[i - 1] != text2[j - 1]) {
+            dp[i][j] = max(dp[i - 1][j], dp[i][j-1]);
+          } else {
+            dp[i][j] = max(dp[i][j], dp[i-1][j-1] + 1);
+          }
         }
       }
-      return  dp[m][n];
+      
+      return dp[len1][len2];
     }
 };
+
+/*
+how. can we said it's a dp question
+for same sub sequence we need prev status for compose a longer sub sequence
+
+
+
+dp[i][j] = max subsequence for text1 in i length and text2 in j length
+
+
+*/
