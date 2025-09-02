@@ -1,31 +1,44 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int n = weights.size()-1;
-        int left = *max_element(weights.begin(),weights.end());
-        int right = accumulate(weights.begin(),weights.end(),0);
-        while(left<right) { 
-            //finding lower bound 
-            int mid = left+(right-left)/2;
-            if(load(weights,mid) > days) {
-                left =mid+1;
-            } else {
-                right = mid;
-            }
+      int left = *max_element(weights.begin(), weights.end()); 
+      int right = accumulate(weights.begin(), weights.end(), 0);
+      while (left < right) {
+        int mid = left + (right - left) / 2;
+        if (needDay(weights , mid) > days) {
+          left = mid + 1;
+        } else {
+          right = mid;
         }
-        return left;
+
+      }
+      return left;
     }
-    int load (vector<int>& weights, int wieght) {
-        int count=0;
-        int i=0;
-        int sum=0;
-        while(i<weights.size()) {
-            while(i<weights.size() && sum+weights[i]<=wieght) {
-                sum += weights[i++];
-            }
-            sum=0;
-            count++;
+
+    int needDay(vector<int>& nums, int weight) {
+      int totalDays = 0;
+      int weightSum = 0;
+      for (int i = 0; i < nums.size(); ++i) {
+        if (weightSum + nums[i] <= weight) {
+          weightSum += nums[i];
+        } else {
+          totalDays++;
+          weightSum = nums[i];
         }
-        return count;
+      }
+      if (weightSum > 0) {
+        totalDays++;
+      }
+      return totalDays;
     }
 };
+
+/*
+
+least weight capacity of the ship 
+shipped within days days.
+
+ weight go higer days needed go lower
+ lowest wieght
+
+*/
