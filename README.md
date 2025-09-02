@@ -20,6 +20,7 @@ upload the code I write on leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
 | [0716-max-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0716-max-stack) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
@@ -1446,6 +1447,7 @@ upload the code I write on leetcode
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0801-is-graph-bipartite) |
@@ -2167,6 +2169,7 @@ upload the code I write on leetcode
 | ------- |
 | [0146-lru-cache](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0146-lru-cache) |
 | [0716-max-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0716-max-stack) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Rejection Sampling
 |  |
 | ------- |
