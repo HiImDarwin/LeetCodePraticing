@@ -743,6 +743,7 @@ upload the code I write on leetcode
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1466-jump-game-v) |
+| [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1522-stone-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1522-stone-game-iii) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
