@@ -1,25 +1,29 @@
 class Solution {
+    vector<vector<int>> res;
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
-        vector<vector<int>> res;
-        vector<int> subset;
-        backtracking(candidates,target,0,res,subset);
-        return res;
+      sort(candidates.begin(), candidates.end());
+      vector<int> sol;
+      recursive(candidates, 0, target, sol);
+      return res;
     }
 
-    void backtracking(vector<int>& candidates, int target, int index, vector<vector<int>> &res,vector<int>& subset) {
-        if(target == 0){
-            res.push_back(subset);
-            return;
+    void recursive(vector<int>& candidates, int index, int target, vector<int>& sol) {
+      if (target == 0) {
+        res.push_back(sol);
+        return;
+      }
+      if (target < 0 || index == candidates.size()) {
+        return;
+      }
+
+      for (int i = index; i < candidates.size(); ++i) {
+        if(i != index && candidates[i] == candidates[i-1]) {
+          continue;
         }
-        // this for is for deleting the duplicate start satuation(it's the key point)
-        for (int i = index; i<candidates.size(); i++) {
-            if(i>index && candidates[i] == candidates[i-1]) continue;
-            if(candidates[i]>target) break;
-            subset.push_back(candidates[i]);
-            backtracking(candidates,target - candidates[i],i+1,res,subset);
-            subset.pop_back();
-        }
+        sol.push_back(candidates[i]);
+        recursive(candidates, i + 1, target - candidates[i], sol);
+        sol.pop_back();
+      }
     }
 };
