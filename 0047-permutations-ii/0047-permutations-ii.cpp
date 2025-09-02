@@ -1,23 +1,23 @@
 class Solution {
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<vector<int>> res;
-        backtracking(res,nums,0);
-        return res;
+      sort(nums.begin(), nums.end());
+      vector<vector<int>> res;
+      recursive(nums, 0, res);
+      return res;
     }
-private:
-    void backtracking(vector<vector<int>> &res, vector<int>& nums, int index) {
-        if(index == nums.size()) {
-            res.push_back(nums);
-            return;
-        }
-        unordered_set<int> used;
-        for( int i= index; i< nums.size(); i++) {
-            if(used.count(nums[i])) continue;
-            used.insert(nums[i]);
-            swap(nums[index],nums[i]);
-            backtracking(res,nums, index+1);
-            swap(nums[index],nums[i]);
-        }
+
+    void recursive(vector<int>& nums, int idx, vector<vector<int>>& res) {
+      if (idx == nums.size()) {
+        res.push_back(nums);
+      }
+      unordered_set<int> st;
+      for (int i = idx; i < nums.size(); i++) {
+        if (st.find(nums[i]) != st.end()) continue;
+        swap(nums[i],nums[idx]);
+        st.insert(nums[idx]);
+        recursive(nums, idx + 1, res);
+        swap(nums[i],nums[idx]);
+      }
     }
 };
