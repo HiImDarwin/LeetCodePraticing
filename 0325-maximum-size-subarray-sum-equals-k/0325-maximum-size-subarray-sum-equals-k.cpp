@@ -6,18 +6,16 @@ public:
       mp[0] = -1;
       long preSum = 0;
       int res = 0;
-
-      for(int i = 0; i < n; ++i) {
+      for (int i = 0; i < n; i++) {
         preSum += nums[i];
-
-        if(mp.count(preSum - k)) {
-          res = max(res, i - mp[preSum - k]);
-        }
-
-        if(!mp.count(preSum)) {
+        if (mp.find(preSum - k) != mp.end()) {
+          res = max(res,i - mp[preSum - k]);
+        } 
+        if (mp.find(preSum) == mp.end()) {
           mp[preSum] = i;
         }
       }
+
       return res;
     }
 };
