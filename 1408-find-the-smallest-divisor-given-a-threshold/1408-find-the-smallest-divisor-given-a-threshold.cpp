@@ -16,7 +16,7 @@ class Solution {
     bool check (vector<int>& nums, int threshold, int divisor) {
       int sum = 0;
       for (int i = 0; i < nums.size(); ++i) {
-        sum += (nums[i] / divisor) + ((nums[i] % divisor == 0) ? 0 : 1);
+        sum += (nums[i] + divisor - 1) / divisor;
       }
       return sum <= threshold;
     } 
