@@ -688,6 +688,7 @@ upload the code I write on leetcode
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0833-bus-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0833-bus-routes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0891-score-after-flipping-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0891-score-after-flipping-matrix) |
 | [0894-random-pick-with-blacklist](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0909-stone-game) |
@@ -1022,6 +1023,7 @@ upload the code I write on leetcode
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
+| [0891-score-after-flipping-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0891-score-after-flipping-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1293,6 +1295,7 @@ upload the code I write on leetcode
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
+| [0891-score-after-flipping-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0985-bag-of-tokens) |
 | [1026-string-without-aaa-or-bbb](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1026-string-without-aaa-or-bbb) |
@@ -1541,6 +1544,7 @@ upload the code I write on leetcode
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0787-sliding-puzzle) |
+| [0891-score-after-flipping-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0891-score-after-flipping-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0971-shortest-bridge) |
 | [1099-path-with-maximum-minimum-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1099-path-with-maximum-minimum-value) |
