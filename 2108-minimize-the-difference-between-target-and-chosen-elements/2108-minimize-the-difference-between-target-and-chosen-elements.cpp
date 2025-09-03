@@ -1,23 +1,25 @@
 class Solution {
 public:
     int minimizeTheDifference(vector<vector<int>>& mat, int target) {
-      int m = mat.size();
-      int n = mat[0].size();
-      unordered_set<int> dp;
-      dp.insert(0);
+      const int MAX_SUM = 5000;
+
+      bitset<5001> dp;
+      dp.reset();
+      dp[0] = 1;
       
-      for (int i = 0; i < m; i++) {
-        unordered_set<int> tmp;
-        for (int j = 0; j < n; j++) {
-          for (auto& val : dp) {
-            tmp.insert(val + mat[i][j]);
-          }
+      for (auto& row : mat) {
+        bitset<5001> next;
+        for (auto& num : row) {
+          next |= (dp << num);
         }
-        dp = tmp;
+        dp = next;
       }
+
       int res = INT_MAX;
-      for (auto& val : dp) {
-        res = min(res, abs(target - val));
+      for (int s = 0; s <= MAX_SUM; s++) {
+        if(dp[s]) {
+          res = min(res, abs(s - target));
+        }
       }
       
       return res;
