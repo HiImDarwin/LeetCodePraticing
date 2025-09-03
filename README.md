@@ -70,6 +70,7 @@ upload the code I write on leetcode
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0868-push-dominoes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0874-backspace-string-compare) |
 | [0959-3sum-with-multiplicity](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0959-3sum-with-multiplicity) |
@@ -681,6 +682,7 @@ upload the code I write on leetcode
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0787-sliding-puzzle) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0833-bus-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0833-bus-routes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0894-random-pick-with-blacklist](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0894-random-pick-with-blacklist) |
