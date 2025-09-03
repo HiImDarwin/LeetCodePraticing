@@ -332,6 +332,7 @@ upload the code I write on leetcode
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
@@ -796,6 +797,7 @@ upload the code I write on leetcode
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
@@ -1554,6 +1556,7 @@ upload the code I write on leetcode
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
