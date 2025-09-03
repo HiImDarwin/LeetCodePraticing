@@ -297,6 +297,7 @@ upload the code I write on leetcode
 | [1081-video-stitching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
+| [1130-last-stone-weight-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1196-filling-bookcase-shelves) |
 | [1202-palindrome-removal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1202-palindrome-removal) |
@@ -716,6 +717,7 @@ upload the code I write on leetcode
 | [1099-path-with-maximum-minimum-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1099-path-with-maximum-minimum-value) |
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
+| [1130-last-stone-weight-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1130-last-stone-weight-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1138-grumpy-bookstore-owner) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1145-number-of-submatrices-that-sum-to-target) |
