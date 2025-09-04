@@ -82,6 +82,7 @@ upload the code I write on leetcode
 | [1739-split-two-strings-to-make-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1880-largest-merge-of-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1880-largest-merge-of-two-strings) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -190,6 +191,7 @@ upload the code I write on leetcode
 | [1804-maximum-binary-string-after-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1804-maximum-binary-string-after-change) |
 | [1871-palindrome-partitioning-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1871-palindrome-partitioning-iv) |
 | [1873-longest-nice-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1873-longest-nice-substring) |
+| [1880-largest-merge-of-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1880-largest-merge-of-two-strings) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
@@ -1327,6 +1329,7 @@ upload the code I write on leetcode
 | [1804-maximum-binary-string-after-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1804-maximum-binary-string-after-change) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1880-largest-merge-of-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
