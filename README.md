@@ -360,6 +360,7 @@ upload the code I write on leetcode
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
@@ -857,6 +858,7 @@ upload the code I write on leetcode
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
@@ -1573,6 +1575,7 @@ upload the code I write on leetcode
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3870-minimum-moves-to-clean-the-classroom) |
