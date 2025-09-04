@@ -1,14 +1,28 @@
 class Solution {
 public:
     string largestMerge(string word1, string word2) {
-      if (word1.size() == 0 || word2.size() == 0) {
-        return word1 + word2;
+      int i = 0, j = 0;
+      string res;
+      while (i < word1.length() && j < word2.length()) {
+        if (greaterSuffix(word1, i, word2, j)) {
+          res.push_back(word1[i++]);
+        } else {
+          res.push_back(word2[j++]);
+        }
       }
-      if (word1 > word2) {
-        return word1[0] + largestMerge(word1.substr(1), word2);
-      } else {
-        return word2[0] + largestMerge(word1, word2.substr(1));
+      if (i < word1.size()) res += word1.substr(i);
+      if (j < word2.size()) res += word2.substr(j);
+      return res;
+    }
+  private:
+    bool greaterSuffix(const string& a, int i,
+                  const string& b, int j) {
+      int m = a.size(), n = b.size();
+      while (i < m && j < n && a[i] == b[j]) {
+        i++;
+        j++;
       }
+      return j == n || (i < m && a[i] > b[j]);
     }
 };
 
