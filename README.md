@@ -202,6 +202,7 @@ upload the code I write on leetcode
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2444-longest-ideal-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2444-longest-ideal-subsequence) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
@@ -345,6 +346,7 @@ upload the code I write on leetcode
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2444-longest-ideal-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2444-longest-ideal-subsequence) |
 | [2457-count-special-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2457-count-special-integers) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -480,6 +482,7 @@ upload the code I write on leetcode
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2444-longest-ideal-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2444-longest-ideal-subsequence) |
 | [2574-count-subarrays-with-median-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2574-count-subarrays-with-median-k) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
