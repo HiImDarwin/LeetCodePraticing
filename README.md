@@ -84,6 +84,7 @@ upload the code I write on leetcode
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1880-largest-merge-of-two-strings) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -839,6 +840,7 @@ upload the code I write on leetcode
 | [2324-find-triangular-sum-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
@@ -1203,6 +1205,7 @@ upload the code I write on leetcode
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2499-minimum-money-required-before-transactions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2499-minimum-money-required-before-transactions) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
@@ -1772,6 +1775,7 @@ upload the code I write on leetcode
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
