@@ -783,6 +783,7 @@ upload the code I write on leetcode
 | [1646-kth-missing-positive-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1646-kth-missing-positive-number) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1651-shuffle-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1651-shuffle-string) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1680-count-all-possible-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1680-count-all-possible-routes) |
@@ -1434,6 +1435,7 @@ upload the code I write on leetcode
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1447-jump-game-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1447-jump-game-iv) |
 | [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [1796-correct-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1796-correct-a-binary-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
@@ -1528,6 +1530,7 @@ upload the code I write on leetcode
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1558-course-schedule-iv) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1665-diameter-of-n-ary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1665-diameter-of-n-ary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -1588,6 +1591,7 @@ upload the code I write on leetcode
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
@@ -1624,6 +1628,7 @@ upload the code I write on leetcode
 | [1308-smallest-string-with-swaps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1308-smallest-string-with-swaps) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
