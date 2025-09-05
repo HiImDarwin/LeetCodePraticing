@@ -86,6 +86,7 @@ upload the code I write on leetcode
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## String
 |  |
@@ -366,6 +367,7 @@ upload the code I write on leetcode
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
@@ -492,6 +494,7 @@ upload the code I write on leetcode
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3265-maximum-good-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3265-maximum-good-subarray-sum) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -872,6 +875,7 @@ upload the code I write on leetcode
 | [3265-maximum-good-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3265-maximum-good-subarray-sum) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -1207,6 +1211,7 @@ upload the code I write on leetcode
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -1382,6 +1387,7 @@ upload the code I write on leetcode
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Breadth-First Search
@@ -1771,6 +1777,7 @@ upload the code I write on leetcode
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
