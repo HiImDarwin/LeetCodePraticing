@@ -825,6 +825,7 @@ upload the code I write on leetcode
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
@@ -1194,6 +1195,7 @@ upload the code I write on leetcode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2499-minimum-money-required-before-transactions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2499-minimum-money-required-before-transactions) |
@@ -1245,6 +1247,7 @@ upload the code I write on leetcode
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2161-stock-price-fluctuation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2161-stock-price-fluctuation) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2674-make-the-prefix-sum-non-negative) |
@@ -1438,6 +1441,7 @@ upload the code I write on leetcode
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2439-longest-cycle-in-a-graph) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1591,6 +1595,7 @@ upload the code I write on leetcode
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
