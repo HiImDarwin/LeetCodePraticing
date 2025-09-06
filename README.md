@@ -492,6 +492,7 @@ upload the code I write on leetcode
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
@@ -863,6 +864,7 @@ upload the code I write on leetcode
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1006,6 +1008,7 @@ upload the code I write on leetcode
 | [2383-add-two-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2383-add-two-integers) |
 | [2457-count-special-integers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2457-count-special-integers) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2629-number-of-substrings-with-fixed-ratio) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
@@ -1369,6 +1372,7 @@ upload the code I write on leetcode
 | [2499-minimum-money-required-before-transactions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2499-minimum-money-required-before-transactions) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
