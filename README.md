@@ -328,6 +328,7 @@ upload the code I write on leetcode
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -784,6 +785,7 @@ upload the code I write on leetcode
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1611-making-file-names-unique](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1611-making-file-names-unique) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1646-kth-missing-positive-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1646-kth-missing-positive-number) |
@@ -1604,6 +1606,7 @@ upload the code I write on leetcode
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
@@ -2010,6 +2013,7 @@ upload the code I write on leetcode
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
@@ -2034,6 +2038,7 @@ upload the code I write on leetcode
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
