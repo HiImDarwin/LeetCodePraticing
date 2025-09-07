@@ -125,6 +125,7 @@ upload the code I write on leetcode
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0318-maximum-product-of-word-lengths) |
@@ -630,6 +631,7 @@ upload the code I write on leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0275-h-index-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0287-find-the-duplicate-number) |
 | [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
@@ -1423,6 +1425,7 @@ upload the code I write on leetcode
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
@@ -1508,6 +1511,7 @@ upload the code I write on leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0285-inorder-successor-in-bst) |
@@ -1670,6 +1674,7 @@ upload the code I write on leetcode
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
@@ -1716,6 +1721,7 @@ upload the code I write on leetcode
 | ------- |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0820-find-eventual-safe-states) |
