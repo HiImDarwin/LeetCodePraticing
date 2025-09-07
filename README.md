@@ -16,6 +16,7 @@ upload the code I write on leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
@@ -42,6 +43,7 @@ upload the code I write on leetcode
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0170-two-sum-iii-data-structure-design) |
@@ -1027,6 +1029,7 @@ upload the code I write on leetcode
 | [0025-reverse-nodes-in-k-group](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0234-palindrome-linked-list) |
@@ -1990,6 +1993,7 @@ upload the code I write on leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
