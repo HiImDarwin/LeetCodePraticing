@@ -1419,6 +1419,7 @@ upload the code I write on leetcode
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
@@ -1503,6 +1504,7 @@ upload the code I write on leetcode
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
+| [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0285-inorder-successor-in-bst) |
@@ -1639,6 +1641,7 @@ upload the code I write on leetcode
 | [0128-longest-consecutive-sequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
@@ -1663,6 +1666,7 @@ upload the code I write on leetcode
 | [0133-clone-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
