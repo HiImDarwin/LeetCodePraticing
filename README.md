@@ -376,6 +376,7 @@ upload the code I write on leetcode
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
+| [3831-find-x-value-of-array-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3856-maximum-weighted-k-edge-path) |
@@ -903,6 +904,7 @@ upload the code I write on leetcode
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
+| [3831-find-x-value-of-array-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -1023,6 +1025,7 @@ upload the code I write on leetcode
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3831-find-x-value-of-array-i) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Recursion
