@@ -13,7 +13,7 @@ public:
         }
       }
 
-      return dp[query_row][query_glass] >= 1 ? 1.0 : dp[query_row][query_glass];
+      return min(1.0,dp[query_row][query_glass]);
     }
 };
 
