@@ -207,6 +207,7 @@ upload the code I write on leetcode
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2444-longest-ideal-subsequence) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -494,6 +495,7 @@ upload the code I write on leetcode
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2444-longest-ideal-subsequence) |
 | [2574-count-subarrays-with-median-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2574-count-subarrays-with-median-k) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2629-number-of-substrings-with-fixed-ratio) |
@@ -540,6 +542,7 @@ upload the code I write on leetcode
 | [2139-detect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2161-stock-price-fluctuation) |
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
+| [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
@@ -860,6 +863,7 @@ upload the code I write on leetcode
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
@@ -1281,6 +1285,7 @@ upload the code I write on leetcode
 | [2161-stock-price-fluctuation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2161-stock-price-fluctuation) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -2241,6 +2246,7 @@ upload the code I write on leetcode
 | [0885-exam-room](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0885-exam-room) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2161-stock-price-fluctuation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2161-stock-price-fluctuation) |
+| [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
