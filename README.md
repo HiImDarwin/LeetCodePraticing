@@ -220,6 +220,7 @@ upload the code I write on leetcode
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -514,6 +515,7 @@ upload the code I write on leetcode
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -548,6 +550,7 @@ upload the code I write on leetcode
 | [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 ## Trie
 |  |
@@ -910,6 +913,7 @@ upload the code I write on leetcode
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3797-design-spreadsheet) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
@@ -1658,6 +1662,7 @@ upload the code I write on leetcode
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3797-design-spreadsheet](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3797-design-spreadsheet) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3870-minimum-moves-to-clean-the-classroom) |
