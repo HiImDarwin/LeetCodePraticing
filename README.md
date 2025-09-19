@@ -201,6 +201,7 @@ upload the code I write on leetcode
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -349,6 +350,7 @@ upload the code I write on leetcode
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2176-parallel-courses-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2176-parallel-courses-iii) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
@@ -1094,6 +1096,7 @@ upload the code I write on leetcode
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
@@ -1159,6 +1162,7 @@ upload the code I write on leetcode
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
@@ -2274,6 +2278,7 @@ upload the code I write on leetcode
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0638-shopping-offers) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
