@@ -457,6 +457,7 @@ upload the code I write on leetcode
 | [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
+| [1043-grid-illumination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1043-grid-illumination) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1129-longest-string-chain](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
@@ -746,6 +747,7 @@ upload the code I write on leetcode
 | [1025-minimum-cost-for-tickets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
+| [1043-grid-illumination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1043-grid-illumination) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
