@@ -913,6 +913,7 @@ upload the code I write on leetcode
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3707-find-the-most-common-response](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3707-find-the-most-common-response) |
 | [3763-separate-squares-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
@@ -1306,6 +1307,7 @@ upload the code I write on leetcode
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
@@ -1667,6 +1669,7 @@ upload the code I write on leetcode
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3797-design-spreadsheet) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -1742,6 +1745,7 @@ upload the code I write on leetcode
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
@@ -1996,6 +2000,7 @@ upload the code I write on leetcode
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3919-network-recovery-pathways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3919-network-recovery-pathways) |
 ## String Matching
