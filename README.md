@@ -511,6 +511,7 @@ upload the code I write on leetcode
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3265-maximum-good-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3265-maximum-good-subarray-sum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
@@ -906,6 +907,7 @@ upload the code I write on leetcode
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3265-maximum-good-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3265-maximum-good-subarray-sum) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -2311,6 +2313,7 @@ upload the code I write on leetcode
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
