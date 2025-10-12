@@ -899,6 +899,7 @@ upload the code I write on leetcode
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
@@ -1258,6 +1259,7 @@ upload the code I write on leetcode
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
@@ -1846,6 +1848,7 @@ upload the code I write on leetcode
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -2162,6 +2165,7 @@ upload the code I write on leetcode
 | [2574-count-subarrays-with-median-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2574-count-subarrays-with-median-k) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
 | [3265-maximum-good-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3265-maximum-good-subarray-sum) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
