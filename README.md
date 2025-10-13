@@ -1473,6 +1473,7 @@ upload the code I write on leetcode
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0339-nested-list-weight-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
@@ -1563,6 +1564,7 @@ upload the code I write on leetcode
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0337-house-robber-iii) |
+| [0339-nested-list-weight-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0388-longest-absolute-file-path) |
