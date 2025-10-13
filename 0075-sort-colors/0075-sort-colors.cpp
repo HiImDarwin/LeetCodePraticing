@@ -1,19 +1,28 @@
 class Solution {
-  public:
-    void sortColors(vector<int>& nums) {
-      int n = nums.size();
-      int rIdx = 0, wIdx = 0, bIdx = n-1;
-      while(wIdx <= bIdx) {
-        if(nums[wIdx] == 0) {
-          swap(nums[wIdx],nums[rIdx]);
-          rIdx++;
-          wIdx++;
-        } else if (nums[wIdx] == 1) {
-          wIdx++;
-        } else {
-          swap(nums[wIdx],nums[bIdx]);
-          bIdx--;
-        }
-      }
+public:
+  void sortColors(vector<int>& nums) {
+    vector<int> color(3,0);
+    for (auto& num : nums) {
+      color[num]++;
     }
+    int idx = 0;
+    for (int i = 0; i < nums.size(); i++) {
+      while (color[idx] == 0) {
+        idx++;
+      }
+      nums[i] = idx;
+      color[idx]--;
+    }
+  }
 };
+
+/*
+
+two pointer
+
+[red  white  blue]
+    ^      ^
+
+counting sort
+
+*/
