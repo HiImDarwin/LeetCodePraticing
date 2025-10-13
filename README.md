@@ -692,6 +692,7 @@ upload the code I write on leetcode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0474-ones-and-zeroes) |
@@ -1821,6 +1822,7 @@ upload the code I write on leetcode
 | [0400-nth-digit](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0540-single-element-in-a-sorted-array) |
@@ -2071,6 +2073,7 @@ upload the code I write on leetcode
 | [0388-longest-absolute-file-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0503-next-greater-element-ii) |
 | [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
@@ -2111,6 +2114,7 @@ upload the code I write on leetcode
 | [0085-maximal-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
@@ -2290,6 +2294,7 @@ upload the code I write on leetcode
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0327-count-of-range-sum) |
+| [0456-132-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0456-132-pattern) |
 | [0716-max-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0716-max-stack) |
 | [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0885-exam-room](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0885-exam-room) |
