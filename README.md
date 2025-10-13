@@ -674,6 +674,7 @@ upload the code I write on leetcode
 | [0354-russian-doll-envelopes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0354-russian-doll-envelopes) |
 | [0360-sort-transformed-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0368-largest-divisible-subset) |
+| [0370-range-addition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0370-range-addition) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0377-combination-sum-iv) |
@@ -2142,6 +2143,7 @@ upload the code I write on leetcode
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0370-range-addition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0370-range-addition) |
 | [0410-split-array-largest-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0410-split-array-largest-sum) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0523-continuous-subarray-sum) |
