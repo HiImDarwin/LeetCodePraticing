@@ -875,6 +875,7 @@ upload the code I write on leetcode
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
@@ -1873,6 +1874,7 @@ upload the code I write on leetcode
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -2198,6 +2200,7 @@ upload the code I write on leetcode
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2574-count-subarrays-with-median-k) |
@@ -2242,6 +2245,7 @@ upload the code I write on leetcode
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2069-kth-smallest-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2069-kth-smallest-subarray-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2478-longest-nice-subarray) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
