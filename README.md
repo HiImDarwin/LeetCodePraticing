@@ -26,6 +26,7 @@ upload the code I write on leetcode
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2389-design-a-text-editor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2389-design-a-text-editor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ upload the code I write on leetcode
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2389-design-a-text-editor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2389-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2444-longest-ideal-subsequence) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
@@ -555,6 +557,7 @@ upload the code I write on leetcode
 | [2139-detect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2161-stock-price-fluctuation) |
 | [2285-design-bitset](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2285-design-bitset) |
+| [2389-design-a-text-editor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2389-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2429-design-a-food-rating-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3678-design-task-manager) |
@@ -2050,6 +2053,7 @@ upload the code I write on leetcode
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2389-design-a-text-editor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2389-design-a-text-editor) |
 | [3790-fruits-into-baskets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3790-fruits-into-baskets-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Stack
@@ -2102,6 +2106,7 @@ upload the code I write on leetcode
 | [1792-find-the-most-competitive-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2389-design-a-text-editor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2389-design-a-text-editor) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -2368,6 +2373,7 @@ upload the code I write on leetcode
 | [0146-lru-cache](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0146-lru-cache) |
 | [0716-max-stack](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0716-max-stack) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [2389-design-a-text-editor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2389-design-a-text-editor) |
 ## Rejection Sampling
 |  |
 | ------- |
