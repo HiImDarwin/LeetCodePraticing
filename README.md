@@ -518,6 +518,7 @@ upload the code I write on leetcode
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
+| [2915-count-of-interesting-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2915-count-of-interesting-subarrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -917,6 +918,7 @@ upload the code I write on leetcode
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2904-sorting-three-groups](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2904-sorting-three-groups) |
+| [2915-count-of-interesting-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2915-count-of-interesting-subarrays) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -2198,6 +2200,7 @@ upload the code I write on leetcode
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
+| [2915-count-of-interesting-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2915-count-of-interesting-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3265-maximum-good-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3265-maximum-good-subarray-sum) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
