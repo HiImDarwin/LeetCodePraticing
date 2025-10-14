@@ -894,6 +894,7 @@ upload the code I write on leetcode
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2472-build-a-matrix-with-conditions) |
+| [2478-longest-nice-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2499-minimum-money-required-before-transactions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2499-minimum-money-required-before-transactions) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1134,6 +1135,7 @@ upload the code I write on leetcode
 | [2272-maximum-good-people-based-on-statements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
+| [2478-longest-nice-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2478-longest-nice-subarray) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -2240,6 +2242,7 @@ upload the code I write on leetcode
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2069-kth-smallest-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2069-kth-smallest-subarray-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2478-longest-nice-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2478-longest-nice-subarray) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
