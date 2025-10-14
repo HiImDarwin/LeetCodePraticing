@@ -208,6 +208,7 @@ upload the code I write on leetcode
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -1868,6 +1869,7 @@ upload the code I write on leetcode
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
@@ -2193,6 +2195,7 @@ upload the code I write on leetcode
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2574-count-subarrays-with-median-k) |
@@ -2236,6 +2239,7 @@ upload the code I write on leetcode
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2069-kth-smallest-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2069-kth-smallest-subarray-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
