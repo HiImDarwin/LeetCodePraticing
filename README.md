@@ -519,6 +519,7 @@ upload the code I write on leetcode
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3265-maximum-good-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3265-maximum-good-subarray-sum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -920,6 +921,7 @@ upload the code I write on leetcode
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -2196,6 +2198,7 @@ upload the code I write on leetcode
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3265-maximum-good-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3265-maximum-good-subarray-sum) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -2232,6 +2235,7 @@ upload the code I write on leetcode
 | [2069-kth-smallest-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2069-kth-smallest-subarray-sum) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Counting Sort
 |  |
