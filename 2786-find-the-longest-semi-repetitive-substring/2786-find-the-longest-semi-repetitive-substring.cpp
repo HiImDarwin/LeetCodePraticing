@@ -5,18 +5,13 @@ public:
         return 1;
       }
       int left = 0, right = 1;
-      bool foundOne = false;
+      int last_pos = 0;
+      bool found_one = false;
       int res = 0;
       while (right < s.length()) {
         if (s[right] == s[right - 1]) {
-          if (foundOne) {
-            left++;
-            while(left > 0 && s[left] != s[left - 1]) {
-              left++;
-            }
-          } else {
-            foundOne = true;
-          }
+          left = last_pos;
+          last_pos = right;
         }
         res = max(res, right - left + 1);
         right++;
