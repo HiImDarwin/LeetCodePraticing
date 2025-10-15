@@ -502,6 +502,7 @@ upload the code I write on leetcode
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2104-operations-on-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2104-operations-on-tree) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2139-detect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2161-stock-price-fluctuation) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -866,6 +867,7 @@ upload the code I write on leetcode
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2139-detect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2139-detect-squares) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1872,6 +1874,7 @@ upload the code I write on leetcode
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -2244,6 +2247,7 @@ upload the code I write on leetcode
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2001-jump-game-vii) |
 | [2069-kth-smallest-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2069-kth-smallest-subarray-sum) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2478-longest-nice-subarray) |
