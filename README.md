@@ -223,6 +223,7 @@ upload the code I write on leetcode
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2629-number-of-substrings-with-fixed-ratio) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -2252,6 +2253,7 @@ upload the code I write on leetcode
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2478-longest-nice-subarray) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
