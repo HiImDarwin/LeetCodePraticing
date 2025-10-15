@@ -1,22 +1,18 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-      sort(nums.begin(), nums.end());
-      unordered_map<int,int> mp;
       int n = nums.size();
+      sort(nums.begin(), nums.end());
+      nums.erase(unique(nums.begin(), nums.end()),nums.end());
+      int m = nums.size();
       int maxAmount = 0;
-      int duplicateCount = 0;
-      for (int left = 0, right = 0; left < n; left++) {
-        if (left != 0 && --mp[nums[left - 1]] > 0) {
-          duplicateCount--;
-        }
-        while (right < n && nums[right] <= nums[left] + n - 1) {
-          if (++mp[nums[right]] > 1) {
-            duplicateCount++;
-          }
+
+      for (int left = 0, right = 0; left < m; left++) {
+
+        while (right < m && nums[right] <= nums[left] + n - 1) {
           right++;
         }
-        maxAmount = max(maxAmount, right - left - duplicateCount);
+        maxAmount = max(maxAmount, right - left);
       }
       return n - maxAmount;
     }
