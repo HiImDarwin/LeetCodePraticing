@@ -211,6 +211,7 @@ upload the code I write on leetcode
 | [2044-number-of-wonderful-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2044-number-of-wonderful-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -1657,6 +1658,7 @@ upload the code I write on leetcode
 | [2104-operations-on-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2104-operations-on-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1976,6 +1978,7 @@ upload the code I write on leetcode
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2104-operations-on-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2104-operations-on-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
@@ -2053,6 +2056,7 @@ upload the code I write on leetcode
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
