@@ -776,6 +776,7 @@ upload the code I write on leetcode
 | [1043-grid-illumination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1043-grid-illumination) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1059-missing-element-in-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1059-missing-element-in-sorted-array) |
 | [1061-number-of-valid-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-video-stitching](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1081-video-stitching) |
@@ -1867,6 +1868,7 @@ upload the code I write on leetcode
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1059-missing-element-in-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1059-missing-element-in-sorted-array) |
 | [1099-path-with-maximum-minimum-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1099-path-with-maximum-minimum-value) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
