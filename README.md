@@ -253,6 +253,7 @@ upload the code I write on leetcode
 | [0085-maximal-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0095-unique-binary-search-trees-ii) |
 | [0119-pascals-triangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1189,6 +1190,7 @@ upload the code I write on leetcode
 | [0079-word-search](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
@@ -1914,6 +1916,7 @@ upload the code I write on leetcode
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
@@ -1977,6 +1980,7 @@ upload the code I write on leetcode
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
@@ -1994,6 +1998,7 @@ upload the code I write on leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0101-symmetric-tree) |
