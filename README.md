@@ -798,6 +798,7 @@ upload the code I write on leetcode
 | [1223-graph-connectivity-with-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1223-graph-connectivity-with-threshold) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
@@ -1266,6 +1267,7 @@ upload the code I write on leetcode
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1222-remove-covered-intervals) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1308-smallest-string-with-swaps) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -1866,6 +1868,7 @@ upload the code I write on leetcode
 | [1046-max-consecutive-ones-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1099-path-with-maximum-minimum-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1099-path-with-maximum-minimum-value) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
