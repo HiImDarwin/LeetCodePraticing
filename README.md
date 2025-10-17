@@ -145,6 +145,7 @@ upload the code I write on leetcode
 | [0389-find-the-difference](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
@@ -692,6 +693,7 @@ upload the code I write on leetcode
 | [0376-wiggle-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0410-split-array-largest-sum) |
@@ -1512,6 +1514,7 @@ upload the code I write on leetcode
 | [0322-coin-change](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0339-nested-list-weight-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0339-nested-list-weight-sum) |
+| [0399-evaluate-division](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
@@ -1608,6 +1611,7 @@ upload the code I write on leetcode
 | [0341-flatten-nested-list-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1740,6 +1744,7 @@ upload the code I write on leetcode
 | [0130-surrounded-regions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
+| [0399-evaluate-division](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
@@ -1768,6 +1773,7 @@ upload the code I write on leetcode
 | [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0399-evaluate-division) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0684-redundant-connection) |
@@ -2073,6 +2079,7 @@ upload the code I write on leetcode
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
