@@ -2,40 +2,50 @@ class Solution {
 public:
     vector<int> minimumTime(int n, vector<vector<int>>& edges, vector<int>& disappear) {
       vector<vector<pair<int,int>>> adj(n);
-
-      for (auto e : edges) {
-        int u = e[0], v = e[1], w = e[2];
-        adj[u].push_back({v,w});
-        adj[v].push_back({u,w});
+      // O(E)
+      for (auto edge : edges) {
+        int u = edge[0];
+        int v = edge[1];
+        int time = edge[2];
+        adj[u].push_back({v,time});
+        adj[v].push_back({u,time});
       }
-      priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>> nodeQueue;
-      vector<int> arrive(n, INT_MAX);
-      nodeQueue.push({0, 0});
-      arrive[0] = 0;
-      while (!nodeQueue.empty()) {
-        auto [time, node] = nodeQueue.top();
-        nodeQueue.pop();
-        if(arrive[node] < time) continue;
+      vector<int> dist(n, INT_MAX);
+      dist[0] = 0;
+      
+      //(E log E)
+      priority_queue<pair<int,int>,vector<pair<int,int>>, greater<>> pq;
+      pq.push({0,0});
 
-        for(auto [nei, weight] : adj[node]) {
-          if(time + weight < disappear[nei] && time + weight  < arrive[nei]) {
-            arrive[nei] = time + weight;
-            nodeQueue.push({arrive[nei], nei});
+      while (!pq.empty()) {
+        auto [time, node] = pq.top();
+        pq.pop();
+        if (time > dist[node]) {
+          continue;
+        }
+
+        for (auto [nei, costTime] : adj[node]) {
+          int arriveTime = time + costTime;
+          if (arriveTime >= disappear[nei] || arriveTime >= dist[nei]) {
+            continue;
           }
+          dist[nei] = arriveTime;
+          pq.push({arriveTime, nei});
         }
       }
 
-      for(int &x : arrive) {
-        if(x == INT_MAX) {
-          x = -1;
+      for (int& num : dist) {
+        if (num == INT_MAX) {
+          num = -1;
         }
       }
-
-      return arrive;
+      return dist;
     }
 };
 
+
 /*
-find shortest path to every node
+  time to reach every node
+  bellman ford
 
 */
