@@ -16,12 +16,18 @@ public:
         return lca(root,height);
     }
     TreeNode* lca(TreeNode* node, int height) {
-      if(!node) return nullptr;
-      if(height == 0) return node;
-      TreeNode* left = lca(node->left, height - 1);
-      TreeNode* right = lca(node->right, height - 1);
-      if(left && right) return node;
-      return left ? left : right;
+     if (!node) {
+      return nullptr;
+     }
+     if (height == 0) {
+      return node;
+     }
+     TreeNode* left = lca(node->left, height - 1);
+     TreeNode* right = lca(node->right, height - 1);
+     if (left && right) {
+      return node;
+     }
+     return left == nullptr ? right : left;
     }
 
 
