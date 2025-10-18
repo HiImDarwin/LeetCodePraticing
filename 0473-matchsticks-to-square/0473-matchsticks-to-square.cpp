@@ -1,69 +1,63 @@
 class Solution {
 public:
-    // bool makesquare(vector<int>& matchsticks) {
-    //   int n = matchsticks.size();
-    //   int total = accumulate(matchsticks.begin(), matchsticks.end(),0);
-    //   if(total%4) return false;
-    //   int perEdgeLength = total/4;
-    //   sort(matchsticks.rbegin(), matchsticks.rend());
-    //   if(matchsticks[0] > perEdgeLength) return false;
-    //   vector<bool> used(n,false);
-    //   return dfs(0, 0, matchsticks, used, perEdgeLength);
-    // }
-
-    // bool dfs(int edge, int edgeLength, vector<int>& matchsticks, vector<bool> &used, const int &perEdgeLength) {
-    //   if(edge == 4) return true;
-    //   if(edgeLength > perEdgeLength) return false;
-    //   if(edgeLength ==  perEdgeLength) return dfs(edge+1, 0, matchsticks, used, perEdgeLength);
-    //   int last = -1;
-    //   for(int i = 0 ; i < matchsticks.size(); ++i) {
-    //     if(used[i]) continue;
-    //     if(matchsticks[i] == last) continue;
-    //     used[i] = true;
-    //     last = matchsticks[i];
-    //     if(dfs(edge, edgeLength + matchsticks[i], matchsticks, used, perEdgeLength)) 
-    //       return true;
-    //     used[i] = false;
-    //   }
-    //   return false;
-    // }
     bool makesquare(vector<int>& matchsticks) {
-      int total = accumulate(matchsticks.begin(), matchsticks.end(),0);
-      if (total % 4 != 0) return false;
+      long long total = accumulate(matchsticks.begin(), matchsticks.end(), 0LL);
+      if (total % 4 != 0) {
+        return false;
+      }
+      edgeLength_ = total / 4;
+
       sort(matchsticks.rbegin(), matchsticks.rend());
-      int target = total/4;
-      vector<int> sides(4,0);
-      return dfs(0,matchsticks,sides,target);
+      int n = matchsticks.size();
+      targetMask_ = (1 << n) - 1;
+      memo_.clear();
+      return recursive(matchsticks, 0, 0, 0);
     }
-    bool dfs(int index, const vector<int> &matchsticks, vector<int> &sides, int target) {
-      if(index == matchsticks.size()) {
-        return sides[0] == target && sides[1] == target &&
-               sides[2] == target && sides[3] == target;
+
+private:
+    bool recursive(vector<int>& matchsticks, int mask, int round, long long sum) {
+      if (round == 3) {
+        return true;
       }
-      for(int i = 0; i < 4; i++) {
-        if(sides[i] + matchsticks[index] > target) continue;
-        sides[i] += matchsticks[index];
-        if(dfs(index+1, matchsticks, sides, target))
+      if (memo_.count(mask)) {
+        return memo_[mask];
+      }
+
+      int n = matchsticks.size();
+
+      for (int i = 0; i < n; i++) {
+        if (((1 << i) & mask)) {
+          continue;
+        }
+
+        long long newSum = sum + matchsticks[i];
+        if (newSum > edgeLength_) {
+          continue;
+        }
+
+        int newMask = mask | (1 << i);
+        int newRound = round;
+        if (newSum == edgeLength_) {
+          newRound++;
+          newSum = 0;
+        }
+
+        if (recursive(matchsticks, newMask, newRound, newSum)) {
           return true;
-        sides[i] -= matchsticks[index];
-        if (sides[i] == 0) break;
+        } 
       }
-      return false;
+      return memo_[mask] = false;
     }
+
+    int targetMask_;
+    long long edgeLength_;
+    unordered_map<int, bool> memo_;
 };
 
-
-
 /*
-backtracking 
-subset 4
-N matchsticks all have 4 possible subset can go
-so the complexity is O(4*4*4*4.....*4) = O(4^N)
-
-backtracking + bucket
-
-
-
-
-
+[5,5,5,5,4,4,4,4]
+bit mask if sum = x and bit avaliable  = 0000111111 can't than x 0000000111 can't too
+00000111
+00011111
+if the exist condition 0 cover all my zero than  it's not possiable to generate anser
 */
