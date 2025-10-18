@@ -1,92 +1,51 @@
 class Solution {
-//   int memo[1<<24];
-//   int n;
-// public:
-//     int shoppingOffers(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
-//       n = price.size();
-//       vector<vector<int>> specials;
-//       for (int i = 0; i < special.size(); i++) {
-//         int sum = 0;
-//         for (int j = 0; j < n; ++j) {
-//           sum += special[i][j]*price[j];
-          
-//         }
-//         if(sum > special[i].back()) {
-//             specials.push_back(special[i]);
-//         }
-//       }
+  public:
+    int shoppingOffers(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
+      int n = price.size();
+      int mask = 0;
+      for (int i = 0; i < n; i++) {
+        mask += (needs[i] << i * 4);
+      }
+      if (mp_.find(mask) != mp_.end()) {
+        return mp_[mask];
+      }
+      int amount = 0;
+      for (int i = 0; i < n; i++) {
+        amount += needs[i] * price[i];
+      }
 
-//       int state = 0;
-//       for (int i = 0; i < n; ++i) {
-//         state += needs[i] << (i * 4);
-//       }
+      for (auto& s : special) {
+        bool valid = true;
+        vector<int> new_needs = needs;
+        for (int i = 0; i < n; i++) {
+          if (new_needs[i] < s[i]) {
+            valid = false;
+            break;
+          }
+          new_needs[i] -=  s[i];
+        }
 
-//       return dfs(state, price, specials);
-//     }
-
-//     int dfs(int state, vector<int>& price, vector<vector<int>>& specials) {
-//       if(memo[state] !=0 ) return memo[state];
-
-//       int res = 0;
-//       for (int i = 0; i < n; ++i) {
-//         res += (state>>(i*4))%16 * price[i];
-//       }
-
-//       for (auto comb : specials) {
-//         int flag = 1;
-//         for (int i = 0; i < n; ++i) {
-//           if ((state>>(i*4))%16 < comb[i]) {
-//             flag = 0;
-//             break;
-//           }
-//         }
-//         if (flag == 0) continue;
-
-//         int state2 = state;
-//         for (int i = 0; i < n; ++i) {
-//           state2 -= comb[i]*(1<<(i*4));
-//         }
-//         res = min(res, comb[n] + dfs(state2, price, specials));
-//       }
-
-//       memo[state] = res;
-//       return res;
-//     }
-  map<vector<int>,int> mp;
-public: 
-  int shoppingOffers(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
-    if (mp.find(needs) != mp.end()) return mp[needs];
-    int ans = 0;
-    for(int i = 0; i < needs.size(); i++) {
-      ans += needs[i]*price[i];
-    }
-
-    for(vector<int> &offer : special) {
-      bool valid = true;
-      for (int i = 0; i < needs.size(); ++i) {
-        if (needs[i] < offer[i]) {
-          valid = false;
-          break;
+        if (valid) {
+          int offerCost = shoppingOffers(price, special, new_needs) + s[n];
+          amount = min(amount, offerCost);
         }
       }
-      if(valid) {
-        vector<int> tmp = needs;
-        for(int i = 0; i < needs.size(); i++) {
-          tmp[i] -= offer[i];
-        }
-        ans = min(ans, offer.back() + shoppingOffers(price, special, tmp));
-      }
-    }
-    return mp[needs] = ans;
 
-  }
+      return mp_[mask] = amount;
+    }
+  private:
+    unordered_map<int,int> mp_;
 };
-
 /*
-
-total price : 
-discount
+  dp -> not easy to write
 
 
-comnplexity O(2^k * n^2)
+  recursive
+
+
+  state
+    each element for 4 bit
+
+
+
 */
