@@ -1,51 +1,43 @@
 class Solution {
-public:
-    // int beautifulSubsets(vector<int>& nums, int k) {
-    //   int res = 0;
-    //   sort(nums.begin(),nums.end());
-    //   unordered_set<int> forbiddenNums;
-    //   backtracking(nums, k, 0, forbiddenNums, res);
-    //   return res;
-    // }
-
-    // void backtracking(vector<int>& nums, int k, int index, unordered_set<int> &forbiddenNums, int &count) {
-    //   for(int i = index; i < nums.size(); i++) {
-    //     if(forbiddenNums.count(nums[i])) continue;
-    //     count++;
-    //     forbiddenNums.insert(nums[i]+k);
-    //     backtracking(nums, k ,i+1, forbiddenNums, count);
-    //     forbiddenNums.erase(nums[i]+k);
-    //   }
-    // }
+  public:
     int beautifulSubsets(vector<int>& nums, int k) {
-      int ans = 0;
+      n_ = nums.size();
+      k_ = k;
+      sort(nums.begin(), nums.end());
+      int count;
       unordered_map<int,int> mp;
-      dfs(nums, 0, k, mp, ans);
-      return ans - 1;
+      return recursive(nums, 0, mp) - 1;
+      
     }
-
-    void dfs(vector<int> &nums, int idx, int k, unordered_map<int,int> &mp, int &ans) {
-      if(idx == nums.size()) ans++;
-      else {
-        if(!mp[nums[idx] - k] && !mp[nums[idx] + k]) {
-          mp[nums[idx]]++;
-          dfs(nums, idx+1, k, mp, ans);
-          mp[nums[idx]]--;
-        }
-        dfs(nums, idx + 1, k, mp, ans);
+  private:
+    int recursive(vector<int>& nums, int idx, unordered_map<int,int>& mp) {
+      if (idx == n_) {
+        return 1;
       }
+      int count = 1;
+      for (int i = idx; i < n_; i++) {
+        if (mp.find(nums[i] - k_) != mp.end() || mp.find(nums[i] + k_) != mp.end()) {
+          continue;
+        }
+        mp[nums[i]]++;
+        count += recursive(nums, i + 1, mp);
+        mp[nums[i]]--;
+        if (mp[nums[i]] == 0) {
+          mp.erase(nums[i]);
+        }
+      }
+
+      return count;
     }
+    int k_;
+    int n_;
+    
 };
 
-
 /*
-
-question
-1. is there duplicate element in nums?
-
+  1. recursive building subset
+  [x,x,x,x,x,x,x,x,x]
 
 
 
-1. DP
-2. Backtracking
 */
