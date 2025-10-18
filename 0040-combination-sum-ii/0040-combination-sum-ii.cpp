@@ -37,6 +37,7 @@ public:
     void sumUpElement(vector<int>& candidates, int target, int idx, vector<int> sol, vector<vector<int>>& res) {
       if (target == 0) {
         res.push_back(sol);
+        return;
       }
       if (target < 0 || idx >= candidates.size()) {
         return;
