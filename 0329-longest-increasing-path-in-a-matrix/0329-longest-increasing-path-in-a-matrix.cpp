@@ -1,37 +1,46 @@
 class Solution {
-  int m;
-  int n;
-public:
+  public:
     int longestIncreasingPath(vector<vector<int>>& matrix) {
-      int res = INT_MIN;
-      m = matrix.size();
-      n = matrix[0].size();
-      unordered_map<int,int> memo;
-      for(int i = 0; i < m; ++i) {
-        for(int j = 0; j < n; ++j) {
-          res = max(res, dfs(i*n+j,matrix,memo));
+      m_ = matrix.size();
+      n_ = matrix[0].size();
+      memo_.resize(m_, vector<int>(n_, -1));
+
+      int res = 0;
+      for (int i = 0; i < m_; i++) {
+        for (int j = 0; j < n_; j++) {
+          if (memo_[i][j] == -1) {
+            res = max(res, dfs(matrix, i, j));
+          } 
         }
       }
       return res;
+        
     }
-    int dfs(int index, vector<vector<int>>& matrix, unordered_map<int,int> &memo) {
-      if(memo.find(index) != memo.end()) {
-        return memo[index];
+  private:
+    int dfs(vector<vector<int>>& matrix, int x, int y) {
+      if (memo_[x][y] != -1) {
+        return memo_[x][y];
       }
-      int x = index/n; 
-      int y = index%n;
-      int maxPath = 1;
-      for(auto [dx, dy] : direction) {
-        int neiX = x + dx;
-        int neiY = y + dy;
-        int path=0;
-        if(neiX < m && neiX >=0 && neiY < n && neiY >=0 && matrix[neiX][neiY] > matrix[x][y]) {
-          path = dfs(neiX*n+neiY , matrix, memo);
+      int maxLen = 0; 
+      for (auto [dx, dy] : directions) {
+        int nei_x = x + dx;
+        int nei_y = y + dy;
+        if (nei_x < 0 || nei_x >= m_ || nei_y < 0 || nei_y >= n_ || 
+            matrix[nei_x][nei_y] <= matrix[x][y]) {
+          continue;
         }
-        maxPath = max(maxPath, 1+path);
+        maxLen = max(maxLen, dfs(matrix, nei_x, nei_y));
       }
-      memo[index] = maxPath;
-      return maxPath;
+      return memo_[x][y] = maxLen + 1;
     }
-    const vector<pair<int,int>> direction = {{1,0},{-1,0},{0,1},{0,-1}};
+    vector<pair<int,int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    int m_;
+    int n_;
+    vector<vector<int>> memo_;
 };
+
+
+/*
+  dfs
+
+*/
