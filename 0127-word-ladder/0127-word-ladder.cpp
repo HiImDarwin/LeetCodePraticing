@@ -3,6 +3,7 @@ public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
       unordered_map<string,vector<string>> routeMap;
       int m = beginWord.length();
+      // O()
       for (int i = 0; i < m; i++) {
         for (const string& word : wordList) {
           string tmp = word;
