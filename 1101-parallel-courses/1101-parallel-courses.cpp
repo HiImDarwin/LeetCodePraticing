@@ -19,19 +19,21 @@ public:
       int courseCount = 0;
       
       while (!qu.empty()) {
+        queue<int> newQu;
         int size = qu.size();
         semester++;
-        for (int i = 0; i < size; i++) {
+        while (!qu.empty()) { 
           int course = qu.front();
           courseCount++;
           qu.pop();
           for (int next : adj[course]) {
             indegree[next]--;
             if (indegree[next] == 0) {
-              qu.push(next);
+              newQu.push(next);
             }
           }
-        }  
+        }
+        qu.swap(newQu);
       }
 
       return courseCount == n ? semester : -1; 
