@@ -272,6 +272,7 @@ upload the code I write on leetcode
 | [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0264-ugly-number-ii) |
+| [0276-paint-fence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0276-paint-fence) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
