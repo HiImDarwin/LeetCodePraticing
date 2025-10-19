@@ -1,25 +1,35 @@
 class Solution {
-public:
+  public:
     int numberOfArithmeticSlices(vector<int>& nums) {
       int n = nums.size();
-      long res = 0;
-      vector<unordered_map<long,int>> dp(n);
-      for (int i = 1; i< n; i++) {
-        for (int j = 0; j < i; j++) {
-          long diff = 1L * nums[i] - 1L * nums[j];
-          int cnt = dp[j].find(diff) == dp[j].end() ? 0 : dp[j][diff];
-          res += cnt;
-          dp[i][diff] += cnt + 1;
+      long long ans = 0;
+      vector<map<long long, int>> dp(n);
+      int count = 0;
+
+      for (int i = 1; i < n; i ++) {
+        for (int j = i - 1; j >= 0; j--) {
+          long diff = (long)nums[i] - (long)nums[j];
+          count += dp[j][diff];
+
+          if (dp[j].find(diff) != dp[j].end()) {
+            dp[i][diff] += dp[j][diff] + 1;
+          } else {
+            dp[i][diff] = 1;
+          }
         }
       }
-      return res;
+      return count;
     }
 };
-
-
 /*
-diff 要固定
-每個element可以跟前面的不同element組成 不同diff的sub array
-dp[i][diff] 是指index i 有多少差為 diff 的 sub sequence
+dp[i][d]
+subsequence ed at i and diff is d
+if (nums[i] - d exist) dp[i] = dp[nums[i] - d] + 1;
+for all 
+[a,b,c,d,e] 
+diff:  difference between any two consecutive elements 
+
+1. find max length for each diff
+2. count the subsequence for each diff
 
 */
