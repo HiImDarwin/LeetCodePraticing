@@ -1,41 +1,54 @@
 class Solution {
-  public:
+public:
     vector<int> findMinHeightTrees(int n, vector<vector<int>>& edges) {
-        if(n == 1) return {0};
+      if (edges.size() == 0 && n == 1) {
+        return vector<int>{0};
+      }
+      vector<int> indegree(n,0);
+      vector<vector<int>> adj(n);
+      for (auto& edge : edges) {
+        int a = edge[0];
+        int b = edge[1];
+        indegree[a]++;
+        indegree[b]++;
+        adj[a].push_back(b);
+        adj[b].push_back(a);
+      }
 
-        vector<unordered_set<int>> adj(n);
-        for(auto &edge : edges) {
-          adj[edge[0]].insert(edge[1]);
-          adj[edge[1]].insert(edge[0]);
+      queue<int> qu;
+      for (int i = 0; i < n; i++) {
+        if (indegree[i] == 1) {
+          qu.push(i);
         }
-        vector<int> degree(n);
-        queue<int> qu;
-        for(int i = 0; i < n; ++i) {
-          degree[i] = adj[i].size();
-          if(degree[i]  == 1) qu.push(i);
-        }
-        
+      }
+      vector<int> res;
+      while (!qu.empty()) {
+        int m = qu.size();
+        res.clear();
+        for (int i = 0; i < m; i++) {
+          int node = qu.front();
+          qu.pop();
+          res.push_back(node);
 
-        int nodeNum = n;
-        while(nodeNum > 2) {
-          int queueSize =  qu.size();
-          while(queueSize > 0) {
-            int node = qu.front(); qu.pop();
-            queueSize--;
-            nodeNum--;
-            for(int nei : adj[node]) {
-              degree[nei]--;
-              if(degree[nei] == 1) qu.push(nei);
+          for (int nei : adj[node]) {
+            indegree[nei]--;
+            if (indegree[nei] == 1) {
+              qu.push(nei);
             }
           }
         }
-        vector<int> res;
-        while(!qu.empty()) {
-          res.push_back(qu.front());
-          qu.pop();
-        }
-        return res;
+      }
+
+      return res;
     }
-
-
 };
+/*
+  the minimum height tree root will be the  middle node in longest path 
+
+
+  1. find the longest path int the tree
+  2. backtracking the node on the path (longest path may not contain root)
+  3. return the middle node of the path (if there are multi path they will have same middle node)
+  
+
+*/
