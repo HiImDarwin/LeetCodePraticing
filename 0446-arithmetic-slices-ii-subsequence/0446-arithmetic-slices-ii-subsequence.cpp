@@ -3,7 +3,7 @@ class Solution {
     int numberOfArithmeticSlices(vector<int>& nums) {
       int n = nums.size();
       long long ans = 0;
-      vector<map<long long, int>> dp(n);
+      map<long long, int> dp[1000];
       int count = 0;
 
       for (int i = 1; i < n; i ++) {
@@ -12,7 +12,7 @@ class Solution {
           count += dp[j][diff];
 
 
-            dp[i][diff] += dp[j][diff] + 1;
+          dp[i][diff] += dp[j][diff] + 1;
 
         }
       }
