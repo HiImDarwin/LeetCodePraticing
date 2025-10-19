@@ -271,6 +271,7 @@ upload the code I write on leetcode
 | [0213-house-robber-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
+| [0256-paint-house](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0264-ugly-number-ii) |
 | [0276-paint-fence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0276-paint-fence) |
 | [0279-perfect-squares](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0279-perfect-squares) |
@@ -667,6 +668,7 @@ upload the code I write on leetcode
 | [0228-summary-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
+| [0256-paint-house](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0275-h-index-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0275-h-index-ii) |
