@@ -8,7 +8,7 @@ class Solution {
 
       for (int i = 1; i < n; i ++) {
         for (int j = i - 1; j >= 0; j--) {
-          long diff = (long)nums[i] - (long)nums[j];
+          long long diff = (long long)nums[i] - (long long)nums[j];
           count += dp[j][diff];
 
 
