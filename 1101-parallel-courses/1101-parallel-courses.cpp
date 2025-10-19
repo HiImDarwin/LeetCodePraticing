@@ -1,44 +1,39 @@
 class Solution {
 public:
-    int minimumSemesters(int n, vector<vector<int>>& relations) 
-    {
-      unordered_map<int,vector<int>> nextCourses;
-      vector<int> inDegree(n+1,0);
-      for (auto edge : relations) {
-        int prevCourse = edge[0];
-        int nextCourse = edge[1];
-        inDegree[nextCourse]++;
-        nextCourses[prevCourse].push_back(nextCourse);
+    int minimumSemesters(int n, vector<vector<int>>& relations) {
+      vector<int> indegree(n + 1, 0);
+      vector<vector<int>> adj(n + 1);
+      for (auto& require : relations) {
+        indegree[require[1]]++;
+        adj[require[0]].push_back(require[1]);
       }
-      queue<int> courseCanTake;
-      for(int i = 1; i <= n; ++i) {
-        if(inDegree[i] == 0) {
-          courseCanTake.push(i);
+
+      queue<int> qu;
+      for (int i = 1; i <= n; i++) {
+        if (indegree[i] == 0) {
+          qu.push(i);
         }
       }
-      int count = 0;
-      int res = 0;
-      while (!courseCanTake.empty()) {
-        int size = courseCanTake.size();
-        res++;
-        for (int i = 0; i < size; ++i) {
-          auto course = courseCanTake.front();
-          courseCanTake.pop();
-          count++;
-          for(auto nextCourse : nextCourses[course]) {
-            inDegree[nextCourse]--;
-            if(inDegree[nextCourse] == 0) {
-              courseCanTake.push(nextCourse);
+
+      int semester = 0;
+      int courseCount = 0;
+      
+      while (!qu.empty()) {
+        int size = qu.size();
+        semester++;
+        for (int i = 0; i < size; i++) {
+          int course = qu.front();
+          courseCount++;
+          qu.pop();
+          for (int next : adj[course]) {
+            indegree[next]--;
+            if (indegree[next] == 0) {
+              qu.push(next);
             }
           }
-        }
+        }  
       }
-      
-      return count == n ? res : -1;
+
+      return courseCount == n ? semester : -1; 
     }
 };
-
-/*
-find the longest topology sort path
-
-*/
