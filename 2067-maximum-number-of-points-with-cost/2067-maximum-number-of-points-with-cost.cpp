@@ -11,11 +11,12 @@ public:
 
       for (int i = 1; i < m; i++) {
         long long rollingMax = INT_MIN;
+        //assume j > k
         for (int j = 0; j < n; j++) {
           rollingMax = max(rollingMax, dp[i - 1][j] + j);
           dp[i][j] = max(dp[i][j], rollingMax + points[i][j] - j);
         }
-
+        // assume j < k
         rollingMax = INT_MIN;
         for (int j = n - 1; j >= 0; j--) {
           rollingMax = max(rollingMax, dp[i - 1][j] - j);
