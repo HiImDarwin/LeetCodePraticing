@@ -11,11 +11,9 @@ class Solution {
           long diff = (long)nums[i] - (long)nums[j];
           count += dp[j][diff];
 
-          if (dp[j].find(diff) != dp[j].end()) {
+
             dp[i][diff] += dp[j][diff] + 1;
-          } else {
-            dp[i][diff] = 1;
-          }
+
         }
       }
       return count;
