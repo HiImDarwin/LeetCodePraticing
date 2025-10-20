@@ -2,44 +2,31 @@ class Solution {
 public:
     int maxResult(vector<int>& nums, int k) {
       int n = nums.size();
-      if (n == 1) return nums[0];
       deque<pair<int,int>> dq;
-      dq.push_back({nums[0],0});
-      int val;
-
+      dq.push_back(pair{nums[0], 0});
+      
       for (int i = 1; i < n; i++) {
-        while (!dq.empty() && dq.front().second < i-k) {
+        while (!dq.empty() && i - k > dq.front().second) {
           dq.pop_front();
         }
-        val = nums[i] + dq.front().first;
-        while (!dq.empty() && val > dq.back().first) {
+        int maxScore = nums[i] + (dq.empty() ? 0 : dq.front().first);
+        while (!dq.empty() && maxScore >= dq.back().first) {
           dq.pop_back();
         }
-        dq.push_back({val,i});
+        dq.push_back({maxScore, i});
       }
 
-      return val;
+      return dq.back().first; 
     }
 };
 
 /*
-  DP O(n*k)
+
+dp O(nk)
+
+dp + deque O(n)
+deque manage minimum in a fixed winow
 
 
-  question
-  1. can k as large as nums size() ?
-  2. how long can nums be ?
 
-
-  Prioriey Queue O(n log n)
-
-
-  Deque O(n)
-  找區間內最大值 sliding window maximum
-
-  對i而言 deque內是可以跳到他的距離點位score
-  [8 7 6 5] i
-  如果 i 的數值是 7 65就必須拿掉 (比他舊又比較小)
-  
- 
 */
