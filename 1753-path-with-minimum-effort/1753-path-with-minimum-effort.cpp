@@ -8,34 +8,22 @@ public:
       weight_.resize(m * n , 1);
 
 
-      map<int,vector<vector<int>>> mp;
+      vector<array<int, 3>> edges; // {diff, u, v}
       for (int i = 0; i < m; i++) {
-        for (int j = 0; j < n; j++) {
-          if (i + 1 < m) {
-            int diff = abs(heights[i][j] - heights[i + 1][j]);
-            mp[diff].push_back({i,j, i + 1, j});
-          }
-          if (j + 1 < n) {
-            int diff = abs(heights[i][j] - heights[i][j + 1]);
-            mp[diff].push_back({i,j, i, j + 1});
-          }
+            for (int j = 0; j < n; j++) {
+                if (i + 1 < m)
+                    edges.push_back({abs(heights[i][j] - heights[i + 1][j]), i * n + j, (i + 1) * n + j});
+                if (j + 1 < n)
+                    edges.push_back({abs(heights[i][j] - heights[i][j + 1]), i * n + j, i * n + (j + 1)});
+            }
         }
-      }
+      sort(edges.begin(), edges.end());
 
-      for (auto& [effort, setVec] : mp) {
-        for (auto& set :setVec) {
-          int x1 = set[0];
-          int y1 = set[1];
-          int x2 = set[2];
-          int y2 = set[3];
-          int idx1 = x1 * n + y1;
-          int idx2 = x2 * n + y2;
-          unite(idx1, idx2);
+      for (auto& [diff, u, v] : edges) {
+            unite(u, v);
+            if (find(0) == find(m * n - 1))
+                return diff;
         }
-        if (find(0) == find(m * n - 1)) {
-          return effort;
-        }
-      }
 
       return 0;
     }
