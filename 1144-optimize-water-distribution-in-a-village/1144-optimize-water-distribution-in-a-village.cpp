@@ -30,6 +30,9 @@ public:
           break;
         }
         for (pair<int, int>& nei : adj[house]) {
+          if (visited.count(nei.second)) {
+            continue;
+          }
           pq.push(nei);
         }
       }
