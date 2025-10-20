@@ -5,17 +5,22 @@ public:
       long long sum = 0;
       int count = 0;
       for (auto& num : nums) {
+        sum += num;
         if (num < 0) {
           pq.push(num);
         }
-        sum += num;
-        if (sum  < 0) {
-          int currentSmallest= pq.top();
+        while (sum < 0) {
+          sum -= pq.top();
           pq.pop();
-          sum -= currentSmallest;
           count++;
         }
       }
       return count;
+
     }
 };
+
+/*
+
+
+*/
