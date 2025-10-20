@@ -1,45 +1,45 @@
 class NumArray {
-    vector<int> indexTree;
-    vector<int> nums;
-    int n;
-public:
+  public:
     NumArray(vector<int>& nums) {
-      n = nums.size();
-      this->nums = nums;
-      indexTree.assign(n+1, 0);
-      for (int i = 1; i <= n; i++) {
-        indexTree[i] += nums[i - 1];
-        int j = i + (i & -i);
-        if (j <= n) {
-          indexTree[j] += indexTree[i];
-        }
-        // update(i, nums[i]);
+      n_ = nums.size();
+      BIT_.resize(n_ + 1, 0);
+      for (int i = 0; i < n_; i++) {
+        int idx = i + 1;
+        update_(idx, nums[i]);
       }
     }
     
     void update(int index, int val) {
-      int delta = val - nums[index];
       int idx = index + 1;
-      while (idx <= n) {
-         indexTree[idx] += delta;
-         idx = idx + (idx & -idx);
-      }
-      nums[index] = val;
+      int originVal = sumRange(index, index);
+      int delta = val - originVal;
+      update_(idx, delta);
     }
     
     int sumRange(int left, int right) {
-      return prefixSum(right) - prefixSum(left-1);
+      return query_(right + 1) - query_(left);
     }
 
-    int prefixSum(int index) {
-      int res = 0;
-      int idx = index + 1;
-      while (idx > 0) {
-        res += indexTree[idx];
-        idx = idx - (idx & -idx);
+  private:
+    void update_(int index, int delta) {
+      while (index <= n_) {
+        BIT_[index] += delta;
+        index += (index & - index);
       }
-      return res;
     }
+
+    int query_(int i) {
+      int sum = 0;
+      while (i > 0) {
+        sum += BIT_[i];
+        i -= (i & -i);
+      }
+      return sum;
+    }
+    
+
+    int n_;
+    vector<int> BIT_;
 };
 
 /**
@@ -48,3 +48,10 @@ public:
  * obj->update(index,val);
  * int param_2 = obj->sumRange(left,right);
  */
+
+/*
+BIT
+
+
+
+*/
