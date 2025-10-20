@@ -2,33 +2,30 @@ class Solution {
 public:
     vector<int> getSubarrayBeauty(vector<int>& nums, int k, int x) {
       int n = nums.size();
-      int j = 0;
-
-      multiset<int> ms;
-      vector<int> res;
-
-      for (int i = 0; i < n; i++) {
-        if (nums[i] < 0) {
-          ms.insert(nums[i]);
-        }
-        if (i - j + 1 == k) {
-          if (ms.size() < x) {
-            res.push_back(0);
-          } else {
-            res.push_back(*next(ms.begin(), x - 1));
-          }
-
-          if(nums[j] < 0) {
-            ms.erase(ms.find(nums[j]));
-          }
-          j++;
-        }
+      vector<int> count(101, 0);
+      for (int i = 0; i < k; i++) {
+        count[nums[i] + 50]++;
       }
+      vector<int> res;
+      res.push_back(beauty(count, x));
+
+      for (int i = k; i < n; i++) {
+        count[nums[i] + 50]++;
+        count[nums[i - k] + 50]--;
+        res.push_back(beauty(count, x));
+      }
+
       return res;
     }
+
+    int beauty(vector<int>& count,int x) {
+      int negativeSum = 0;
+      for (int i = 0; i < 50; i++) {
+        negativeSum += count[i];
+        if (negativeSum >= x) {
+          return i - 50;
+        }
+      }
+      return 0;
+    } 
 };
-
-/*
-you can't throw away what you pop out you may need it later
-
-*/
