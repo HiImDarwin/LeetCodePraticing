@@ -1,57 +1,49 @@
 class Trie {
+    
 public:
     Trie() {
-        //create root node
-        root = new TrieNode;
+      root_ = new TrieNode();
     }
     
     void insert(string word) {
-        // find longest common
-        TrieNode *tmp = root;
-        for(char &c: word){ 
-            if(tmp->child.find(c)!=tmp->child.end()){ //find node exist
-                tmp = tmp->child[c];
-            } else { //build new node 
-                TrieNode *newNode = new TrieNode;
-                tmp->child[c] = newNode;
-                tmp = newNode;
-            }
+      TrieNode* node = root_;
+      for (char& c : word) {
+        if (node->children.find(c) == node->children.end()) {
+          node->children[c] = new TrieNode();
+          
         }
-        if(!tmp->isWord) {
-            tmp->isWord = true;
-        }
+        node = node->children[c];
+      }
+      node->isWord = true;
     }
     
     bool search(string word) {
-        TrieNode *tmp = root;
-        for(char &c: word){ 
-            if(tmp->child.find(c)!=tmp->child.end()){ //find node exist
-                tmp = tmp->child[c];
-            } else { 
-                return false;
-            }
+      TrieNode* node = root_;
+      for (char& c : word) {
+        if (node->children.find(c) == node->children.end()) {
+          return false;
         }
-        return (tmp->isWord) ? true: false;
+        node = node->children[c];
+      }
+      return node->isWord;
     }
     
     bool startsWith(string prefix) {
-        TrieNode *tmp = root;
-        for(char &c: prefix){ 
-            if(tmp->child.find(c)!=tmp->child.end()){ //find node exist
-                tmp = tmp->child[c];
-            } else { 
-                return false;
-            }
+      TrieNode* node = root_;
+      for (char& c : prefix) {
+        if (node->children.find(c) == node->children.end()) {
+          return false;
         }
-        return true;
+        node = node->children[c];
+      }
+      return true;
     }
-private:
+  private:
     struct TrieNode {
-        bool isWord=false;
-        unordered_map<char,TrieNode*> child;
+      bool isWord = false;
+      unordered_map<char, TrieNode*> children;
     };
-    TrieNode *root;
-
+    TrieNode* root_;
 };
 
 /**
