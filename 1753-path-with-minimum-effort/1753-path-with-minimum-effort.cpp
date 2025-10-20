@@ -1,64 +1,71 @@
 class Solution {
-  vector<int> group;
 public:
     int minimumEffortPath(vector<vector<int>>& heights) {
       int m = heights.size();
       int n = heights[0].size();
+      root_.resize(m * n);
+      iota(root_.begin(), root_.end(), 0);
+      weight_.resize(m * n , 1);
 
-      vector<vector<int>> edges;
 
-      for(int i = 0; i < m; i++) {
+      map<int,vector<vector<int>>> mp;
+      for (int i = 0; i < m; i++) {
         for (int j = 0; j < n; j++) {
-          vector<int> tmp1,tmp2;
-          if (i+1 < m) {
-            tmp1.push_back(abs(heights[i][j]-heights[i+1][j]));
-            tmp1.push_back(i*n+j);
-            tmp1.push_back((i+1)*n+j);
-            edges.push_back(tmp1);
+          if (i + 1 < m) {
+            int diff = abs(heights[i][j] - heights[i + 1][j]);
+            mp[diff].push_back({i,j, i + 1, j});
           }
-          if (j+1 < n) {
-            tmp2.push_back(abs(heights[i][j]-heights[i][j+1]));
-            tmp2.push_back(i*n+j);
-            tmp2.push_back(i*n+j+1);
-            edges.push_back(tmp2);
-          } 
+          if (j + 1 < n) {
+            int diff = abs(heights[i][j] - heights[i][j + 1]);
+            mp[diff].push_back({i,j, i, j + 1});
+          }
         }
       }
-      sort(edges.begin(), edges.end());
-      group.resize(m*n);
-      iota(group.begin(), group.end(),0);
-      
-      int start = 0, end = m*n-1;
 
-      for (int i = 0; i < edges.size(); i++) {
-        UniteGroup(edges[i][1],edges[i][2]);
-        if (FindRoot(start) == FindRoot(end)) {
-          return edges[i][0];
+      for (auto& [effort, setVec] : mp) {
+        for (auto& set :setVec) {
+          int x1 = set[0];
+          int y1 = set[1];
+          int x2 = set[2];
+          int y2 = set[3];
+          int idx1 = x1 * n + y1;
+          int idx2 = x2 * n + y2;
+          unite(idx1, idx2);
+        }
+        if (find(0) == find(m * n - 1)) {
+          return effort;
         }
       }
 
       return 0;
     }
+  private:
+    vector<int> root_;
+    vector<int> weight_;
 
-    int FindRoot(int x) {
-      if (group[x] != x) {
-        group[x] = FindRoot(group[x]);
+    int find(int x) {
+      if (root_[x] != x) {
+        root_[x] = find(root_[x]);
       }
-      return group[x];
+      return root_[x];
     }
-    bool UniteGroup(int x, int y) {
-      int xGroup = FindRoot(x);
-      int yGroup = FindRoot(y);
-      if (xGroup == yGroup) return false;
-      if(xGroup > yGroup) {
-        swap(xGroup,yGroup);
+
+    void unite(int x, int y) {
+      int root_x = find(x);
+      int root_y = find(y);
+      if (root_x == root_y) {
+        return;
       }
-      group[yGroup] = xGroup;
-      return true;
+      if (weight_[root_x] < weight_[root_y]) {
+        swap(root_x, root_y);
+      }
+      root_[root_y] = root_x;
+      weight_[root_x] += weight_[root_y];
     }
 };
-
 /*
-  dijkstra
-  
+binary search + dfs
+
+disjoint set
+
 */
