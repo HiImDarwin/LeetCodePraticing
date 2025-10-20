@@ -1347,6 +1347,7 @@ upload the code I write on leetcode
 | [1100-connecting-cities-with-minimum-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1127-last-stone-weight](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
@@ -1763,6 +1764,7 @@ upload the code I write on leetcode
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1099-path-with-maximum-minimum-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1099-path-with-maximum-minimum-value) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1223-graph-connectivity-with-threshold) |
 | [1308-smallest-string-with-swaps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1308-smallest-string-with-swaps) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
@@ -1796,6 +1798,7 @@ upload the code I write on leetcode
 | [1039-find-the-town-judge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1039-find-the-town-judge) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1101-parallel-courses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1101-parallel-courses) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -2086,6 +2089,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
