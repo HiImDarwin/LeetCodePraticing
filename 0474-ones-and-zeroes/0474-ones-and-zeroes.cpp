@@ -1,22 +1,37 @@
 class Solution {
-  public:
+public:
     int findMaxForm(vector<string>& strs, int m, int n) {
-      // 0 1 package problem
-      vector<vector<int>> dp(m+1, vector<int>(n+1, 0));
-      for(string &str : strs) {
-        int zero = 0, one = 0;
-        for(char c: str) {
-          if(c == '0') ++zero;
-          else ++one;
-        }
-        
-        for (int i = m; i >= zero; --i) {
-          for (int j = n; j >= one; --j) {
-            dp[i][j] = max(dp[i][j], dp[i-zero][j-one] + 1);
+      int size = strs.size();
+      vector<int> zeroCount(size, 0), oneCount(size, 0);
+      for (int i = 0; i < size; i++) {
+        string& s = strs[i];
+        for (const char& c : s) {
+          if (c == '1') {
+            oneCount[i]++;
+          } else {
+            zeroCount[i]++;
           }
         }
-       
       }
+
+      vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
+
+      for (int i = 0; i < size; i++) {
+        for (int j = m; j >= zeroCount[i]; j--) {
+          for (int k = n; k >= oneCount[i]; k--) {
+            dp[j][k] = max(dp[j][k], dp[j - zeroCount[i]][k - oneCount[i]] + 1);
+          }
+        }
+      }
+
       return dp[m][n];
     }
 };
+
+
+/*
+
+
+
+*/
+
