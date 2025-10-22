@@ -755,6 +755,7 @@ upload the code I write on leetcode
 | [0747-min-cost-climbing-stairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0787-sliding-puzzle) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0830-largest-triangle-area](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0833-bus-routes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0891-score-after-flipping-matrix) |
@@ -1049,6 +1050,7 @@ upload the code I write on leetcode
 | [0650-2-keys-keyboard](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0670-maximum-swap) |
 | [0796-reaching-points](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0796-reaching-points) |
+| [0830-largest-triangle-area](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0856-consecutive-numbers-sum) |
 | [0888-mirror-reflection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0888-mirror-reflection) |
 | [0894-random-pick-with-blacklist](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0894-random-pick-with-blacklist) |
@@ -1407,6 +1409,7 @@ upload the code I write on leetcode
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0223-rectangle-area) |
+| [0830-largest-triangle-area](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0830-largest-triangle-area) |
 | [0888-mirror-reflection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0888-mirror-reflection) |
 | [0976-minimum-area-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1003-minimum-area-rectangle-ii) |
