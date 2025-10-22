@@ -128,6 +128,7 @@ upload the code I write on leetcode
 | [0179-largest-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0227-basic-calculator-ii) |
@@ -585,6 +586,7 @@ upload the code I write on leetcode
 | ------- |
 | [0139-word-break](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1244-distinct-echo-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1244-distinct-echo-substrings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -662,6 +664,7 @@ upload the code I write on leetcode
 | [0198-house-robber](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
@@ -1213,6 +1216,7 @@ upload the code I write on leetcode
 | [0113-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0320-generalized-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0320-generalized-abbreviation) |
@@ -1705,6 +1709,7 @@ upload the code I write on leetcode
 | [0085-maximal-rectangle](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0296-best-meeting-point](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0296-best-meeting-point) |
