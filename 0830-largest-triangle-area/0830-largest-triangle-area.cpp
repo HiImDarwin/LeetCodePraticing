@@ -8,7 +8,7 @@ public:
           for (int k = 2; k < n; k++) {
             pair<double,double> v1 = {points[j][0] - points[i][0], points[j][1] - points[i][1]};
             pair<double,double> v2 = {points[k][0] - points[i][0], points[k][1] - points[i][1]};
-            double area = abs(v1.first * v2.second - v1.second * v2.first) / 2;
+            double area = abs(v1.first * v2.second - v1.second * v2.first) * 0.5;
             res = max(res, area);
           }
         }
