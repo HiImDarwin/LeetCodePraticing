@@ -719,6 +719,7 @@ upload the code I write on leetcode
 | [0473-matchsticks-to-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0485-max-consecutive-ones) |
 | [0490-the-maze](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0490-the-maze) |
 | [0491-non-decreasing-subsequences](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0494-target-sum) |
