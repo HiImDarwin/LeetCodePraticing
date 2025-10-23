@@ -884,6 +884,7 @@ upload the code I write on leetcode
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1985-maximum-subarray-min-product](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1309,6 +1310,7 @@ upload the code I write on leetcode
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1371,6 +1373,7 @@ upload the code I write on leetcode
 | [1917-maximum-average-pass-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2161-stock-price-fluctuation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2161-stock-price-fluctuation) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
@@ -1939,6 +1942,7 @@ upload the code I write on leetcode
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2069-kth-smallest-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2069-kth-smallest-subarray-sum) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -2517,4 +2521,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
