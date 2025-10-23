@@ -830,6 +830,7 @@ upload the code I write on leetcode
 | [1370-count-number-of-nice-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1372-check-if-it-is-a-good-array) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1362,6 +1363,7 @@ upload the code I write on leetcode
 | [1140-distant-barcodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1140-distant-barcodes) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1184-car-pooling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1184-car-pooling) |
+| [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1753-path-with-minimum-effort](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1753-path-with-minimum-effort) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -1567,6 +1569,7 @@ upload the code I write on leetcode
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1308-smallest-string-with-swaps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1308-smallest-string-with-swaps) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
+| [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1739,6 +1742,7 @@ upload the code I write on leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
+| [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
