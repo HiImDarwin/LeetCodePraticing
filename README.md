@@ -1096,6 +1096,7 @@ upload the code I write on leetcode
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1761-count-sorted-vowel-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1761-count-sorted-vowel-strings) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2206-detonate-the-maximum-bombs) |
