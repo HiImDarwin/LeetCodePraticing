@@ -75,6 +75,7 @@ upload the code I write on leetcode
 | [0647-palindromic-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -163,6 +164,7 @@ upload the code I write on leetcode
 | [0583-delete-operation-for-two-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
