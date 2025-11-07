@@ -847,6 +847,7 @@ upload the code I write on leetcode
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1466-jump-game-v) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1522-stone-game-iii) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -2288,6 +2289,7 @@ upload the code I write on leetcode
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
