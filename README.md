@@ -1109,6 +1109,7 @@ upload the code I write on leetcode
 | [2696-the-number-of-beautiful-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -1189,6 +1190,7 @@ upload the code I write on leetcode
 | [3030-find-the-k-th-lucky-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3030-find-the-k-th-lucky-number) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3394-minimum-array-end](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3394-minimum-array-end) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
