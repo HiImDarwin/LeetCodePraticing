@@ -944,6 +944,7 @@ upload the code I write on leetcode
 | [2584-number-of-nodes-with-value-one](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2584-number-of-nodes-with-value-one) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2612-minimum-cost-to-buy-apples) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -1496,6 +1497,7 @@ upload the code I write on leetcode
 | [2499-minimum-money-required-before-transactions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2499-minimum-money-required-before-transactions) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2689-rearranging-fruits](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2689-rearranging-fruits) |
@@ -1960,6 +1962,7 @@ upload the code I write on leetcode
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -2306,6 +2309,7 @@ upload the code I write on leetcode
 | [2325-number-of-ways-to-select-buildings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2574-count-subarrays-with-median-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -2351,6 +2355,7 @@ upload the code I write on leetcode
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2751-sliding-subarray-beauty](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2751-sliding-subarray-beauty) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
@@ -2416,6 +2421,7 @@ upload the code I write on leetcode
 | [0341-flatten-nested-list-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0341-flatten-nested-list-iterator) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1814-jump-game-vi](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1814-jump-game-vi) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2868-continuous-subarrays) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
