@@ -418,6 +418,7 @@ upload the code I write on leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -600,6 +601,7 @@ upload the code I write on leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0016-3sum-closest) |
