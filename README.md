@@ -446,6 +446,7 @@ upload the code I write on leetcode
 | [0202-happy-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
@@ -677,6 +678,7 @@ upload the code I write on leetcode
 | [0213-house-robber-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0228-summary-ranges) |
@@ -1272,6 +1274,7 @@ upload the code I write on leetcode
 | [0169-majority-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
