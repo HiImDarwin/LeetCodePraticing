@@ -548,6 +548,7 @@ upload the code I write on leetcode
 | [3797-design-spreadsheet](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -988,6 +989,7 @@ upload the code I write on leetcode
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3827-implement-router](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3827-implement-router) |
 | [3831-find-x-value-of-array-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3831-find-x-value-of-array-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3841-concatenated-divisibility](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3841-concatenated-divisibility) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -1510,6 +1512,7 @@ upload the code I write on leetcode
 | [2730-maximum-or](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2730-maximum-or) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3107-maximum-spending-after-buying-items](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3107-maximum-spending-after-buying-items) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3959-maximum-total-from-optimal-activation-order) |
@@ -2231,6 +2234,7 @@ upload the code I write on leetcode
 | [2846-robot-collisions](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2846-robot-collisions) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
@@ -2259,6 +2263,7 @@ upload the code I write on leetcode
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Data Stream
 |  |
 | ------- |
