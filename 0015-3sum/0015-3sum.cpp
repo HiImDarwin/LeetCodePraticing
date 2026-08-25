@@ -1,34 +1,40 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-      sort(nums.begin(),nums.end());
-      int n = nums.size();
-      vector<vector<int>> res;
-      for(int target = 0; target < n - 2; ++target) {
-        int targetNum = -nums[target];
-        int left = target+1;
-        int right = n-1;
-        while(left < right){
-          if(nums[left] + nums[right] < targetNum) left++;
-          else if(nums[left] + nums[right] > targetNum ) right--;
-          else {
-            res.push_back({nums[target],nums[left],nums[right]});
-            left++;
-            right--;
-            while(left < right && nums[left] == nums[left-1]) {
-              left++;
-            } 
-            while(left < right && nums[right+1] == nums[right]) {
-              right --;
-            }
-          }
-        }
-        while(target < n-2 && nums[target] == nums[target+1]) target++;
+  vector<vector<int>> threeSum(vector<int>& nums) {
+    sort(nums.begin(), nums.end());
+    vector<vector<int>> res;
+    for(int k = nums.size() - 1; k > 1; k-- ) {
+      if (k + 1 < nums.size() && nums[k] == nums[k + 1]) {
+        continue;
       }
-      return res;
+      int i = 0;
+      int j = k - 1;
+      int target = -nums[k];
+      
+      while(i < j) {
+        if (nums[i] + nums[j] > target) {
+          j--;
+        } else if (nums[i] + nums[j] < target) {
+          i++;
+        } else {
+          res.push_back({nums[i], nums[j], nums[k]});
+          while(i + 1 < j && nums[i] == nums[i + 1]) {
+            i++;
+          }
+          i++;
+          while(j - 1 > i && nums[j] == nums[j - 1]) {
+            j--;
+          }
+          j--;
+        }
+      }
+
+
     }
+    return res;
+  }
+
 };
 
 
-// i + j + k = 0
-// change the thought to  i + j = -k become a two sum problem and can check wtih two pointer
+// duplicate triplets means no 3 same position in other order
