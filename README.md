@@ -2557,4 +2557,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1977-minimum-interval-to-include-each-query) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
