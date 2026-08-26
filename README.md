@@ -2561,4 +2561,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
