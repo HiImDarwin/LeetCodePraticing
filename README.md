@@ -682,6 +682,7 @@ upload the code I write on leetcode
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0256-paint-house) |
@@ -2285,6 +2286,7 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0304-range-sum-query-2d-immutable) |
