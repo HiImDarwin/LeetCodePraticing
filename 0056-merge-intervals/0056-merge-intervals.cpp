@@ -1,41 +1,36 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
-      sort(intervals.begin(), intervals.end());
-      int N = intervals.size();
-      vector<vector<int>> res;
-      int start = intervals[0][0];
-      int end = intervals[0][1];
-      for (int i = 1; i < N ; i++) {
-        int nextStart = intervals[i][0];
-        int nextEnd = intervals[i][1];
-        if (nextStart > end) {
-          res.push_back({start,end});
-          start = nextStart;
-          end = nextEnd;
-        } else {
-          end = max(nextEnd,end);
-        }
-      }
-      res.push_back({start, end});
-      return res;  
+  vector<vector<int>> merge(vector<vector<int>>& intervals) {
+    int n = intervals.size();
+    if (n == 1) {
+      return intervals;
     }
+    vector<vector<int>> res;
+    sort(intervals.begin(), intervals.end(),[](const vector<int>& a, const vector<int>& b) {
+      return a[0] < b[0];
+    });
+    vector<int> tmp(2);
+    tmp[0] = intervals[0][0];
+    tmp[1] = intervals[0][1];
+    
+    for (int i = 1; i < n; i++) {
+      if (intervals[i][0] > tmp[1]) {
+        res.push_back(tmp);
+        tmp[0] = intervals[i][0];
+        tmp[1] = intervals[i][1];
+      } else {
+        //tmp[0] = min(tmp[0], intervals[i][0]);
+        tmp[1] = max(tmp[1], intervals[i][1]); 
+      }
+    }
+
+
+    res.push_back(tmp);
+
+
+    return res;
+  }
 };
 
 
-
-/*
-
-XXXXX
-      XXXXX
-   XXXX 
-
-XXXXXXX
-  XXX
-
-XXXX
- XXX
-
-
-
-*/
+// [ ] [ ] [ ] [  ] [  ]
