@@ -1,9 +1,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-      int mid = nums.size()%2 == 0 ? nums.size()/2 - 1 : nums.size()/2;  
-      sort(nums.begin(), nums.end());
-      return nums[mid];
+      unordered_map<int,int> count;
+      for (int num : nums) {
+        count[num]++;
+      }
+      int maxVal = nums[0];
+      int appear = 0;
+      for (pair<int,int> x : count) {
+        if (x.second > appear) {
+          maxVal = x.first;
+          appear = x.second;
+        }
+      }
+      return maxVal;
     }
 };
 
