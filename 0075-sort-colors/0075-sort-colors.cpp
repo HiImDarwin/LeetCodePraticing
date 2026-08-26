@@ -15,18 +15,38 @@ public:
   //   }
   // 
 
+  // void sortColors(vector<int>& nums) {
+  //   int whiteStart = 0;
+  //   int blueStart = nums.size();
+  //   int curr = 0;
+  //   while (curr < nums.size() && curr < blueStart) {
+  //     if (nums[curr] == 0) {
+  //       swap(nums[curr], nums[whiteStart++]);
+  //       curr++;
+  //     } else if (nums[curr] == 2) {
+  //       swap(nums[curr], nums[--blueStart]);
+  //     } else {
+  //       curr++;
+  //     }
+  //   }
+  // }
+
+
   void sortColors(vector<int>& nums) {
-    int whiteStart = 0;
-    int blueStart = nums.size();
-    int curr = 0;
-    while (curr < nums.size() && curr < blueStart) {
-      if (nums[curr] == 0) {
-        swap(nums[curr], nums[whiteStart++]);
-        curr++;
-      } else if (nums[curr] == 2) {
-        swap(nums[curr], nums[--blueStart]);
+    int n = nums.size();
+    int r_idx = 0;
+    int b_idx = n - 1;
+    int idx = 0;
+    while (idx <= b_idx) {
+      if (nums[idx] == 0) {
+        nums[idx] = nums[r_idx];
+        nums[r_idx++] = 0;
+        idx++;
+      } else if (nums[idx] == 2) {
+        nums[idx] = nums[b_idx];
+        nums[b_idx--] = 2;
       } else {
-        curr++;
+        idx++;
       }
     }
   }
@@ -34,11 +54,5 @@ public:
 
 /*
 
-two pointer
-
-[red  white  blue]
-    ^      ^
-
-counting sort
 
 */
