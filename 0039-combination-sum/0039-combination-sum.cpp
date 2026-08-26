@@ -2,13 +2,14 @@ class Solution {
 public:
   vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
     int n = candidates.size();
-    unordered_map<int, vector<vector<int>>> dy(target + 1);
+    vector<vector<vector<int>>> dy(target + 1);
     dy[0]= {{}};
     
     for(int idx = 0; idx < n; idx++) {
-      for(int val = 0; val <= target; val++) {
-        if (dy.find(val - candidates[idx]) != dy.end()) {
-          for(vector<int>& vec :  dy[val - candidates[idx]]) {
+      int candidate = candidates[idx];
+      for(int val = candidate; val <= target; val++) {
+        if (!dy[val - candidate].empty()) {
+          for(const vector<int>& vec :  dy[val - candidates[idx]]) {
             dy[val].push_back(vec);
             dy[val].back().push_back(candidates[idx]);
           }
