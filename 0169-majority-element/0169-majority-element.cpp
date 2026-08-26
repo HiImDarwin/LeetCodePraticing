@@ -1,19 +1,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-      unordered_map<int,int> count;
-      for (int num : nums) {
-        count[num]++;
-      }
-      int maxVal = nums[0];
-      int appear = 0;
-      for (pair<int,int> x : count) {
-        if (x.second > appear) {
-          maxVal = x.first;
-          appear = x.second;
+      int count = 0;
+      int val;
+      for (const int &num : nums) {
+        if (count == 0) {
+          val = num;
+          count++;
+        } else if (num == val) {
+          count++;
+        } else {
+          count--;
         }
       }
-      return maxVal;
+      return val;
     }
 };
 
