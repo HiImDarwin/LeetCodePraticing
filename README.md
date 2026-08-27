@@ -47,6 +47,7 @@ upload the code I write on leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0160-intersection-of-two-linked-lists) |
@@ -119,6 +120,7 @@ upload the code I write on leetcode
 | [0087-scramble-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0131-palindrome-partitioning) |
