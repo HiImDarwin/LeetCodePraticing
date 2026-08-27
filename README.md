@@ -137,6 +137,7 @@ upload the code I write on leetcode
 | [0224-basic-calculator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
 | [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
@@ -450,6 +451,7 @@ upload the code I write on leetcode
 | [0205-isomorphic-strings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0290-word-pattern) |
@@ -1281,6 +1283,7 @@ upload the code I write on leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0295-find-median-from-data-stream) |
