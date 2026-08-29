@@ -2584,4 +2584,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
