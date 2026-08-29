@@ -157,6 +157,7 @@ upload the code I write on leetcode
 | [0408-valid-word-abbreviation](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0459-repeated-substring-pattern) |
@@ -467,6 +468,7 @@ upload the code I write on leetcode
 | [0409-longest-palindrome](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0451-sort-characters-by-frequency) |
@@ -2365,6 +2367,7 @@ upload the code I write on leetcode
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
