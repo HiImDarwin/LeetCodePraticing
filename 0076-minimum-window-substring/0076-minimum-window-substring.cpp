@@ -1,52 +1,75 @@
 class Solution {
 public:
-    string minWindow(string s, string t) {
-      int m = s.length();
-      unordered_map<char,int> table;
-      for(char c: t) {
-        table[c]++;
-      }
-      int start = 0, len = INT_MAX, count = 0;
-      unordered_map<char,int> record;
-      for(int r = 0, l = 0; r < m; r++) {
-        if(table.count(s[r])) {
-          record[s[r]]++;
-          if(record[s[r]] == table[s[r]]) count++;
+  // string minWindow(string s, string t) {
+  //   if(s.empty() || t.empty() || s.size() < t.size()) return "";
+  //   vector<int> map(128,0);
+  //   int count = t.length();
+  //   int start = 0, end = 0, minLen = INT_MAX, startIndex = 0;
+  //   for(char &c : t) {
+  //     map[c]++;
+  //   }
+  //   while(end < s.length()) {
+  //     if(map[s[end++]]-- > 0) {
+  //       count--;
+  //     }
+
+  //     while(count == 0) {
+  //       if(end-start < minLen) {
+  //         startIndex = start;
+  //         minLen = end-start;
+  //       }
+  //       if(map[s[start++]]++ == 0) {
+  //         count++;
+  //       }
+  //     }
+  //   }
+
+  //   return minLen == INT_MAX ? "": s.substr(startIndex, minLen);
+  // }
+  string minWindow(string s, string t) {
+    unordered_map<int, int> tMap;
+    for (char &c : t) {
+      tMap[c]++;
+    }
+    int charCount = tMap.size();
+    int left = -1, right = 0;
+    int minLen = INT_MAX;
+    int startIdx = -1;
+    while (right < s.length()) {
+      if (tMap.find(s[right]) != tMap.end()) {
+        tMap[s[right]]--;
+        if (tMap[s[right]] == 0) {
+          charCount--;
         }
-        
-        if(count == table.size()) {
-          while(l <= r && count == table.size()) {
-            if(r-l+1 < len) {
-              start = l;
-              len = r-l+1;
-            }
-            if(table.count(s[l])) {
-              record[s[l]]--;
-              if(record[s[l]] < table[s[l]]) 
-                count--;
-            }
-            l++;
+      }
+      while (charCount == 0) {
+        left++;
+        if (tMap.find(s[left]) != tMap.end()) {
+          tMap[s[left]]++;
+          if (tMap[s[left]] > 0) {
+            charCount++;
           }
         }
+
+        if (minLen > right - left + 1) {
+          minLen =  right - left + 1;
+          startIdx = left;
+        }
       }
-      return len == INT_MAX ? "" : s.substr(start, len);
+      
+      right++;
     }
+    return minLen == INT_MAX ? "" : s.substr(startIdx, minLen);
+  }
 };
 
 /*
-s m
-t n 
 
-a minimum window that t is included in s (duplicate?)
+substring > continuous string (window)
+minimum window > sliding window
+test case will be unique
 
-1. for a brute way fixed the window size and go for n-window run  
-not find and increase the window size.
-
-2. use character num in window. t got 7 char
-so i go from 7 ~ 26 char in window  O(26N) 
-
-3. just slide the window when the need charactor in window 
-and the minmize the window from left
-
+xxxxxxxxxxxxxxxxxx
+ [.    ]
 
 */
