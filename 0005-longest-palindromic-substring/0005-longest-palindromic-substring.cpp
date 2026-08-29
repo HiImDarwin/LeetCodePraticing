@@ -1,45 +1,49 @@
 class Solution {
 public:
-    string longestPalindrome(string s) {
-      int n = s.length();
-      string t = "#";
-      for (int i = 0; i < n; ++i) {
-        t += s[i];
-        t += '#';
-      }
-      int m = t.length();
-      int maxCenter = -1;
-      int maxRight = -1;
-      vector<int> P(m);
-      for (int i = 0; i < m; ++i) {
-        int r = 0;
-        if (i < maxRight) {
-          int j = maxCenter * 2 - i;
-          r = min(P[j], maxRight - i);
-          while (i - r >= 0 && i + r < m && t[i - r] == t[i + r]) {
-            r++;
-          }
-        } else {
-          r = 0;
-          while (i - r >= 0 && i + r < m && t[i - r] == t[i + r]) {
-            r++;
-          }
-        }
-        P[i] = r - 1;
-        if (i + P[i] > maxRight) {
-          maxCenter = i;
-          maxRight = i + P[i];
-        }
-      }
-      int center = -1;
-      int maxLen = -1;
-      for (int i = 0; i < m; ++i) {
-        if (P[i] > maxLen) {
-          center = i;
-          maxLen = P[i];
-        }
-      }
+  string longestPalindrome(string s) {
+    string t = "^";
 
-      return s.substr(center/2 - maxLen/2 , maxLen);
+    for (char &c : s) {
+      t += '#';
+      t += c;
     }
+    t += "#$";
+
+    int n = t.length();
+    int center = 1,right = 1;
+    vector<int> P(n,0);
+
+    for (int i = 2; i < n - 1; i++) {
+      int mirr = center * 2 - i;
+      if (i < right) {
+        P[i] = min(P[mirr], right - i);
+      }
+      while ((i + P[i] + 1 < n) && (i - P[i] - 1 >= 0) &&
+          t[i + P[i] + 1] == t[i - P[i] - 1]) {
+        P[i]++;
+      }
+      if (i + P[i] > right) {
+        center = i;
+        right = i + P[i];
+      }
+    }
+    int idx = 0;
+    int len = 0;
+    for (int j = 1; j < n - 1; j++) {
+      if (P[j] > len) {
+        len = P[j];
+        idx = j;
+      }
+    }
+
+    return s.substr((idx-P[idx])/2,len);
+  }
 };
+
+
+/*
+
+^#a#b#c#b#a#$
+idx = 6
+p[idx]= 5
+*/
