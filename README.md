@@ -1937,6 +1937,7 @@ upload the code I write on leetcode
 | [0268-missing-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
 | [0275-h-index-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -2416,6 +2417,7 @@ upload the code I write on leetcode
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0374-guess-number-higher-or-lower) |
 | [0865-robot-room-cleaner](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0865-robot-room-cleaner) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1672-find-the-index-of-the-large-integer) |
