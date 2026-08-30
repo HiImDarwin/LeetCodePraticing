@@ -776,6 +776,7 @@ upload the code I write on leetcode
 | [0682-baseball-game](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1954,6 +1955,7 @@ upload the code I write on leetcode
 | [0611-valid-triangle-number](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
