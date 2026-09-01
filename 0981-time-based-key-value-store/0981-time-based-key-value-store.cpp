@@ -6,24 +6,29 @@ public:
   
   void set(string key, string value, int timestamp) {
     if (key_bucket.find(key) == key_bucket.end()) {
-      key_bucket[key] = map<int,string>();
+      key_bucket[key] = vector<pair<int,string>>();
     }
-    key_bucket[key].insert({timestamp, value});
+    key_bucket[key].push_back({timestamp, value});
   }
   
   string get(string key, int timestamp) {
     if (key_bucket.find(key) == key_bucket.end()) {
       return "";
     }
-    map<int, string> &tmp = key_bucket[key];
-    auto it = tmp.upper_bound(timestamp);
-    if (it == tmp.begin()) {
-      return "";
+    vector<pair<int, string>> &tmp = key_bucket[key];
+    int left = 0, right = tmp.size() - 1;
+    while (left < right) {
+      int mid = right - (right - left) / 2;
+      if (tmp[mid].first > timestamp) {
+        right = mid - 1;
+      } else {
+        left = mid;
+      }
     }
-    return  (--it)->second;
+    return tmp[left].first > timestamp ? "" : tmp[left].second;
   }
 private:
-  unordered_map<string,map<int,string>> key_bucket;
+  unordered_map<string,vector<pair<int,string>>> key_bucket;
 };
 
 /**
