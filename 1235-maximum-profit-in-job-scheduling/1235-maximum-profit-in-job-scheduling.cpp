@@ -7,23 +7,29 @@ public:
       jobs.push_back({endTime[i], startTime[i], profit[i]});
     }
     sort(jobs.begin(), jobs.end());
-    map<int,int> mp;
-    mp[0] = 0;
+    vector<int> dp(n + 1, 0);
 
     int res = 0;
-    for (auto & vec : jobs) {
-      int end = vec[0];
-      int start = vec[1];
-      int pro = vec[2];
-
-      auto it = mp.upper_bound(start);
-      it--;
-      int maxProfit = max(it->second + pro, mp.rbegin()->second);
-      mp[end] = maxProfit;
-      res = max(res, maxProfit); 
+    for (int i = 0; i < jobs.size(); i++) {
+      int end = jobs[i][0];
+      int start = jobs[i][1];
+      int pro = jobs[i][2];
+      int left = 0, right = i;
+      while (left < right) {
+        int mid = right - (right - left) / 2;
+        if (jobs[mid][0] > start) {
+          right = mid - 1;
+        } else {
+          left = mid;
+        }
+      }
+      if (jobs[left][0] > start) {
+        left = -1;
+      }
+      dp[i + 1] = max(dp[i], pro + dp[left + 1]); 
     }
  
-    return res;
+    return dp[n];
   }
 };
 
