@@ -349,6 +349,7 @@ upload the code I write on leetcode
 | [1224-minimum-falling-path-sum-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1240-stone-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1250-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -848,6 +849,7 @@ upload the code I write on leetcode
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1234-number-of-paths-with-max-score](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1234-number-of-paths-with-max-score) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1240-stone-game-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -1336,6 +1338,7 @@ upload the code I write on leetcode
 | [1217-relative-sort-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1222-remove-covered-intervals) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1308-smallest-string-with-swaps) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -1976,6 +1979,7 @@ upload the code I write on leetcode
 | [1059-missing-element-in-sorted-array](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1059-missing-element-in-sorted-array) |
 | [1099-path-with-maximum-minimum-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1099-path-with-maximum-minimum-value) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
