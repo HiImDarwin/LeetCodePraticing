@@ -2612,4 +2612,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
