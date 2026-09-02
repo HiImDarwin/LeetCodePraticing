@@ -2,11 +2,8 @@ class Solution {
 private:
 
 struct disjoint {
-  disjoint(int nodeNum) {
-    par.resize(nodeNum);
-    for (int i = 0; i < nodeNum; i++) {
-      par[i] = i;
-    }
+  disjoint(int nodeNum): par(nodeNum) {
+    iota(par.begin(), par.end(), 0);
   }
   vector<int> par;
   int find(int x) {
@@ -27,44 +24,44 @@ public:
   vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
     int n = accounts.size();
     struct disjoint dsj(n);
-    unordered_map<string,vector<int>> mp;
-    for (int i = 0; i < n; i++) {
+    unordered_map<string,int> emailOwner;
+
+    for(int i = 0; i < n; i++) {
       for (int j = 1; j < accounts[i].size(); j++) {
-        mp[accounts[i][j]].push_back(i);
-      }
-    }
-    for (auto node : mp) {
-      if (node.second.size() == 1) {
-        continue;
-      }
-      for (int i = 0; i < node.second.size(); i++) {
-        dsj.uni(node.second[0],  node.second[i]);
+        string &email = accounts[i][j];
+        if (emailOwner.count(email) == 0) {
+          emailOwner[email] = i;
+        } else {
+          dsj.uni(i, emailOwner[email]);
+        }
       }
     }
 
-    unordered_map<int,set<string>> newAccounts;
-
-    for (int i = 0; i < n; i++) {
-      int idx = dsj.find(i);
-      for(int j = 1; j < accounts[i].size(); j++) {
-        newAccounts[idx].insert(accounts[i][j]);
-      }
+    unordered_map<int, vector<string>> groups;
+    for (auto& [email, owner] : emailOwner) {
+      int root = dsj.find(owner);
+      groups[root].push_back(email);
     }
+
     vector<vector<string>> res;
-    for (auto s : newAccounts) {
-      vector<string> tmp;
-      tmp.push_back(accounts[s.first][0]);
-      tmp.insert(tmp.end(), s.second.begin(), s.second.end());
-      res.push_back(tmp);
-    }
+    
+    for (auto& [idx , vec] : groups) {
+      sort(vec.begin(), vec.end());
+      vector<string> accout;
+      accout.push_back(accounts[idx][0]);
+      accout.insert(accout.end(),
+        vec.begin(),
+        vec.end()
+      );
 
+      res.push_back(move(accout));
+    }
     return res;
   }
 };
 
 
 
-
-// for the same name view as node may connect
-// same account name only show once
-// unordered_map<string, vector<int>> account link with name index
+// multi name may be in same group (and may not) > so should use index to distinct each one
+// each email is unique
+// email is the link between multi name 
