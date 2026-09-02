@@ -172,6 +172,7 @@ upload the code I write on leetcode
 | [0647-palindromic-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
@@ -483,6 +484,7 @@ upload the code I write on leetcode
 | [0560-subarray-sum-equals-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0782-jewels-and-stones) |
@@ -784,6 +786,7 @@ upload the code I write on leetcode
 | [0713-subarray-product-less-than-k](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0739-daily-temperatures) |
@@ -1323,6 +1326,7 @@ upload the code I write on leetcode
 | [0628-maximum-product-of-three-numbers](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0778-reorganize-string) |
 | [0894-random-pick-with-blacklist](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0900-reordered-power-of-2) |
@@ -1601,6 +1605,7 @@ upload the code I write on leetcode
 | [0655-print-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0655-print-binary-tree) |
 | [0684-redundant-connection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -1705,6 +1710,7 @@ upload the code I write on leetcode
 | [0684-redundant-connection](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -2616,4 +2622,5 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
