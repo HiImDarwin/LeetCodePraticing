@@ -1,31 +1,37 @@
 class Solution {
 public:
-    int numIslands(vector<vector<char>>& grid) {
-        m = grid.size();
-        n = grid[0].size();
-        int count = 0;
-        for(int i=0;i<m;i++) {
-            for(int j=0;j<n;j++) {
-                if(grid[i][j] == '1') {
-                    DFS(grid,i,j);
-                    count++;
-                }
-            }
+  int numIslands(vector<vector<char>>& grid) {
+    int islandCount = 0;
+    for (int i = 0; i < grid.size(); i++) {
+      for(int j = 0; j < grid[0].size(); j++) {
+        if (grid[i][j] == '1') {
+          bfs(grid, i, j);
+          islandCount++;
         }
-        return count;
+      }
     }
-private:
-    int m;
-    int n;
-    const vector<pair<int,int>> dirs = {{1,0},{-1,0},{0,1},{0,-1}};
-    void DFS(vector<vector<char>>& grid, int x, int y) {
-        grid[x][y] = 0;
-        for(const pair<int,int> &p: dirs) {
-            int nx = x+p.first;
-            int ny = y+p.second;
-            if(nx>=0 && nx<m && ny>=0 && ny<n && grid[nx][ny]== '1') {
-                DFS(grid,nx,ny);
-            }
+    return islandCount;
+  }
+
+  void bfs(vector<vector<char>>& grid, int x, int y) {
+    queue<pair<int,int>> qu;
+    qu.push({x,y});
+    grid[x][y] = '2';
+    while(!qu.empty()) {
+      auto [x, y] = qu.front();
+      qu.pop();
+      for (auto [dx, dy] : dir) {
+        int neiX = x + dx;
+        int neiY = y + dy;
+        if (neiX < 0 || neiY < 0 || neiX >= grid.size() || 
+            neiY >= grid[0].size() || grid[neiX][neiY] != '1') {
+          continue;
         }
+        grid[neiX][neiY] = '2';
+        qu.push({neiX, neiY});
+      }
     }
+  }
+
+  vector<pair<int,int>> dir = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 };
