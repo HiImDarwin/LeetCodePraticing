@@ -21,20 +21,33 @@ public:
 
 class Solution {
 public:
-    Node* cloneGraph(Node* node) {
-      unordered_map<Node*,Node*> visited;
-      if (!node) return nullptr;
-      return DFS(node, visited);
+  Node* cloneGraph(Node* node) {
+    if (node == nullptr) {
+      return nullptr;
     }
-    Node* DFS(Node* referenceNode, unordered_map<Node*,Node*>& visited) {
-      if (visited.find(referenceNode) != visited.end()) {
-        return visited[referenceNode];
+    unordered_map<int, Node*> mp;
+    Node *newNode = new Node(node->val);
+    mp[node->val] = newNode;
+    queue<Node*> qu;
+    qu.push(node);
+    while (!qu.empty()) {
+      auto oldNode = qu.front();
+      qu.pop();
+      Node *cur = mp[oldNode->val];
+      for (auto &nei : oldNode->neighbors) {
+        if (mp.find(nei->val) == mp.end()) {
+          Node *newNei = new Node(nei->val);
+          mp[nei->val] = newNei;
+          qu.push(nei);
+        }
+        cur->neighbors.push_back(mp[nei->val]);
       }
-      Node* node = new Node(referenceNode->val);
-      visited[referenceNode] = node;
-      for (auto originalNeighbor : referenceNode->neighbors) {
-        node->neighbors.push_back(DFS(originalNeighbor, visited));
-      }
-      return node;
     }
+
+    return mp[1];
+  }
+  
+
 };
+
+// every link need travel twice > every neighbor will look back
