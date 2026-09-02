@@ -15,20 +15,16 @@ public:
     }
 
     while (!qu.empty()) {
-      int round = qu.size();
-      while (round > 0) {
-        auto [x, y] = qu.front();
-        qu.pop();
-        round--;
-        for (auto [dx, dy] : dir) {
-          int nx = x + dx;
-          int ny = y + dy;
-          if (nx < 0 || ny < 0 || nx >= m || ny >= n || mat[nx][ny] != -1) {
-            continue;
-          }
-          mat[nx][ny] = mat[x][y] + 1;
-          qu.push({nx, ny});
+      auto [x, y] = qu.front();
+      qu.pop();
+      for (auto [dx, dy] : dir) {
+        int nx = x + dx;
+        int ny = y + dy;
+        if (nx < 0 || ny < 0 || nx >= m || ny >= n || mat[nx][ny] != -1) {
+          continue;
         }
+        mat[nx][ny] = mat[x][y] + 1;
+        qu.push({nx, ny});
       }
     }
     return mat; 
