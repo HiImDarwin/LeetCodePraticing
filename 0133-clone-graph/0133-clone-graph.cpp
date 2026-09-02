@@ -25,28 +25,19 @@ public:
     if (node == nullptr) {
       return nullptr;
     }
-    unordered_map<int, Node*> mp;
-    Node *newNode = new Node(node->val);
-    mp[node->val] = newNode;
-    queue<Node*> qu;
-    qu.push(node);
-    while (!qu.empty()) {
-      auto oldNode = qu.front();
-      qu.pop();
-      Node *cur = mp[oldNode->val];
-      for (auto &nei : oldNode->neighbors) {
-        if (mp.find(nei->val) == mp.end()) {
-          Node *newNei = new Node(nei->val);
-          mp[nei->val] = newNei;
-          qu.push(nei);
-        }
-        cur->neighbors.push_back(mp[nei->val]);
-      }
+    if (cloned.count(node)) {
+      return cloned[node];
+    }
+    Node* copy = new Node(node->val);
+    cloned[node] = copy;
+    for (auto nei: node->neighbors) {
+      copy->neighbors.push_back(cloneGraph(nei));
     }
 
-    return mp[1];
+    return copy;
   }
-  
+private:
+  unordered_map<Node*, Node*> cloned;
 
 };
 
