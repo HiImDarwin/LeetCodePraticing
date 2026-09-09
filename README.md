@@ -2614,6 +2614,7 @@ upload the code I write on leetcode
 | ------- |
 | [0133-clone-graph](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
