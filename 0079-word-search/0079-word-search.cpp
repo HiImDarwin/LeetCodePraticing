@@ -1,11 +1,9 @@
 class Solution {
-  vector<vector<bool>> used;
   vector<pair<int, int>> dir = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
 public:
   bool exist(vector<vector<char>>& board, string word) {
     int m = board.size();
     int n = board[0].size();
-    used.assign(m, vector<bool>(n, false));
     for (int i = 0; i < board.size(); i++) {
       for (int j = 0; j < board[0].size(); j++) {
         if (board[i][j] == word[0] && dfs(board, word, 0, i, j)) {
@@ -19,13 +17,10 @@ public:
     if (idx == word.length()) {
       return true;
     } else if(x < 0 || y < 0 || x >= board.size() || 
-          y >= board[0].size() || used[x][y]) {
+          y >= board[0].size() || word[idx] != board[x][y]) {
         return false; 
-    } else if (word[idx] != board[x][y]) {
-      return false;
-    }
-
-    used[x][y] = true;
+    } 
+    board[x][y] = '#';
     bool res = false;
     for (const auto& [dx, dy] : dir) {
       int nei_x = x + dx;
@@ -34,7 +29,7 @@ public:
         return true;
       }
     }
-    used[x][y] = false;
+    board[x][y] = word[idx];
     return false;
   }
 };
