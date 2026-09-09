@@ -1,52 +1,56 @@
 class Solution {
 public:
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-      unordered_map<string,vector<string>> routeMap;
-      int m = beginWord.length();
-      // O()
-      for (int i = 0; i < m; i++) {
-        for (const string& word : wordList) {
-          string tmp = word;
-          tmp[i] = '*';
-          routeMap[tmp].push_back(word);
-        }
-      }
-      unordered_set<string> visited;
-      queue<pair<string,int>> qu;
-      qu.push({beginWord,1});
-      visited.insert(beginWord);
-      while (!qu.empty()) {
-        auto [node, numOfWord] = qu.front();
-        qu.pop();
-        if (node == endWord) {
-          return numOfWord;
-        }
-        for (int i = 0; i < m; i++) {
-          int c = node[i];
-          node[i] = '*';
-          for (auto& nei : routeMap[node]) {
-            if (visited.count(nei)) {
-              continue;
-            }
-            qu.push({nei, numOfWord + 1});
-            visited.insert(nei);
-          }
-          node[i] = c;
-        }
-      }
+  int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+    int n = wordList.size();
+    unordered_map<string, vector<int>> link;
+    vector<bool> visited(n, false);
+    queue<int> qu;
 
-      return 0;
+    for (int j = 0; j < n; j++) {
+      string word = wordList[j];
+      for (int i = 0; i < word.length(); i++) {
+        string tmp = word;
+        tmp[i] = '*';
+        link[tmp].push_back(j);
+      }
+      if (word == beginWord) {
+        qu.push(j);
+        visited[j] = true;
+      }
     }
+    if (qu.empty()) {
+      wordList.push_back(beginWord);
+      qu.push(n);
+    }
+
+    int res = 0;
+    while(!qu.empty()) {
+      res++;
+      int size = qu.size();
+      while (size > 0) {
+        int idx = qu.front();
+        qu.pop();
+        size--;
+        if (wordList[idx] == endWord) {
+          return res;
+        } 
+        for (int j = 0; j < wordList[idx].length(); j++) {
+          string tmp = wordList[idx];
+          tmp[j] = '*';
+          for (auto &nei : link[tmp]) {
+            if (visited[nei] != true) {
+              qu.push(nei);
+              visited[nei] = true;
+            }
+          }
+        }
+      }
+    }
+    
+    return 0;
+  }
 };
 
 
-/*
-  dfs
-  hot dot dog lot log cog
-  *ot: hot dot log
-  *og: dog log cog
-  h*t: hot
-  d*t: dot
+// word is node and the *xx is the link between thoose node
 
-
-*/
