@@ -2623,4 +2623,8 @@ upload the code I write on leetcode
 | ------- |
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0721-accounts-merge) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
