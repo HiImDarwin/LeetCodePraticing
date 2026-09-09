@@ -1,31 +1,43 @@
 class Solution {
-  public:
-    bool exist(vector<vector<char>>& board, string word) {
-      for(int i = 0; i < board.size(); ++i) {
-        for(int j = 0; j < board[0].size(); ++j) {
-          if(board[i][j] == word[0] && DFS(board, word, i, j, 0)) 
-            return true;
+  vector<vector<bool>> used;
+  vector<pair<int, int>> dir = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
+public:
+  bool exist(vector<vector<char>>& board, string word) {
+    int m = board.size();
+    int n = board[0].size();
+    used.assign(m, vector<bool>(n, false));
+    for (int i = 0; i < board.size(); i++) {
+      for (int j = 0; j < board[0].size(); j++) {
+        if (board[i][j] == word[0] && dfs(board, word, 0, i, j)) {
+          return true;
         }
       }
+    }
+    return false;
+  }
+  bool dfs(vector<vector<char>>& board, string& word, int idx, int x, int y) {
+    if (idx == word.length()) {
+      return true;
+    } else if(x < 0 || y < 0 || x >= board.size() || 
+          y >= board[0].size() || used[x][y]) {
+        return false; 
+    } else if (word[idx] != board[x][y]) {
       return false;
     }
-  private:
-    bool DFS(vector<vector<char>>& board, string& word, int xIdx, int yIdx, int index) {
-      if(xIdx <0 || xIdx == board.size() || yIdx < 0 || yIdx == board[0].size()) return false;
-      if(board[xIdx][yIdx] == word[index]) {
-        if (index == word.size()-1) return true;
-      } else {
-        return false;
-      }
-      char c = board[xIdx][yIdx] ;
-      board[xIdx][yIdx] = '#';
 
-      bool result = false;
-      result = DFS(board,word,xIdx+1,yIdx,index+1) ||
-               DFS(board,word,xIdx-1,yIdx,index+1) ||
-               DFS(board,word,xIdx,yIdx+1,index+1) ||
-               DFS(board,word,xIdx,yIdx-1,index+1);
-      board[xIdx][yIdx] = c;
-      return result;
+    used[x][y] = true;
+    bool res = false;
+    for (const auto& [dx, dy] : dir) {
+      int nei_x = x + dx;
+      int nei_y = y + dy;
+      if (dfs(board, word, idx + 1, nei_x, nei_y)) {
+        return true;
+      }
     }
+    used[x][y] = false;
+    return false;
+  }
 };
+
+// DFS
+// DFS + 狀態壓縮
