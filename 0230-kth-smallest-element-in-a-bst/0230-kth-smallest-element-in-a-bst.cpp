@@ -12,17 +12,18 @@
 class Solution {
 public:
   int kthSmallest(TreeNode* root, int k) {
-      return inOrder(root, k);
+      return inOrder(root, k).value();
   }
 
-  int inOrder(TreeNode* root, int& k) {
+  std::optional<int> inOrder(TreeNode* root, int& k) {
     if (!root) {
-      return 0;
+      return std::nullopt;
     }
-    int val = 0;
-    val = inOrder(root->left, k);
-    if(val) {
-      return val;
+
+    auto left = inOrder(root->left, k);
+
+    if(left.has_value()) {
+      return left;
     }
     k--;
     if (k == 0) {
