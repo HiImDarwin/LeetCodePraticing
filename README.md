@@ -1680,6 +1680,7 @@ upload the code I write on leetcode
 | [0200-number-of-islands](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
@@ -2046,6 +2047,7 @@ upload the code I write on leetcode
 | [0156-binary-tree-upside-down](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0156-binary-tree-upside-down) |
 | [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
@@ -2101,6 +2103,7 @@ upload the code I write on leetcode
 | [0099-recover-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -2132,6 +2135,7 @@ upload the code I write on leetcode
 | [0156-binary-tree-upside-down](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0156-binary-tree-upside-down) |
 | [0173-binary-search-tree-iterator](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
