@@ -1709,6 +1709,7 @@ upload the code I write on leetcode
 | [0501-find-mode-in-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0529-minesweeper](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0529-minesweeper) |
 | [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
+| [0543-diameter-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0547-number-of-provinces) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
@@ -2070,6 +2071,7 @@ upload the code I write on leetcode
 | [0450-delete-node-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
+| [0543-diameter-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0543-diameter-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0655-print-binary-tree) |
@@ -2161,6 +2163,7 @@ upload the code I write on leetcode
 | [0450-delete-node-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0536-construct-binary-tree-from-string](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0536-construct-binary-tree-from-string) |
+| [0543-diameter-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0543-diameter-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0572-subtree-of-another-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0655-print-binary-tree) |
@@ -2653,4 +2656,8 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
