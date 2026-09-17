@@ -1686,6 +1686,7 @@ upload the code I write on leetcode
 | [0226-invert-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0269-alien-dictionary) |
@@ -2056,6 +2057,7 @@ upload the code I write on leetcode
 | [0226-invert-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -2147,6 +2149,7 @@ upload the code I write on leetcode
 | [0226-invert-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -2642,4 +2645,12 @@ upload the code I write on leetcode
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0127-word-ladder) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HiImDarwin/LeetCodePraticing/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
